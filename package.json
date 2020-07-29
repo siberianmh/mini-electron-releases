@@ -8,7 +8,7 @@
   "scripts": {
     "build": "yarn collect && yarn update-docs",
     "collect": "ts-node ./script/collect.ts",
-    "update-docs": "ts-node ./script/update-readme.ts",
+    "update-docs": "ts-node ./script/update-docs.ts",
     "release": "./script/release.sh"
   },
   "devDependencies": {
