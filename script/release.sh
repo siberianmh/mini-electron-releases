@@ -5,7 +5,7 @@ set -o errexit    # always exit on error
 set -o pipefail   # honor exit codes when piping
 set -o nounset    # fail on unset variables
 
-git clone "https://pacificocean-bot:$GH_TOKEN@github.com/HashimotoYT/e-releases" module
+git clone "https://pacificocean-bot:$GH_TOKEN@github.com/HashimotoYT/mini-electron-releases" module
 cd module
 yarn
 
