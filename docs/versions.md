@@ -96,6 +96,7 @@
 |[v10.0.0-nightly.20200211](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200211)|2020-02-11||electron-nightly|yes|12.15.0|82|
 |[v10.0.0-nightly.20200210](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200210)|2020-02-10||electron-nightly|yes|12.14.1|82|
 |[v10.0.0-nightly.20200209](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200209)|2020-02-09||electron-nightly|yes|12.14.1|82|
+|[v10.0.0-beta.20](https://github.com/electron/electron/releases/tag/v10.0.0-beta.20)|2020-08-10||NFUSINGv2|yes|12.16.3|85|
 |[v10.0.0-beta.19](https://github.com/electron/electron/releases/tag/v10.0.0-beta.19)|2020-08-06|beta, beta-10-x-y|electron|yes|12.16.3|85|
 |[v10.0.0-beta.17](https://github.com/electron/electron/releases/tag/v10.0.0-beta.17)|2020-08-03||electron|yes|12.16.3|85|
 |[v10.0.0-beta.15](https://github.com/electron/electron/releases/tag/v10.0.0-beta.15)|2020-07-29||electron|yes|12.16.3|85|
