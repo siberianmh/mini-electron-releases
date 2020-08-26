@@ -3,8 +3,9 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
+|[v11.0.0-nightly.20200826](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200826)|2020-08-26|nightly|electron-nightly|yes|12.18.3|86|
 |[v11.0.0-nightly.20200825](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200825)|2020-08-25||NFUSINGv2|yes|12.18.3|86|
-|[v11.0.0-nightly.20200824](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200824)|2020-08-24|nightly|electron-nightly|yes|12.18.3|86|
+|[v11.0.0-nightly.20200824](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200824)|2020-08-24||electron-nightly|yes|12.18.3|86|
 |[v11.0.0-nightly.20200822](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200822)|2020-08-23||electron-nightly|yes|12.18.3|86|
 |[v11.0.0-nightly.20200812](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200812)|2020-08-12||electron-nightly|yes|12.18.3|86|
 |[v11.0.0-nightly.20200811](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200811)|2020-08-11||electron-nightly|yes|12.18.3|86|
@@ -460,7 +461,7 @@
 |[v4.0.0-beta.3](https://github.com/electron/electron/releases/tag/v4.0.0-beta.3)|2018-10-12||electron|yes|10.11.0|69|
 |[v4.0.0-beta.2](https://github.com/electron/electron/releases/tag/v4.0.0-beta.2)|2018-10-12||electron|yes|10.11.0|69|
 |[v4.0.0-beta.1](https://github.com/electron/electron/releases/tag/v4.0.0-beta.1)|2018-10-11||electron|yes|10.11.0|69|
-|[v3.1.13](https://github.com/electron/electron/releases/tag/v3.1.13)|2019-07-31|HEAD|electron|no|10.2.0|66|
+|[v3.1.13](https://github.com/electron/electron/releases/tag/v3.1.13)|2019-07-31||electron|no|10.2.0|66|
 |[v3.1.12](https://github.com/electron/electron/releases/tag/v3.1.12)|2019-07-11|3-1-x|electron|no|10.2.0|66|
 |[v3.1.11](https://github.com/electron/electron/releases/tag/v3.1.11)|2019-06-06||electron|no|10.2.0|66|
 |[v3.1.10](https://github.com/electron/electron/releases/tag/v3.1.10)|2019-05-29||electron|no|10.2.0|66|
