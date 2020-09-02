@@ -6,7 +6,7 @@
     "prerelease": true,
     "published_at": "2020-09-02T18:49:56Z",
     "version": "12.0.0-nightly.20200902",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron-nightly",
     "deps": {
       "node": "12.18.3",
       "v8": "8.6.373-electron.0",
@@ -16,7 +16,9 @@
       "modules": "82",
       "chrome": "86.0.4234.0"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "nightly"
+    ]
   },
   {
     "node_id": "MDc6UmVsZWFzZTMwNDQxMjE0",
@@ -35,9 +37,7 @@
       "modules": "82",
       "chrome": "86.0.4234.0"
     },
-    "npm_dist_tags": [
-      "nightly"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTMwMjIzNzI5",
