@@ -3985,6 +3985,25 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTMxMzYwMDU1",
+    "tag_name": "v8.5.2",
+    "name": "electron v8.5.2",
+    "prerelease": false,
+    "published_at": "2020-09-16T01:49:34Z",
+    "version": "8.5.2",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "12.13.0",
+      "v8": "8.0.426.27-electron.0",
+      "uv": "1.32.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "76",
+      "chrome": "80.0.3987.165"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTMwNjE0NDE3",
     "tag_name": "v8.5.1",
     "name": "electron v8.5.1",
