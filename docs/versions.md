@@ -212,7 +212,8 @@
 |[v9.0.0-beta.3](https://github.com/electron/electron/releases/tag/v9.0.0-beta.3)|2020-02-26||electron|yes|12.14.1|82|
 |[v9.0.0-beta.2](https://github.com/electron/electron/releases/tag/v9.0.0-beta.2)|2020-02-16||electron|yes|12.14.1|82|
 |[v9.0.0-beta.1](https://github.com/electron/electron/releases/tag/v9.0.0-beta.1)|2020-02-10||electron|yes|12.14.1|82|
-|[v8.5.1](https://github.com/electron/electron/releases/tag/v8.5.1)|2020-09-03|8-x-y|electron|no|12.13.0|80|
+|[v8.5.2](https://github.com/electron/electron/releases/tag/v8.5.2)|2020-09-22|8-x-y|electron|no|12.13.0|80|
+|[v8.5.1](https://github.com/electron/electron/releases/tag/v8.5.1)|2020-09-03||electron|no|12.13.0|80|
 |[v8.5.0](https://github.com/electron/electron/releases/tag/v8.5.0)|2020-08-07||electron|no|12.13.0|80|
 |[v8.4.1](https://github.com/electron/electron/releases/tag/v8.4.1)|2020-07-23||electron|no|12.13.0|80|
 |[v8.4.0](https://github.com/electron/electron/releases/tag/v8.4.0)|2020-07-07||electron|no|12.13.0|80|
