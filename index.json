@@ -7098,6 +7098,16 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTIzODc2ODU5",
+    "tag_name": "v6.1.8",
+    "name": "electron v6.1.8",
+    "prerelease": false,
+    "published_at": "2020-02-21T15:51:43Z",
+    "version": "6.1.8",
+    "npm_package_name": "electron",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTIyMjczNDIz",
     "tag_name": "v6.1.7",
     "name": "electron v6.1.7",

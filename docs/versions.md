@@ -375,6 +375,7 @@
 |[v6.1.10](https://github.com/electron/electron/releases/tag/v6.1.10)|2020-04-14||electron|no|12.4.0|76|
 |[v6.1.9](https://github.com/electron/electron/releases/tag/v6.1.9)|2020-02-28||electron|no|12.4.0|76|
 |[v6.1.8](https://github.com/electron/electron/releases/tag/v6.1.8)|2020-02-21||electron|no|12.4.0|76|
+|[v6.1.8](https://github.com/electron/electron/releases/tag/v6.1.8)|2020-02-21||electron|no|||
 |[v6.1.7](https://github.com/electron/electron/releases/tag/v6.1.7)|2019-12-17||electron|no|12.4.0|76|
 |[v6.1.6](https://github.com/electron/electron/releases/tag/v6.1.6)|2019-12-11||electron|no|12.4.0|76|
 |[v6.1.5](https://github.com/electron/electron/releases/tag/v6.1.5)|2019-11-21||electron|no|12.4.0|76|
