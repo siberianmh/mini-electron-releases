@@ -401,6 +401,16 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTM0MDA1NzY3",
+    "tag_name": "v11.0.0",
+    "name": "electron v11.0.0",
+    "prerelease": false,
+    "published_at": "2020-11-16T17:14:15Z",
+    "version": "11.0.0",
+    "npm_package_name": "NFUSINGv2",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTMwMTU5NjAw",
     "tag_name": "v11.0.0-nightly.20200826",
     "name": "electron v11.0.0-nightly.20200826",
