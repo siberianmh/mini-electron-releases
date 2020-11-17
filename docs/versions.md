@@ -25,7 +25,8 @@
 |[v12.0.0-nightly.20200902](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200902)|2020-09-02||electron-nightly|yes|12.18.3|86|
 |[v12.0.0-nightly.20200831](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200831)|2020-08-31||electron-nightly|yes|12.18.3|86|
 |[v12.0.0-nightly.20200827](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200827)|2020-08-27||electron-nightly|yes|12.18.3|86|
-|[v11.0.0](https://github.com/electron/electron/releases/tag/v11.0.0)|2020-11-16|latest, 11-x-y|electron|no|12.18.3|87|
+|[v11.0.1](https://github.com/electron/electron/releases/tag/v11.0.1)|2020-11-17|latest, 11-x-y|electron|no|12.18.3|87|
+|[v11.0.0](https://github.com/electron/electron/releases/tag/v11.0.0)|2020-11-16||electron|no|12.18.3|87|
 |[v11.0.0-nightly.20200826](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200826)|2020-08-26||electron-nightly|yes|12.18.3|86|
 |[v11.0.0-nightly.20200825](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200825)|2020-08-25||NFUSINGv2|yes|12.18.3|86|
 |[v11.0.0-nightly.20200824](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200824)|2020-08-24||electron-nightly|yes|12.18.3|86|
@@ -245,8 +246,8 @@
 |[v9.0.0-beta.3](https://github.com/electron/electron/releases/tag/v9.0.0-beta.3)|2020-02-26||electron|yes|12.14.1|82|
 |[v9.0.0-beta.2](https://github.com/electron/electron/releases/tag/v9.0.0-beta.2)|2020-02-16||electron|yes|12.14.1|82|
 |[v9.0.0-beta.1](https://github.com/electron/electron/releases/tag/v9.0.0-beta.1)|2020-02-10||electron|yes|12.14.1|82|
-|[v8.5.4](https://github.com/electron/electron/releases/tag/v8.5.4)|2020-11-17||NFUSINGv2|no|12.13.0|80|
-|[v8.5.3](https://github.com/electron/electron/releases/tag/v8.5.3)|2020-10-30|8-x-y|electron|no|12.13.0|80|
+|[v8.5.4](https://github.com/electron/electron/releases/tag/v8.5.4)|2020-11-17|8-x-y|electron|no|12.13.0|80|
+|[v8.5.3](https://github.com/electron/electron/releases/tag/v8.5.3)|2020-10-30||electron|no|12.13.0|80|
 |[v8.5.2](https://github.com/electron/electron/releases/tag/v8.5.2)|2020-09-22||electron|no|12.13.0|80|
 |[v8.5.1](https://github.com/electron/electron/releases/tag/v8.5.1)|2020-09-03||electron|no|12.13.0|80|
 |[v8.5.0](https://github.com/electron/electron/releases/tag/v8.5.0)|2020-08-07||electron|no|12.13.0|80|
