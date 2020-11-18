@@ -1553,7 +1553,7 @@
     "prerelease": false,
     "published_at": "2020-11-18T17:40:59Z",
     "version": "10.1.6",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron",
     "deps": {
       "node": "12.16.3",
       "v8": "8.5.210.26-electron.0",
@@ -1563,7 +1563,9 @@
       "modules": "82",
       "chrome": "85.0.4183.121"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "10-x-y"
+    ]
   },
   {
     "node_id": "MDc6UmVsZWFzZTMyOTkwMTcz",
@@ -1582,9 +1584,7 @@
       "modules": "82",
       "chrome": "85.0.4183.121"
     },
-    "npm_dist_tags": [
-      "10-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTMyNzgzMDI1",
