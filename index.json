@@ -461,6 +461,28 @@
     ]
   },
   {
+    "node_id": "MDc6UmVsZWFzZTM0MTkwMjcy",
+    "tag_name": "v11.0.2",
+    "name": "electron v11.0.2",
+    "prerelease": false,
+    "published_at": "2020-11-19T21:53:51Z",
+    "version": "11.0.2",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "12.18.3",
+      "v8": "8.7.220.25-electron.0",
+      "uv": "1.38.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "85",
+      "chrome": "87.0.4280.67"
+    },
+    "npm_dist_tags": [
+      "latest",
+      "11-x-y"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTM0MDQ5MjEz",
     "tag_name": "v11.0.1",
     "name": "electron v11.0.1",
@@ -477,10 +499,7 @@
       "modules": "85",
       "chrome": "87.0.4280.60"
     },
-    "npm_dist_tags": [
-      "latest",
-      "11-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTM0MDA1NzY3",

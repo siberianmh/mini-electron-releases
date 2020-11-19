@@ -27,7 +27,8 @@
 |[v12.0.0-nightly.20200831](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200831)|2020-08-31||electron-nightly|yes|12.18.3|86|
 |[v12.0.0-nightly.20200827](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200827)|2020-08-27||electron-nightly|yes|12.18.3|86|
 |[v12.0.0-beta.1](https://github.com/electron/electron/releases/tag/v12.0.0-beta.1)|2020-11-19|beta, beta-12-x-y|electron|yes|14.15.1|89|
-|[v11.0.1](https://github.com/electron/electron/releases/tag/v11.0.1)|2020-11-17|latest, 11-x-y|electron|no|12.18.3|87|
+|[v11.0.2](https://github.com/electron/electron/releases/tag/v11.0.2)|2020-11-19|latest, 11-x-y|electron|no|12.18.3|87|
+|[v11.0.1](https://github.com/electron/electron/releases/tag/v11.0.1)|2020-11-17||electron|no|12.18.3|87|
 |[v11.0.0](https://github.com/electron/electron/releases/tag/v11.0.0)|2020-11-16||electron|no|12.18.3|87|
 |[v11.0.0-nightly.20200826](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200826)|2020-08-26||electron-nightly|yes|12.18.3|86|
 |[v11.0.0-nightly.20200825](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200825)|2020-08-25||NFUSINGv2|yes|12.18.3|86|
