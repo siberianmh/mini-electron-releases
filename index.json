@@ -1,5 +1,26 @@
 [
   {
+    "node_id": "MDc6UmVsZWFzZTM0NzYxMjU5",
+    "tag_name": "v13.0.0-nightly.20201203",
+    "name": "electron v13.0.0-nightly.20201203",
+    "prerelease": true,
+    "published_at": "2020-12-03T16:29:32Z",
+    "version": "13.0.0-nightly.20201203",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "14.15.1",
+      "v8": "8.8.278-electron.0",
+      "uv": "1.40.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "89",
+      "chrome": "89.0.4328.0"
+    },
+    "npm_dist_tags": [
+      "nightly"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTM0Njk0NzU0",
     "tag_name": "v13.0.0-nightly.20201202",
     "name": "electron v13.0.0-nightly.20201202",
@@ -16,9 +37,7 @@
       "modules": "89",
       "chrome": "89.0.4328.0"
     },
-    "npm_dist_tags": [
-      "nightly"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTM0NjM3OTQz",
