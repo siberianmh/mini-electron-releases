@@ -42,8 +42,8 @@
 |[v12.0.0-beta.4](https://github.com/electron/electron/releases/tag/v12.0.0-beta.4)|2020-11-26||electron|yes|14.15.1|89|
 |[v12.0.0-beta.3](https://github.com/electron/electron/releases/tag/v12.0.0-beta.3)|2020-11-23||electron|yes|14.15.1|89|
 |[v12.0.0-beta.1](https://github.com/electron/electron/releases/tag/v12.0.0-beta.1)|2020-11-19||electron|yes|14.15.1|89|
-|[v11.0.4](https://github.com/electron/electron/releases/tag/v11.0.4)|2020-12-07||NFUSINGv2|no|12.18.3|87|
-|[v11.0.3](https://github.com/electron/electron/releases/tag/v11.0.3)|2020-11-24|latest, 11-x-y|electron|no|12.18.3|87|
+|[v11.0.4](https://github.com/electron/electron/releases/tag/v11.0.4)|2020-12-07|latest, 11-x-y|electron|no|12.18.3|87|
+|[v11.0.3](https://github.com/electron/electron/releases/tag/v11.0.3)|2020-11-24||electron|no|12.18.3|87|
 |[v11.0.2](https://github.com/electron/electron/releases/tag/v11.0.2)|2020-11-19||electron|no|12.18.3|87|
 |[v11.0.1](https://github.com/electron/electron/releases/tag/v11.0.1)|2020-11-17||electron|no|12.18.3|87|
 |[v11.0.0](https://github.com/electron/electron/releases/tag/v11.0.0)|2020-11-16||electron|no|12.18.3|87|
