@@ -1453,10 +1453,22 @@
     "tag_name": "v11.2.3",
     "name": "electron v11.2.3",
     "prerelease": false,
-    "published_at": "2021-02-06T01:16:12Z",
+    "published_at": "2021-02-06T02:18:39Z",
     "version": "11.2.3",
-    "npm_package_name": "NFUSINGv2",
-    "npm_dist_tags": []
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "12.18.3",
+      "v8": "8.7.220.31-electron.0",
+      "uv": "1.38.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "85",
+      "chrome": "87.0.4280.141"
+    },
+    "npm_dist_tags": [
+      "latest",
+      "11-x-y"
+    ]
   },
   {
     "node_id": "MDc6UmVsZWFzZTM3MjUwNjQw",
@@ -1475,10 +1487,7 @@
       "modules": "85",
       "chrome": "87.0.4280.141"
     },
-    "npm_dist_tags": [
-      "latest",
-      "11-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTM2Nzk0Njk0",
