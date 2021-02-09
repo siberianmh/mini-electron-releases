@@ -3,7 +3,7 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
-|[v13.0.0-nightly.20210208](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20210208)|2021-02-08||NFUSINGv2|yes|14.15.4|89|
+|[v13.0.0-nightly.20210208](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20210208)|2021-02-08||electron-nightly|yes|14.15.4|89|
 |[v13.0.0-nightly.20210205](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20210205)|2021-02-05|nightly|electron-nightly|yes|14.15.4|89|
 |[v13.0.0-nightly.20210203](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20210203)|2021-02-03||electron-nightly|yes|14.15.4|89|
 |[v13.0.0-nightly.20210202](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20210202)|2021-02-02||electron-nightly|yes|14.15.4|89|
@@ -62,7 +62,8 @@
 |[v12.0.0-nightly.20200902](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200902)|2020-09-02||electron-nightly|yes|12.18.3|86|
 |[v12.0.0-nightly.20200831](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200831)|2020-08-31||electron-nightly|yes|12.18.3|86|
 |[v12.0.0-nightly.20200827](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200827)|2020-08-27||electron-nightly|yes|12.18.3|86|
-|[v12.0.0-beta.22](https://github.com/electron/electron/releases/tag/v12.0.0-beta.22)|2021-02-04|beta, beta-12-x-y|electron|yes|14.15.1|89|
+|[v12.0.0-beta.23](https://github.com/electron/electron/releases/tag/v12.0.0-beta.23)|2021-02-09|beta, beta-12-x-y|electron|yes|14.15.1|89|
+|[v12.0.0-beta.22](https://github.com/electron/electron/releases/tag/v12.0.0-beta.22)|2021-02-04||electron|yes|14.15.1|89|
 |[v12.0.0-beta.21](https://github.com/electron/electron/releases/tag/v12.0.0-beta.21)|2021-02-03||electron|yes|14.15.1|89|
 |[v12.0.0-beta.20](https://github.com/electron/electron/releases/tag/v12.0.0-beta.20)|2021-02-01||electron|yes|14.15.1|89|
 |[v12.0.0-beta.19](https://github.com/electron/electron/releases/tag/v12.0.0-beta.19)|2021-01-28||electron|yes|14.15.1|89|
