@@ -3,7 +3,8 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
-|[v13.0.0-nightly.20210226](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20210226)|2021-02-26|nightly|electron-nightly|yes|14.16.0|90|
+|[v13.0.0-nightly.20210301](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20210301)|2021-03-01|nightly|electron-nightly|yes|14.16.0|90|
+|[v13.0.0-nightly.20210226](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20210226)|2021-02-26||electron-nightly|yes|14.16.0|90|
 |[v13.0.0-nightly.20210225](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20210225)|2021-02-25||electron-nightly|yes|14.15.4|90|
 |[v13.0.0-nightly.20210222](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20210222)|2021-02-22||electron-nightly|yes|14.15.4|90|
 |[v13.0.0-nightly.20210219](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20210219)|2021-02-19||electron-nightly|yes|14.15.4|90|
@@ -73,7 +74,8 @@
 |[v12.0.0-nightly.20200902](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200902)|2020-09-02||electron-nightly|yes|12.18.3|86|
 |[v12.0.0-nightly.20200831](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200831)|2020-08-31||electron-nightly|yes|12.18.3|86|
 |[v12.0.0-nightly.20200827](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200827)|2020-08-27||electron-nightly|yes|12.18.3|86|
-|[v12.0.0-beta.30](https://github.com/electron/electron/releases/tag/v12.0.0-beta.30)|2021-02-25|beta, beta-12-x-y|electron|yes|14.15.1|89|
+|[v12.0.0-beta.31](https://github.com/electron/electron/releases/tag/v12.0.0-beta.31)|2021-03-01|beta, beta-12-x-y|electron|yes|14.16.0|89|
+|[v12.0.0-beta.30](https://github.com/electron/electron/releases/tag/v12.0.0-beta.30)|2021-02-25||electron|yes|14.15.1|89|
 |[v12.0.0-beta.29](https://github.com/electron/electron/releases/tag/v12.0.0-beta.29)|2021-02-23||electron|yes|14.15.1|89|
 |[v12.0.0-beta.28](https://github.com/electron/electron/releases/tag/v12.0.0-beta.28)|2021-02-22||electron|yes|14.15.1|89|
 |[v12.0.0-beta.27](https://github.com/electron/electron/releases/tag/v12.0.0-beta.27)|2021-02-19||electron|yes|14.15.1|89|
