@@ -1,5 +1,24 @@
 [
   {
+    "node_id": "MDc6UmVsZWFzZTQwNjM4OTg1",
+    "tag_name": "v14.0.0-nightly.20210329",
+    "name": "electron v14.0.0-nightly.20210329",
+    "prerelease": true,
+    "published_at": "2021-03-29T16:51:19Z",
+    "version": "14.0.0-nightly.20210329",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "14.16.0",
+      "v8": "9.0.161-electron.0",
+      "uv": "1.40.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "89",
+      "chrome": "90.0.4415.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTQwNTQ0MjY4",
     "tag_name": "v14.0.0-nightly.20210326",
     "name": "electron v14.0.0-nightly.20210326",
