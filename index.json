@@ -14510,6 +14510,16 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTEwNzQxNzQ5",
+    "tag_name": "v1.7.14",
+    "name": "electron v1.7.14",
+    "prerelease": false,
+    "published_at": "2018-04-27T00:50:18Z",
+    "version": "1.7.14",
+    "npm_package_name": "electron",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTEwMTAyMzU3",
     "tag_name": "v1.7.13",
     "name": "electron v1.7.13",
