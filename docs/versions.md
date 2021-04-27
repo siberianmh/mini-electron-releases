@@ -223,7 +223,8 @@
 |[v11.0.0-beta.4](https://github.com/electron/electron/releases/tag/v11.0.0-beta.4)|2020-09-03||electron|yes|12.18.3|86|
 |[v11.0.0-beta.3](https://github.com/electron/electron/releases/tag/v11.0.0-beta.3)|2020-08-31||electron|yes|12.18.3|86|
 |[v11.0.0-beta.1](https://github.com/electron/electron/releases/tag/v11.0.0-beta.1)|2020-08-26||electron|yes|12.18.3|86|
-|[v10.4.3](https://github.com/electron/electron/releases/tag/v10.4.3)|2021-04-14|10-x-y|electron|no|12.16.3|85|
+|[v10.4.4](https://github.com/electron/electron/releases/tag/v10.4.4)|2021-04-27|10-x-y|electron|no|12.16.3|85|
+|[v10.4.3](https://github.com/electron/electron/releases/tag/v10.4.3)|2021-04-14||electron|no|12.16.3|85|
 |[v10.4.2](https://github.com/electron/electron/releases/tag/v10.4.2)|2021-03-23||electron|no|12.16.3|85|
 |[v10.4.1](https://github.com/electron/electron/releases/tag/v10.4.1)|2021-03-15||electron|no|12.16.3|85|
 |[v10.4.0](https://github.com/electron/electron/releases/tag/v10.4.0)|2021-02-20||electron|no|12.16.3|85|
