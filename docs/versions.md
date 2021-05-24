@@ -3,7 +3,8 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
-|[v14.0.0-nightly.20210523](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210523)|2021-05-24|nightly|electron-nightly|yes|14.17.0|92|
+|[v14.0.0-nightly.20210524](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210524)|2021-05-24|nightly|electron-nightly|yes|14.17.0|92|
+|[v14.0.0-nightly.20210523](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210523)|2021-05-24||electron-nightly|yes|14.17.0|92|
 |[v14.0.0-nightly.20210520](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210520)|2021-05-20||electron-nightly|yes|14.17.0|92|
 |[v14.0.0-nightly.20210519](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210519)|2021-05-19||electron-nightly|yes|14.16.1|92|
 |[v14.0.0-nightly.20210518](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210518)|2021-05-18||electron-nightly|yes|14.16.1|92|
