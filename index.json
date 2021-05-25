@@ -800,6 +800,28 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTQzNDczODc2",
+    "tag_name": "v13.0.0",
+    "name": "electron v13.0.0",
+    "prerelease": false,
+    "published_at": "2021-05-25T03:02:13Z",
+    "version": "13.0.0",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "14.16.0",
+      "v8": "9.1.269.28-electron.0",
+      "uv": "1.40.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "89",
+      "chrome": "91.0.4472.69"
+    },
+    "npm_dist_tags": [
+      "latest",
+      "13-x-y"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTM5MTg1NzI0",
     "tag_name": "v13.0.0-nightly.20210303",
     "name": "electron v13.0.0-nightly.20210303",
@@ -2226,7 +2248,6 @@
       "chrome": "89.0.4389.128"
     },
     "npm_dist_tags": [
-      "latest",
       "12-x-y"
     ]
   },
