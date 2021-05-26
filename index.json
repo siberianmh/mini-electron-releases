@@ -806,7 +806,7 @@
     "prerelease": true,
     "published_at": "2021-05-26T21:14:19Z",
     "version": "14.0.0-beta.1",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron",
     "deps": {
       "node": "14.17.0",
       "v8": "9.2.225-electron.0",
@@ -816,7 +816,10 @@
       "modules": "89",
       "chrome": "92.0.4511.0"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "beta",
+      "beta-14-x-y"
+    ]
   },
   {
     "node_id": "MDc6UmVsZWFzZTQzNTQ2Nzc1",
@@ -1846,7 +1849,6 @@
       "chrome": "91.0.4472.38"
     },
     "npm_dist_tags": [
-      "beta",
       "beta-13-x-y"
     ]
   },
