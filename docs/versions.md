@@ -3,7 +3,8 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
-|[v15.0.0-nightly.20210531](https://github.com/electron/electron/releases/tag/v15.0.0-nightly.20210531)|2021-05-31|nightly|electron-nightly|yes|14.17.0|92|
+|[v15.0.0-nightly.20210602](https://github.com/electron/electron/releases/tag/v15.0.0-nightly.20210602)|2021-06-02|nightly|electron-nightly|yes|14.17.0|92|
+|[v15.0.0-nightly.20210531](https://github.com/electron/electron/releases/tag/v15.0.0-nightly.20210531)|2021-05-31||electron-nightly|yes|14.17.0|92|
 |[v15.0.0-nightly.20210528](https://github.com/electron/electron/releases/tag/v15.0.0-nightly.20210528)|2021-05-28||electron-nightly|yes|14.17.0|92|
 |[v15.0.0-nightly.20210527](https://github.com/electron/electron/releases/tag/v15.0.0-nightly.20210527)|2021-05-27||electron-nightly|yes|14.17.0|92|
 |[v14.0.0-nightly.20210524](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210524)|2021-05-24||electron-nightly|yes|14.17.0|92|
@@ -140,7 +141,6 @@
 |[v12.0.0-nightly.20201112](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20201112)|2020-11-12||electron-nightly|yes|14.15.0|88|
 |[v12.0.0-nightly.20201111](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20201111)|2020-11-11||electron-nightly|yes|14.15.0|88|
 |[v12.0.0-nightly.20201106](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20201106)|2020-11-06||electron-nightly|yes|14.15.0|88|
-|[v12.0.0-nightly.20201106](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20201106)|2020-11-06||electron-nightly|yes|||
 |[v12.0.0-nightly.20201105](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20201105)|2020-11-05||electron-nightly|yes|14.15.0|88|
 |[v12.0.0-nightly.20201104](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20201104)|2020-11-04||electron-nightly|yes|14.15.0|88|
 |[v12.0.0-nightly.20201103](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20201103)|2020-11-03||electron-nightly|yes|14.15.0|88|
