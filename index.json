@@ -876,6 +876,28 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTQ0MDQzNjYz",
+    "tag_name": "v14.0.0-beta.3",
+    "name": "electron v14.0.0-beta.3",
+    "prerelease": true,
+    "published_at": "2021-06-03T15:33:53Z",
+    "version": "14.0.0-beta.3",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "14.17.0",
+      "v8": "9.2.225-electron.0",
+      "uv": "1.41.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "89",
+      "chrome": "92.0.4511.0"
+    },
+    "npm_dist_tags": [
+      "beta",
+      "beta-14-x-y"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTQzODU1ODg2",
     "tag_name": "v14.0.0-beta.2",
     "name": "electron v14.0.0-beta.2",
@@ -892,10 +914,7 @@
       "modules": "89",
       "chrome": "92.0.4511.0"
     },
-    "npm_dist_tags": [
-      "beta",
-      "beta-14-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTQzNjM0MDIx",
@@ -2391,7 +2410,7 @@
     "prerelease": false,
     "published_at": "2021-06-03T12:37:56Z",
     "version": "12.0.10",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron",
     "deps": {
       "node": "14.16.0",
       "v8": "8.9.255.25-electron.0",
@@ -2401,7 +2420,9 @@
       "modules": "87",
       "chrome": "89.0.4389.128"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "12-x-y"
+    ]
   },
   {
     "node_id": "MDc6UmVsZWFzZTQzMjQ1ODky",
@@ -2420,9 +2441,7 @@
       "modules": "87",
       "chrome": "89.0.4389.128"
     },
-    "npm_dist_tags": [
-      "12-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTQzMDc4MDQ0",
@@ -3535,7 +3554,7 @@
     "prerelease": false,
     "published_at": "2021-06-03T13:45:23Z",
     "version": "11.4.8",
-    "npm_package_name": "electron",
+    "npm_package_name": "NFUSINGv2",
     "deps": {
       "node": "12.18.3",
       "v8": "8.7.220.31-electron.0",
@@ -3545,9 +3564,7 @@
       "modules": "85",
       "chrome": "87.0.4280.141"
     },
-    "npm_dist_tags": [
-      "11-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTQzMDc4MDg0",
@@ -3566,7 +3583,9 @@
       "modules": "85",
       "chrome": "87.0.4280.141"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "11-x-y"
+    ]
   },
   {
     "node_id": "MDc6UmVsZWFzZTQyNjMxMDQy",
