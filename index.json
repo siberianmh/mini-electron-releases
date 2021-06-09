@@ -6,7 +6,7 @@
     "prerelease": true,
     "published_at": "2021-06-09T17:34:49Z",
     "version": "15.0.0-nightly.20210609",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron-nightly",
     "deps": {
       "node": "14.17.0",
       "v8": "9.3.80-electron.0",
@@ -16,7 +16,9 @@
       "modules": "89",
       "chrome": "93.0.4536.0"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "nightly"
+    ]
   },
   {
     "node_id": "MDc6UmVsZWFzZTQ0Mjc0ODQx",
@@ -54,9 +56,7 @@
       "modules": "89",
       "chrome": "93.0.4530.0"
     },
-    "npm_dist_tags": [
-      "nightly"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTQ0MDU4MTkw",
@@ -1031,6 +1031,40 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTQ0MzYxMDU4",
+    "tag_name": "v13.1.2",
+    "name": "electron v13.1.2",
+    "prerelease": false,
+    "published_at": "2021-06-09T18:32:26Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/44361058/reactions",
+      "total_count": 1,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 1,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "version": "13.1.2",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "14.16.0",
+      "v8": "9.1.269.28-electron.0",
+      "uv": "1.40.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "89",
+      "chrome": "91.0.4472.77"
+    },
+    "npm_dist_tags": [
+      "latest",
+      "13-x-y"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTQ0MTIyNDU1",
     "tag_name": "v13.1.1",
     "name": "electron v13.1.1",
@@ -1047,10 +1081,7 @@
       "modules": "89",
       "chrome": "91.0.4472.77"
     },
-    "npm_dist_tags": [
-      "latest",
-      "13-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTQ0MDExMDE3",
@@ -2530,6 +2561,27 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTQ0MzYxMDcx",
+    "tag_name": "v12.0.11",
+    "name": "electron v12.0.11",
+    "prerelease": false,
+    "published_at": "2021-06-09T18:56:49Z",
+    "version": "12.0.11",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "14.16.0",
+      "v8": "8.9.255.25-electron.0",
+      "uv": "1.40.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "87",
+      "chrome": "89.0.4389.128"
+    },
+    "npm_dist_tags": [
+      "12-x-y"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTQ0MDMwNzM1",
     "tag_name": "v12.0.10",
     "name": "electron v12.0.10",
@@ -2546,9 +2598,7 @@
       "modules": "87",
       "chrome": "89.0.4389.128"
     },
-    "npm_dist_tags": [
-      "12-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTQzMjQ1ODky",
