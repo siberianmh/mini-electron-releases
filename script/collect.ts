@@ -114,20 +114,8 @@ async function main() {
   // Compare the old data to the new data
   // and abort the build early if key data hasn't changed.
   const old = await import('../index.json')
-  // Convert the 2.x npm_dist_tag (string) format to the
-  // 3.x npm_dist_tags (array) format.
-  // This can be removed once a 3.x release is published.
-  old.forEach(release => {
-    // @ts-expect-error
-    if (release.npm_dist_tag) {
-      // @ts-expect-error
-      release.npm_dist_tags = [release.npm_dist_tag]
-      // @ts-expect-error
-      delete release.npm_dist_tag
-    }
-  })
 
-  let tagsChanged
+  let tagsChanged: boolean
   for (const tag of [ 'latest', 'beta', 'nightly' ]) {
     const oldVersion = findVersionForTag(old, tag, 'index.json')
     const newVersion = findVersionForTag(releases, tag, 'electron/electron and electron/nightlies repos')
