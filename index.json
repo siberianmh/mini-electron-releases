@@ -1613,6 +1613,28 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTQ2NzY5NDQy",
+    "tag_name": "v14.0.0-beta.17",
+    "name": "electron v14.0.0-beta.17",
+    "prerelease": true,
+    "published_at": "2021-07-26T15:26:22Z",
+    "version": "14.0.0-beta.17",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "14.17.0",
+      "v8": "9.3.278-electron.0",
+      "uv": "1.41.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "89",
+      "chrome": "93.0.4566.0"
+    },
+    "npm_dist_tags": [
+      "beta",
+      "beta-14-x-y"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTQ2NjA1NDc2",
     "tag_name": "v14.0.0-beta.16",
     "name": "electron v14.0.0-beta.16",
@@ -1629,10 +1651,7 @@
       "modules": "89",
       "chrome": "93.0.4566.0"
     },
-    "npm_dist_tags": [
-      "beta",
-      "beta-14-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTQ2NDkzNTM2",
