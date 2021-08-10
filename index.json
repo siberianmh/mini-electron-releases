@@ -743,14 +743,14 @@
     "published_at": "2021-06-16T16:04:00Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/nightlies/releases/44725330/reactions",
-      "total_count": 1,
+      "total_count": 2,
       "+1": 0,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
       "confused": 0,
       "heart": 0,
-      "rocket": 1,
+      "rocket": 2,
       "eyes": 0
     },
     "version": "15.0.0-nightly.20210616",
@@ -2292,6 +2292,28 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTQ3NTY5NzQx",
+    "tag_name": "v13.1.9",
+    "name": "electron v13.1.9",
+    "prerelease": false,
+    "published_at": "2021-08-10T02:02:07Z",
+    "version": "13.1.9",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "14.16.0",
+      "v8": "9.1.269.39-electron.0",
+      "uv": "1.40.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "89",
+      "chrome": "91.0.4472.164"
+    },
+    "npm_dist_tags": [
+      "latest",
+      "13-x-y"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTQ3MjQyNzMx",
     "tag_name": "v13.1.8",
     "name": "electron v13.1.8",
@@ -2320,10 +2342,7 @@
       "modules": "89",
       "chrome": "91.0.4472.164"
     },
-    "npm_dist_tags": [
-      "latest",
-      "13-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTQ2MjcxNzYx",
