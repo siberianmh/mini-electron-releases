@@ -1052,6 +1052,41 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTQ3NzU0MzI2",
+    "tag_name": "v15.0.0-alpha.6",
+    "name": "electron v15.0.0-alpha.6",
+    "prerelease": true,
+    "published_at": "2021-08-12T17:23:41Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/47754326/reactions",
+      "total_count": 1,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 1
+    },
+    "mentions_count": 1,
+    "version": "15.0.0-alpha.6",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.5.0",
+      "v8": "9.4.32-electron.0",
+      "uv": "1.41.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "89",
+      "chrome": "94.0.4584.0"
+    },
+    "npm_dist_tags": [
+      "alpha-15-x-y",
+      "alpha"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTQ3NTQ2NTU4",
     "tag_name": "v15.0.0-alpha.5",
     "name": "electron v15.0.0-alpha.5",
@@ -1069,10 +1104,7 @@
       "modules": "89",
       "chrome": "94.0.4584.0"
     },
-    "npm_dist_tags": [
-      "alpha-15-x-y",
-      "alpha"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTQ3MzcyNzky",
