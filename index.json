@@ -6,7 +6,7 @@
     "prerelease": true,
     "published_at": "2021-08-19T15:48:55Z",
     "version": "16.0.0-nightly.20210819",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron-nightly",
     "deps": {
       "node": "16.5.0",
       "v8": "9.4.66-electron.0",
@@ -16,7 +16,9 @@
       "modules": "89",
       "chrome": "94.0.4590.2"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "nightly"
+    ]
   },
   {
     "node_id": "MDc6UmVsZWFzZTQ4MDQyOTkz",
@@ -35,9 +37,7 @@
       "modules": "89",
       "chrome": "94.0.4590.2"
     },
-    "npm_dist_tags": [
-      "nightly"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTQ3OTc1MDk3",
@@ -2124,7 +2124,7 @@
     "published_at": "2021-08-19T15:23:58Z",
     "mentions_count": 1,
     "version": "14.0.0-beta.23",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron",
     "deps": {
       "node": "14.17.0",
       "v8": "9.3.345.9-electron.0",
@@ -2134,7 +2134,10 @@
       "modules": "89",
       "chrome": "93.0.4577.25"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "beta",
+      "beta-14-x-y"
+    ]
   },
   {
     "node_id": "MDc6UmVsZWFzZTQ3OTg3MTUw",
@@ -2154,10 +2157,7 @@
       "modules": "89",
       "chrome": "93.0.4577.25"
     },
-    "npm_dist_tags": [
-      "beta",
-      "beta-14-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTQ3NzQ2NDQw",
