@@ -3,7 +3,8 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
-|[v16.0.0-nightly.20210826](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210826)|2021-08-26|nightly|electron-nightly|yes|16.7.0|95|
+|[v16.0.0-nightly.20210827](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210827)|2021-08-27|nightly|electron-nightly|yes|16.7.0|95|
+|[v16.0.0-nightly.20210826](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210826)|2021-08-26||electron-nightly|yes|16.7.0|95|
 |[v16.0.0-nightly.20210825](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210825)|2021-08-25||electron-nightly|yes|16.7.0|95|
 |[v16.0.0-nightly.20210824](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210824)|2021-08-24||electron-nightly|yes|16.7.0|95|
 |[v16.0.0-nightly.20210823](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210823)|2021-08-23||electron-nightly|yes|16.7.0|94|
@@ -113,7 +114,6 @@
 |[v14.0.0-nightly.20210319](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210319)|2021-03-19||electron-nightly|yes|14.16.0|90|
 |[v14.0.0-nightly.20210318](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210318)|2021-03-18||electron-nightly|yes|14.16.0|90|
 |[v14.0.0-nightly.20210317](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210317)|2021-03-17||electron-nightly|yes|14.16.0|90|
-|[v14.0.0-nightly.20210317](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210317)|2021-03-17||electron-nightly|yes|||
 |[v14.0.0-nightly.20210316](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210316)|2021-03-16||electron-nightly|yes|14.16.0|90|
 |[v14.0.0-nightly.20210315](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210315)|2021-03-15||electron-nightly|yes|14.16.0|90|
 |[v14.0.0-nightly.20210311](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210311)|2021-03-11||electron-nightly|yes|14.16.0|90|
