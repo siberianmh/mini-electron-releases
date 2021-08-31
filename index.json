@@ -1536,6 +1536,7 @@
     "name": "electron v14.0.0",
     "prerelease": false,
     "published_at": "2021-08-30T22:40:47Z",
+    "mentions_count": 1,
     "version": "14.0.0",
     "npm_package_name": "electron",
     "deps": {
@@ -4623,7 +4624,7 @@
     "published_at": "2021-08-27T20:32:19Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/48586679/reactions",
-      "total_count": 3,
+      "total_count": 4,
       "+1": 0,
       "-1": 0,
       "laugh": 0,
@@ -4631,7 +4632,7 @@
       "confused": 0,
       "heart": 0,
       "rocket": 0,
-      "eyes": 3
+      "eyes": 4
     },
     "version": "12.0.18",
     "npm_package_name": "electron",
@@ -5944,6 +5945,25 @@
       "openssl": "1.1.1",
       "modules": "87",
       "chrome": "89.0.4328.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ4NzUwNDQw",
+    "tag_name": "v11.5.0",
+    "name": "electron v11.5.0",
+    "prerelease": false,
+    "published_at": "2021-08-31T19:21:42Z",
+    "version": "11.5.0",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "12.18.3",
+      "v8": "8.7.220.31-electron.0",
+      "uv": "1.38.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "85",
+      "chrome": "87.0.4280.141"
     },
     "npm_dist_tags": []
   },
