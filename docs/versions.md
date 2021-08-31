@@ -71,6 +71,7 @@
 |[v15.0.0-nightly.20210531](https://github.com/electron/electron/releases/tag/v15.0.0-nightly.20210531)|2021-05-31||electron-nightly|yes|14.17.0|92|
 |[v15.0.0-nightly.20210528](https://github.com/electron/electron/releases/tag/v15.0.0-nightly.20210528)|2021-05-28||electron-nightly|yes|14.17.0|92|
 |[v15.0.0-nightly.20210527](https://github.com/electron/electron/releases/tag/v15.0.0-nightly.20210527)|2021-05-27||electron-nightly|yes|14.17.0|92|
+|[v15.0.0-beta.1](https://github.com/electron/electron/releases/tag/v15.0.0-beta.1)|2021-08-31|beta, beta-15-x-y|electron|yes|16.5.0|94|
 |[v15.0.0-alpha.10](https://github.com/electron/electron/releases/tag/v15.0.0-alpha.10)|2021-08-26|alpha-15-x-y, alpha|electron|yes|16.5.0|94|
 |[v15.0.0-alpha.9](https://github.com/electron/electron/releases/tag/v15.0.0-alpha.9)|2021-08-23||electron|yes|16.5.0|94|
 |[v15.0.0-alpha.8](https://github.com/electron/electron/releases/tag/v15.0.0-alpha.8)|2021-08-19||electron|yes|16.5.0|94|
@@ -124,7 +125,7 @@
 |[v14.0.0-nightly.20210308](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210308)|2021-03-08||electron-nightly|yes|14.16.0|90|
 |[v14.0.0-nightly.20210305](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210305)|2021-03-05||electron-nightly|yes|14.16.0|90|
 |[v14.0.0-nightly.20210304](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210304)|2021-03-04||electron-nightly|yes|14.16.0|90|
-|[v14.0.0-beta.25](https://github.com/electron/electron/releases/tag/v14.0.0-beta.25)|2021-08-30|beta, beta-14-x-y|electron|yes|14.17.0|93|
+|[v14.0.0-beta.25](https://github.com/electron/electron/releases/tag/v14.0.0-beta.25)|2021-08-30|beta-14-x-y|electron|yes|14.17.0|93|
 |[v14.0.0-beta.24](https://github.com/electron/electron/releases/tag/v14.0.0-beta.24)|2021-08-26||electron|yes|14.17.0|93|
 |[v14.0.0-beta.23](https://github.com/electron/electron/releases/tag/v14.0.0-beta.23)|2021-08-19||electron|yes|14.17.0|93|
 |[v14.0.0-beta.22](https://github.com/electron/electron/releases/tag/v14.0.0-beta.22)|2021-08-17||electron|yes|14.17.0|93|
