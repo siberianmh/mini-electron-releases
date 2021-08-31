@@ -2831,6 +2831,25 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTQ4NzY4NDM1",
+    "tag_name": "v13.3.0",
+    "name": "electron v13.3.0",
+    "prerelease": false,
+    "published_at": "2021-08-31T21:23:45Z",
+    "version": "13.3.0",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "14.16.0",
+      "v8": "9.1.269.39-electron.0",
+      "uv": "1.40.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "89",
+      "chrome": "91.0.4472.164"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTQ4NTg2NjU5",
     "tag_name": "v13.2.3",
     "name": "electron v13.2.3",
