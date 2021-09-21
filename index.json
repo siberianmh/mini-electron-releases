@@ -1630,7 +1630,6 @@
     "name": "electron v15.0.0-beta.6",
     "prerelease": true,
     "published_at": "2021-09-15T00:07:39Z",
-    "mentions_count": 1,
     "version": "15.0.0-beta.6",
     "npm_package_name": "electron",
     "deps": {
@@ -1650,7 +1649,6 @@
     "name": "electron v15.0.0-beta.5",
     "prerelease": true,
     "published_at": "2021-09-13T17:41:35Z",
-    "mentions_count": 1,
     "version": "15.0.0-beta.5",
     "npm_package_name": "electron",
     "deps": {
@@ -1670,7 +1668,6 @@
     "name": "electron v15.0.0-beta.4",
     "prerelease": true,
     "published_at": "2021-09-09T20:43:08Z",
-    "mentions_count": 1,
     "version": "15.0.0-beta.4",
     "npm_package_name": "electron",
     "deps": {
@@ -1690,7 +1687,6 @@
     "name": "electron v15.0.0-beta.3",
     "prerelease": true,
     "published_at": "2021-09-07T08:20:41Z",
-    "mentions_count": 1,
     "version": "15.0.0-beta.3",
     "npm_package_name": "electron",
     "deps": {
@@ -1710,7 +1706,6 @@
     "name": "electron v15.0.0-beta.2",
     "prerelease": true,
     "published_at": "2021-09-02T16:37:35Z",
-    "mentions_count": 1,
     "version": "15.0.0-beta.2",
     "npm_package_name": "electron",
     "deps": {
@@ -1730,7 +1725,6 @@
     "name": "electron v15.0.0-beta.1",
     "prerelease": true,
     "published_at": "2021-08-31T22:01:00Z",
-    "mentions_count": 1,
     "version": "15.0.0-beta.1",
     "npm_package_name": "electron",
     "deps": {
@@ -1750,7 +1744,6 @@
     "name": "electron v15.0.0-alpha.10",
     "prerelease": true,
     "published_at": "2021-08-26T18:36:30Z",
-    "mentions_count": 1,
     "version": "15.0.0-alpha.10",
     "npm_package_name": "electron",
     "deps": {
@@ -1773,7 +1766,6 @@
     "name": "electron v15.0.0-alpha.9",
     "prerelease": true,
     "published_at": "2021-08-23T16:52:55Z",
-    "mentions_count": 1,
     "version": "15.0.0-alpha.9",
     "npm_package_name": "electron",
     "deps": {
@@ -1793,7 +1785,6 @@
     "name": "electron v15.0.0-alpha.8",
     "prerelease": true,
     "published_at": "2021-08-19T18:04:25Z",
-    "mentions_count": 1,
     "version": "15.0.0-alpha.8",
     "npm_package_name": "electron",
     "deps": {
@@ -1813,7 +1804,6 @@
     "name": "electron v15.0.0-alpha.7",
     "prerelease": true,
     "published_at": "2021-08-17T09:48:45Z",
-    "mentions_count": 1,
     "version": "15.0.0-alpha.7",
     "npm_package_name": "electron",
     "deps": {
@@ -1845,7 +1835,6 @@
       "rocket": 0,
       "eyes": 1
     },
-    "mentions_count": 1,
     "version": "15.0.0-alpha.6",
     "npm_package_name": "electron",
     "deps": {
@@ -1865,7 +1854,6 @@
     "name": "electron v15.0.0-alpha.5",
     "prerelease": true,
     "published_at": "2021-08-09T17:11:11Z",
-    "mentions_count": 1,
     "version": "15.0.0-alpha.5",
     "npm_package_name": "electron",
     "deps": {
@@ -1885,7 +1873,6 @@
     "name": "electron v15.0.0-alpha.4",
     "prerelease": true,
     "published_at": "2021-08-05T18:50:00Z",
-    "mentions_count": 1,
     "version": "15.0.0-alpha.4",
     "npm_package_name": "electron",
     "deps": {
@@ -1905,7 +1892,6 @@
     "name": "electron v15.0.0-alpha.3",
     "prerelease": true,
     "published_at": "2021-08-02T17:12:57Z",
-    "mentions_count": 1,
     "version": "15.0.0-alpha.3",
     "npm_package_name": "electron",
     "deps": {
@@ -1997,7 +1983,6 @@
       "rocket": 2,
       "eyes": 0
     },
-    "mentions_count": 1,
     "version": "14.0.0",
     "npm_package_name": "electron",
     "deps": {
@@ -2815,7 +2800,6 @@
     "name": "electron v14.0.0-beta.25",
     "prerelease": true,
     "published_at": "2021-08-30T15:24:05Z",
-    "mentions_count": 1,
     "version": "14.0.0-beta.25",
     "npm_package_name": "electron",
     "deps": {
@@ -2837,7 +2821,6 @@
     "name": "electron v14.0.0-beta.24",
     "prerelease": true,
     "published_at": "2021-08-26T15:50:48Z",
-    "mentions_count": 1,
     "version": "14.0.0-beta.24",
     "npm_package_name": "electron",
     "deps": {
@@ -2857,7 +2840,6 @@
     "name": "electron v14.0.0-beta.23",
     "prerelease": true,
     "published_at": "2021-08-19T15:23:58Z",
-    "mentions_count": 1,
     "version": "14.0.0-beta.23",
     "npm_package_name": "electron",
     "deps": {
@@ -2877,7 +2859,6 @@
     "name": "electron v14.0.0-beta.22",
     "prerelease": true,
     "published_at": "2021-08-17T17:57:43Z",
-    "mentions_count": 1,
     "version": "14.0.0-beta.22",
     "npm_package_name": "electron",
     "deps": {
@@ -2897,7 +2878,6 @@
     "name": "electron v14.0.0-beta.21",
     "prerelease": true,
     "published_at": "2021-08-12T15:25:08Z",
-    "mentions_count": 1,
     "version": "14.0.0-beta.21",
     "npm_package_name": "electron",
     "deps": {
@@ -2917,7 +2897,6 @@
     "name": "electron v14.0.0-beta.20",
     "prerelease": true,
     "published_at": "2021-08-09T15:21:29Z",
-    "mentions_count": 1,
     "version": "14.0.0-beta.20",
     "npm_package_name": "electron",
     "deps": {
@@ -2937,7 +2916,6 @@
     "name": "electron v14.0.0-beta.19",
     "prerelease": true,
     "published_at": "2021-08-05T15:19:35Z",
-    "mentions_count": 1,
     "version": "14.0.0-beta.19",
     "npm_package_name": "electron",
     "deps": {
@@ -2957,7 +2935,6 @@
     "name": "electron v14.0.0-beta.18",
     "prerelease": true,
     "published_at": "2021-08-02T15:50:31Z",
-    "mentions_count": 1,
     "version": "14.0.0-beta.18",
     "npm_package_name": "electron",
     "deps": {
@@ -16190,6 +16167,16 @@
       "modules": "69",
       "chrome": "69.0.3497.128"
     },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3MTIxODMx",
+    "tag_name": "v4.2.0",
+    "name": "electron v4.2.0",
+    "prerelease": false,
+    "published_at": "2019-05-03T03:16:59Z",
+    "version": "4.2.0",
+    "npm_package_name": "electron",
     "npm_dist_tags": []
   },
   {

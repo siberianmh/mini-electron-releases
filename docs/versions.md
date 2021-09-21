@@ -842,6 +842,7 @@
 |[v4.2.2](https://github.com/electron/electron/releases/tag/v4.2.2)|2019-05-17||electron|no|10.11.0|69|
 |[v4.2.1](https://github.com/electron/electron/releases/tag/v4.2.1)|2019-05-14||electron|no|10.11.0|69|
 |[v4.2.0](https://github.com/electron/electron/releases/tag/v4.2.0)|2019-05-03||electron|no|10.11.0|69|
+|[v4.2.0](https://github.com/electron/electron/releases/tag/v4.2.0)|2019-05-03||electron|no|||
 |[v4.1.5](https://github.com/electron/electron/releases/tag/v4.1.5)|2019-04-24|4-1-x|electron|no|10.11.0|69|
 |[v4.1.4](https://github.com/electron/electron/releases/tag/v4.1.4)|2019-04-04||electron|no|10.11.0|69|
 |[v4.1.3](https://github.com/electron/electron/releases/tag/v4.1.3)|2019-03-29||electron|no|10.11.0|69|
