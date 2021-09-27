@@ -6,7 +6,7 @@
     "prerelease": true,
     "published_at": "2021-09-27T22:31:04Z",
     "version": "17.0.0-nightly.20210927",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron-nightly",
     "deps": {
       "node": "16.9.1",
       "v8": "9.5.99-electron.0",
@@ -16,7 +16,9 @@
       "modules": "99",
       "chrome": "95.0.4629.0"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "nightly"
+    ]
   },
   {
     "node_id": "MDc6UmVsZWFzZTUwMjA0ODYz",
@@ -35,9 +37,7 @@
       "modules": "99",
       "chrome": "95.0.4629.0"
     },
-    "npm_dist_tags": [
-      "nightly"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTUwMTMyMDcz",
@@ -3401,7 +3401,7 @@
     "prerelease": false,
     "published_at": "2021-09-27T22:20:40Z",
     "version": "13.5.0",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron",
     "deps": {
       "node": "14.16.0",
       "v8": "9.1.269.39-electron.0",
@@ -3411,7 +3411,9 @@
       "modules": "89",
       "chrome": "91.0.4472.164"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "13-x-y"
+    ]
   },
   {
     "node_id": "RE_kwDOAI8xS84C8tDz",
@@ -3430,9 +3432,7 @@
       "modules": "89",
       "chrome": "91.0.4472.164"
     },
-    "npm_dist_tags": [
-      "13-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTQ4NzY4NDM1",
