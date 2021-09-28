@@ -943,8 +943,8 @@
     "published_at": "2021-09-21T20:42:35Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/50007894/reactions",
-      "total_count": 5,
-      "+1": 5,
+      "total_count": 6,
+      "+1": 6,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
@@ -5234,6 +5234,25 @@
       "openssl": "1.1.1",
       "modules": "89",
       "chrome": "90.0.4402.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "RE_kwDOAI8xS84DAKz3",
+    "tag_name": "v12.2.0",
+    "name": "electron v12.2.0",
+    "prerelease": false,
+    "published_at": "2021-09-28T11:29:43Z",
+    "version": "12.2.0",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "14.16.0",
+      "v8": "8.9.255.25-electron.0",
+      "uv": "1.40.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "87",
+      "chrome": "89.0.4389.128"
     },
     "npm_dist_tags": []
   },
