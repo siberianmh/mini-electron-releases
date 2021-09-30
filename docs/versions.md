@@ -3,7 +3,8 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
-|[v17.0.0-nightly.20210929](https://github.com/electron/electron/releases/tag/v17.0.0-nightly.20210929)|2021-09-29|nightly|electron-nightly|yes|16.10.0|95|
+|[v17.0.0-nightly.20210930](https://github.com/electron/electron/releases/tag/v17.0.0-nightly.20210930)|2021-09-30|nightly|electron-nightly|yes|16.10.0|95|
+|[v17.0.0-nightly.20210929](https://github.com/electron/electron/releases/tag/v17.0.0-nightly.20210929)|2021-09-29||electron-nightly|yes|16.10.0|95|
 |[v17.0.0-nightly.20210928](https://github.com/electron/electron/releases/tag/v17.0.0-nightly.20210928)|2021-09-28||electron-nightly|yes|16.10.0|95|
 |[v17.0.0-nightly.20210927](https://github.com/electron/electron/releases/tag/v17.0.0-nightly.20210927)|2021-09-27||electron-nightly|yes|16.9.1|95|
 |[v17.0.0-nightly.20210924](https://github.com/electron/electron/releases/tag/v17.0.0-nightly.20210924)|2021-09-24||electron-nightly|yes|16.9.1|95|
@@ -314,7 +315,6 @@
 |[v12.0.0-nightly.20200911](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200911)|2020-09-11||NFUSINGv2|yes|12.18.3|86|
 |[v12.0.0-nightly.20200910](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200910)|2020-09-10||electron-nightly|yes|12.18.3|86|
 |[v12.0.0-nightly.20200907](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200907)|2020-09-07||NFUSINGv2|yes|12.18.3|86|
-|[v12.0.0-nightly.20200907](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200907)|2020-09-07||NFUSINGv2|yes|||
 |[v12.0.0-nightly.20200903](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200903)|2020-09-03||electron-nightly|yes|12.18.3|86|
 |[v12.0.0-nightly.20200902](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200902)|2020-09-02||electron-nightly|yes|12.18.3|86|
 |[v12.0.0-nightly.20200831](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200831)|2020-08-31||electron-nightly|yes|12.18.3|86|
