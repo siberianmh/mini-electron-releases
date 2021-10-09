@@ -2415,8 +2415,20 @@
     "name": "electron v14.1.1",
     "prerelease": false,
     "published_at": "2021-10-08T22:51:55Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/51061047/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
     "version": "14.1.1",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron",
     "deps": {
       "node": "14.17.0",
       "v8": "9.3.345.19-electron.0",
@@ -2426,7 +2438,9 @@
       "modules": "97",
       "chrome": "93.0.4577.82"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "14-x-y"
+    ]
   },
   {
     "node_id": "RE_kwDOAI8xS84DA9c_",
@@ -2445,9 +2459,7 @@
       "modules": "97",
       "chrome": "93.0.4577.82"
     },
-    "npm_dist_tags": [
-      "14-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84DAlF7",
