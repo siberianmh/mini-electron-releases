@@ -1104,6 +1104,28 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84DDHkS",
+    "tag_name": "v16.0.0-alpha.7",
+    "name": "electron v16.0.0-alpha.7",
+    "prerelease": true,
+    "published_at": "2021-10-11T17:10:15Z",
+    "version": "16.0.0-alpha.7",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.9.1",
+      "v8": "9.5.99-electron.0",
+      "uv": "1.42.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "99",
+      "chrome": "95.0.4629.0"
+    },
+    "npm_dist_tags": [
+      "alpha",
+      "alpha-16-x-y"
+    ]
+  },
+  {
     "node_id": "RE_kwDOAI8xS84DCcz9",
     "tag_name": "v16.0.0-alpha.6",
     "name": "electron v16.0.0-alpha.6",
@@ -1120,10 +1142,7 @@
       "modules": "99",
       "chrome": "95.0.4629.0"
     },
-    "npm_dist_tags": [
-      "alpha",
-      "alpha-16-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84DBqj1",
