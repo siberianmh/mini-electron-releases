@@ -68,6 +68,7 @@
 |[v16.0.0-nightly.20210726](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210726)|2021-07-26||electron-nightly|yes|16.5.0|93|
 |[v16.0.0-nightly.20210723](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210723)|2021-07-23||electron-nightly|yes|16.5.0|93|
 |[v16.0.0-nightly.20210722](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210722)|2021-07-22||electron-nightly|yes|16.5.0|93|
+|[v16.0.0-beta.1](https://github.com/electron/electron/releases/tag/v16.0.0-beta.1)|2021-10-20||NFUSINGv2|yes|16.9.1|96|
 |[v16.0.0-alpha.9](https://github.com/electron/electron/releases/tag/v16.0.0-alpha.9)|2021-10-18|alpha, alpha-16-x-y|electron|yes|16.9.1|96|
 |[v16.0.0-alpha.8](https://github.com/electron/electron/releases/tag/v16.0.0-alpha.8)|2021-10-14||electron|yes|16.9.1|96|
 |[v16.0.0-alpha.7](https://github.com/electron/electron/releases/tag/v16.0.0-alpha.7)|2021-10-11||electron|yes|16.9.1|95|
@@ -77,7 +78,8 @@
 |[v16.0.0-alpha.3](https://github.com/electron/electron/releases/tag/v16.0.0-alpha.3)|2021-09-30||electron|yes|16.9.1|95|
 |[v16.0.0-alpha.2](https://github.com/electron/electron/releases/tag/v16.0.0-alpha.2)|2021-09-30||electron|yes|16.9.1|95|
 |[v16.0.0-alpha.1](https://github.com/electron/electron/releases/tag/v16.0.0-alpha.1)|2021-09-22||electron|yes|16.9.1|95|
-|[v15.2.0](https://github.com/electron/electron/releases/tag/v15.2.0)|2021-10-14|latest, 15-x-y|electron|no|16.5.0|94|
+|[v15.3.0](https://github.com/electron/electron/releases/tag/v15.3.0)|2021-10-20|latest, 15-x-y|electron|no|16.5.0|94|
+|[v15.2.0](https://github.com/electron/electron/releases/tag/v15.2.0)|2021-10-14||electron|no|16.5.0|94|
 |[v15.1.2](https://github.com/electron/electron/releases/tag/v15.1.2)|2021-10-08||electron|no|16.5.0|94|
 |[v15.1.1](https://github.com/electron/electron/releases/tag/v15.1.1)|2021-10-04||electron|no|16.5.0|94|
 |[v15.1.0](https://github.com/electron/electron/releases/tag/v15.1.0)|2021-10-01||electron|no|16.5.0|94|
