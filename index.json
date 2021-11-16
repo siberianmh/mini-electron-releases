@@ -724,6 +724,40 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84DL0X0",
+    "tag_name": "v16.0.0",
+    "name": "electron v16.0.0",
+    "prerelease": false,
+    "published_at": "2021-11-16T01:17:25Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/53429748/reactions",
+      "total_count": 1,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 1,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "version": "16.0.0",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.9.1",
+      "v8": "9.6.180.12-electron.0",
+      "uv": "1.42.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "99",
+      "chrome": "96.0.4664.45"
+    },
+    "npm_dist_tags": [
+      "latest",
+      "16-x-y"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTUwMDU2NDcx",
     "tag_name": "v16.0.0-nightly.20210922",
     "name": "electron v16.0.0-nightly.20210922",
@@ -1968,7 +2002,6 @@
       "chrome": "94.0.4606.81"
     },
     "npm_dist_tags": [
-      "latest",
       "15-x-y"
     ]
   },
