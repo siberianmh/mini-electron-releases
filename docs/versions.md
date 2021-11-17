@@ -43,6 +43,7 @@
 |[v17.0.0-nightly.20210927](https://github.com/electron/electron/releases/tag/v17.0.0-nightly.20210927)|2021-09-27||electron-nightly|yes|16.9.1|95|
 |[v17.0.0-nightly.20210924](https://github.com/electron/electron/releases/tag/v17.0.0-nightly.20210924)|2021-09-24||electron-nightly|yes|16.9.1|95|
 |[v17.0.0-nightly.20210923](https://github.com/electron/electron/releases/tag/v17.0.0-nightly.20210923)|2021-09-23||electron-nightly|yes|16.9.1|95|
+|[v17.0.0-alpha.1](https://github.com/electron/electron/releases/tag/v17.0.0-alpha.1)|2021-11-17|alpha, alpha-17-x-y|electron|yes|16.13.0|96|
 |[v16.0.0](https://github.com/electron/electron/releases/tag/v16.0.0)|2021-11-16|latest, 16-x-y|electron|no|16.9.1|96|
 |[v16.0.0-nightly.20210922](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210922)|2021-09-22||electron-nightly|yes|16.9.1|95|
 |[v16.0.0-nightly.20210921](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210921)|2021-09-21||electron-nightly|yes|16.9.1|95|
@@ -98,7 +99,7 @@
 |[v16.0.0-beta.3](https://github.com/electron/electron/releases/tag/v16.0.0-beta.3)|2021-10-25||electron|yes|16.9.1|96|
 |[v16.0.0-beta.2](https://github.com/electron/electron/releases/tag/v16.0.0-beta.2)|2021-10-21||electron|yes|16.9.1|96|
 |[v16.0.0-beta.1](https://github.com/electron/electron/releases/tag/v16.0.0-beta.1)|2021-10-20||electron|yes|16.9.1|96|
-|[v16.0.0-alpha.9](https://github.com/electron/electron/releases/tag/v16.0.0-alpha.9)|2021-10-18|alpha, alpha-16-x-y|electron|yes|16.9.1|96|
+|[v16.0.0-alpha.9](https://github.com/electron/electron/releases/tag/v16.0.0-alpha.9)|2021-10-18|alpha-16-x-y|electron|yes|16.9.1|96|
 |[v16.0.0-alpha.8](https://github.com/electron/electron/releases/tag/v16.0.0-alpha.8)|2021-10-14||electron|yes|16.9.1|96|
 |[v16.0.0-alpha.7](https://github.com/electron/electron/releases/tag/v16.0.0-alpha.7)|2021-10-11||electron|yes|16.9.1|95|
 |[v16.0.0-alpha.6](https://github.com/electron/electron/releases/tag/v16.0.0-alpha.6)|2021-10-07||electron|yes|16.9.1|95|
