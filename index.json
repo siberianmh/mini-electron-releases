@@ -894,7 +894,7 @@
     "prerelease": true,
     "published_at": "2021-11-25T18:59:53Z",
     "version": "17.0.0-alpha.4",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron",
     "deps": {
       "node": "16.13.0",
       "v8": "9.8.44-electron.0",
@@ -904,7 +904,10 @@
       "modules": "101",
       "chrome": "98.0.4706.0"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "alpha",
+      "alpha-17-x-y"
+    ]
   },
   {
     "node_id": "RE_kwDOAI8xS84DNdHC",
@@ -923,10 +926,7 @@
       "modules": "101",
       "chrome": "96.0.4664.4"
     },
-    "npm_dist_tags": [
-      "alpha",
-      "alpha-17-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84DMq1X",
