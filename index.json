@@ -1,5 +1,24 @@
 [
   {
+    "node_id": "MDc6UmVsZWFzZTU0MDcyNTQx",
+    "tag_name": "v18.0.0-nightly.20211125",
+    "name": "electron v18.0.0-nightly.20211125",
+    "prerelease": true,
+    "published_at": "2021-11-25T14:46:18Z",
+    "version": "18.0.0-nightly.20211125",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "16.13.0",
+      "v8": "9.8.44-electron.0",
+      "uv": "1.42.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "103",
+      "chrome": "98.0.4706.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTU0MDI5MTc3",
     "tag_name": "v18.0.0-nightly.20211124",
     "name": "electron v18.0.0-nightly.20211124",
@@ -159,6 +178,18 @@
     "name": "electron v17.0.0-nightly.20211112",
     "prerelease": true,
     "published_at": "2021-11-12T17:01:51Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/nightlies/releases/53241222/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
     "version": "17.0.0-nightly.20211112",
     "npm_package_name": "electron-nightly",
     "deps": {
