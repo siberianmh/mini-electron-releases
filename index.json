@@ -10901,6 +10901,16 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTM3NDIzMDQ2",
+    "tag_name": "v10.3.2",
+    "name": "electron v10.3.2",
+    "prerelease": false,
+    "published_at": "2021-02-05T22:52:23Z",
+    "version": "10.3.2",
+    "npm_package_name": "electron",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTM2OTg5OTg2",
     "tag_name": "v10.3.1",
     "name": "electron v10.3.1",

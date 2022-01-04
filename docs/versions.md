@@ -557,6 +557,7 @@
 |[v10.4.1](https://github.com/electron/electron/releases/tag/v10.4.1)|2021-03-15||electron|no|12.16.3|85|
 |[v10.4.0](https://github.com/electron/electron/releases/tag/v10.4.0)|2021-02-20||electron|no|12.16.3|85|
 |[v10.3.2](https://github.com/electron/electron/releases/tag/v10.3.2)|2021-02-05||electron|no|12.16.3|85|
+|[v10.3.2](https://github.com/electron/electron/releases/tag/v10.3.2)|2021-02-05||electron|no|||
 |[v10.3.1](https://github.com/electron/electron/releases/tag/v10.3.1)|2021-01-27||electron|no|12.16.3|85|
 |[v10.3.0](https://github.com/electron/electron/releases/tag/v10.3.0)|2021-01-15||electron|no|12.16.3|85|
 |[v10.2.0](https://github.com/electron/electron/releases/tag/v10.2.0)|2020-12-12||electron|no|12.16.3|85|
