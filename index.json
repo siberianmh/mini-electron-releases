@@ -1439,6 +1439,28 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84DYkIj",
+    "tag_name": "v17.0.0-beta.2",
+    "name": "electron v17.0.0-beta.2",
+    "prerelease": true,
+    "published_at": "2022-01-10T22:23:19Z",
+    "version": "17.0.0-beta.2",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.13.0",
+      "v8": "9.8.44-electron.0",
+      "uv": "1.42.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "101",
+      "chrome": "98.0.4706.0"
+    },
+    "npm_dist_tags": [
+      "beta",
+      "beta-17-x-y"
+    ]
+  },
+  {
     "node_id": "RE_kwDOAI8xS84DXrV8",
     "tag_name": "v17.0.0-beta.1",
     "name": "electron v17.0.0-beta.1",
@@ -1455,10 +1477,7 @@
       "modules": "101",
       "chrome": "98.0.4706.0"
     },
-    "npm_dist_tags": [
-      "beta",
-      "beta-17-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84DW1_6",
@@ -1583,6 +1602,18 @@
     "name": "electron v16.0.6",
     "prerelease": false,
     "published_at": "2022-01-03T23:22:39Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/56328093/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
     "version": "16.0.6",
     "npm_package_name": "electron",
     "deps": {
