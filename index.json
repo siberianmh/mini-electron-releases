@@ -19909,6 +19909,16 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTE0OTcwODkw",
+    "tag_name": "v3.1.1",
+    "name": "electron v3.1.1",
+    "prerelease": false,
+    "published_at": "2019-01-14T23:26:01Z",
+    "version": "3.1.1",
+    "npm_package_name": "electron",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTE0ODM4ODIx",
     "tag_name": "v3.1.0",
     "name": "electron v3.1.0",
