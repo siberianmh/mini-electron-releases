@@ -53,6 +53,7 @@
 |[v18.0.0-nightly.20211122](https://github.com/electron/electron/releases/tag/v18.0.0-nightly.20211122)|2021-11-22||electron-nightly|yes|16.13.0|96|
 |[v18.0.0-nightly.20211119](https://github.com/electron/electron/releases/tag/v18.0.0-nightly.20211119)|2021-11-20||electron-nightly|yes|16.13.0|96|
 |[v18.0.0-nightly.20211118](https://github.com/electron/electron/releases/tag/v18.0.0-nightly.20211118)|2021-11-18||electron-nightly|yes|16.13.0|96|
+|[v18.0.0-alpha.1](https://github.com/electron/electron/releases/tag/v18.0.0-alpha.1)|2022-02-02|alpha, alpha-18-x-y|electron|yes|16.13.2|99|
 |[v17.0.0](https://github.com/electron/electron/releases/tag/v17.0.0)|2022-02-01|latest, 17-x-y|electron|no|16.13.0|98|
 |[v17.0.0-nightly.20211117](https://github.com/electron/electron/releases/tag/v17.0.0-nightly.20211117)|2021-11-17||electron-nightly|yes|16.13.0|96|
 |[v17.0.0-nightly.20211116](https://github.com/electron/electron/releases/tag/v17.0.0-nightly.20211116)|2021-11-16||electron-nightly|yes|16.13.0|96|
@@ -103,7 +104,7 @@
 |[v17.0.0-beta.3](https://github.com/electron/electron/releases/tag/v17.0.0-beta.3)|2022-01-11||electron|yes|16.13.0|98|
 |[v17.0.0-beta.2](https://github.com/electron/electron/releases/tag/v17.0.0-beta.2)|2022-01-10||electron|yes|16.13.0|98|
 |[v17.0.0-beta.1](https://github.com/electron/electron/releases/tag/v17.0.0-beta.1)|2022-01-06||electron|yes|16.13.0|98|
-|[v17.0.0-alpha.6](https://github.com/electron/electron/releases/tag/v17.0.0-alpha.6)|2022-01-03|alpha, alpha-17-x-y|electron|yes|16.13.0|98|
+|[v17.0.0-alpha.6](https://github.com/electron/electron/releases/tag/v17.0.0-alpha.6)|2022-01-03|alpha-17-x-y|electron|yes|16.13.0|98|
 |[v17.0.0-alpha.5](https://github.com/electron/electron/releases/tag/v17.0.0-alpha.5)|2021-12-16||electron|yes|16.13.0|98|
 |[v17.0.0-alpha.4](https://github.com/electron/electron/releases/tag/v17.0.0-alpha.4)|2021-11-25||electron|yes|16.13.0|98|
 |[v17.0.0-alpha.3](https://github.com/electron/electron/releases/tag/v17.0.0-alpha.3)|2021-11-22||electron|yes|16.13.0|96|
