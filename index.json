@@ -1,5 +1,24 @@
 [
   {
+    "node_id": "MDc6UmVsZWFzZTU4NTk2Mzcx",
+    "tag_name": "v19.0.0-nightly.20220203",
+    "name": "electron v19.0.0-nightly.20220203",
+    "prerelease": true,
+    "published_at": "2022-02-03T14:53:17Z",
+    "version": "19.0.0-nightly.20220203",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "16.13.2",
+      "v8": "9.9.3-electron.0",
+      "uv": "1.42.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "106",
+      "chrome": "99.0.4767.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTU4NTE0NDIy",
     "tag_name": "v19.0.0-nightly.20220202",
     "name": "electron v19.0.0-nightly.20220202",
