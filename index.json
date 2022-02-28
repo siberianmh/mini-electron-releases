@@ -1047,11 +1047,42 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84DnM1A",
+    "tag_name": "v18.0.0-alpha.5",
+    "name": "electron v18.0.0-alpha.5",
+    "prerelease": true,
+    "published_at": "2022-02-28T15:31:30Z",
+    "version": "18.0.0-alpha.5",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "16.13.2",
+      "v8": "9.9.3-electron.0",
+      "uv": "1.42.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "103",
+      "chrome": "99.0.4767.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "RE_kwDOAI8xS84DmcR_",
     "tag_name": "v18.0.0-alpha.4",
     "name": "electron v18.0.0-alpha.4",
     "prerelease": true,
     "published_at": "2022-02-24T23:04:51Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/60408959/reactions",
+      "total_count": 2,
+      "+1": 2,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
     "version": "18.0.0-alpha.4",
     "npm_package_name": "electron",
     "deps": {
@@ -1145,13 +1176,13 @@
     "published_at": "2022-02-23T20:26:06Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/60253414/reactions",
-      "total_count": 2,
-      "+1": 1,
+      "total_count": 4,
+      "+1": 2,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
       "confused": 0,
-      "heart": 0,
+      "heart": 1,
       "rocket": 1,
       "eyes": 0
     },
