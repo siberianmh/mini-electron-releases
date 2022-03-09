@@ -200,7 +200,8 @@
 |[v16.0.0-alpha.3](https://github.com/electron/electron/releases/tag/v16.0.0-alpha.3)|2021-09-30||electron|yes|16.9.1|95|
 |[v16.0.0-alpha.2](https://github.com/electron/electron/releases/tag/v16.0.0-alpha.2)|2021-09-30||electron|yes|16.9.1|95|
 |[v16.0.0-alpha.1](https://github.com/electron/electron/releases/tag/v16.0.0-alpha.1)|2021-09-22||electron|yes|16.9.1|95|
-|[v15.4.0](https://github.com/electron/electron/releases/tag/v15.4.0)|2022-03-01|15-x-y|electron|no|16.5.0|94|
+|[v15.4.1](https://github.com/electron/electron/releases/tag/v15.4.1)|2022-03-09|15-x-y|electron|no|16.5.0|94|
+|[v15.4.0](https://github.com/electron/electron/releases/tag/v15.4.0)|2022-03-01||electron|no|16.5.0|94|
 |[v15.3.7](https://github.com/electron/electron/releases/tag/v15.3.7)|2022-02-14||electron|no|16.5.0|94|
 |[v15.3.6](https://github.com/electron/electron/releases/tag/v15.3.6)|2022-01-27||electron|no|16.5.0|94|
 |[v15.3.5](https://github.com/electron/electron/releases/tag/v15.3.5)|2022-01-11||electron|no|16.5.0|94|
@@ -270,7 +271,8 @@
 |[v15.0.0-alpha.3](https://github.com/electron/electron/releases/tag/v15.0.0-alpha.3)|2021-08-02||electron|yes|16.5.0|94|
 |[v15.0.0-alpha.2](https://github.com/electron/electron/releases/tag/v15.0.0-alpha.2)|2021-07-26||electron|yes|16.5.0|93|
 |[v15.0.0-alpha.1](https://github.com/electron/electron/releases/tag/v15.0.0-alpha.1)|2021-07-21||electron|yes|16.5.0|93|
-|[v14.2.6](https://github.com/electron/electron/releases/tag/v14.2.6)|2022-02-15|14-x-y|electron|no|14.17.0|93|
+|[v14.2.7](https://github.com/electron/electron/releases/tag/v14.2.7)|2022-03-09|14-x-y|electron|no|14.17.0|93|
+|[v14.2.6](https://github.com/electron/electron/releases/tag/v14.2.6)|2022-02-15||electron|no|14.17.0|93|
 |[v14.2.5](https://github.com/electron/electron/releases/tag/v14.2.5)|2022-01-27||electron|no|14.17.0|93|
 |[v14.2.4](https://github.com/electron/electron/releases/tag/v14.2.4)|2022-01-11||electron|no|14.17.0|93|
 |[v14.2.3](https://github.com/electron/electron/releases/tag/v14.2.3)|2021-12-16||electron|no|14.17.0|93|
