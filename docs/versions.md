@@ -1449,6 +1449,7 @@
 |[v0.6.0](https://github.com/electron/electron/releases/tag/v0.6.0)|2013-10-10||electron-prebuilt|no|||
 |[v0.5.4](https://github.com/electron/electron/releases/tag/v0.5.4)|2013-10-04||electron-prebuilt|no|||
 |[v0.5.3](https://github.com/electron/electron/releases/tag/v0.5.3)|2013-09-29||electron-prebuilt|no|||
+|[v0.5.2](https://github.com/electron/electron/releases/tag/v0.5.2)|2013-09-29||electron-prebuilt|no|||
 |[v0.5.1](https://github.com/electron/electron/releases/tag/v0.5.1)|2013-09-26||electron-prebuilt|no|||
 |[v0.5.0](https://github.com/electron/electron/releases/tag/v0.5.0)|2013-09-25||electron-prebuilt|no|||
 |[v0.4.9](https://github.com/electron/electron/releases/tag/v0.4.9)|2013-09-20||electron-prebuilt|no|||
