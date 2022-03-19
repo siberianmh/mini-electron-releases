@@ -26055,6 +26055,596 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTgzMzcwMA==",
+    "tag_name": "v0.20.5",
+    "name": "atom-shell v0.20.5",
+    "prerelease": false,
+    "published_at": "2015-01-08T07:55:19Z",
+    "version": "0.20.5",
+    "npm_package_name": "electron-prebuilt",
+    "deps": {
+      "node": "0.13.0-pre",
+      "apm": "0.122.0",
+      "v8": "3.29.88.17",
+      "uv": "1.0.0",
+      "zlib": "1.2.3",
+      "openssl": "1.0.1i",
+      "modules": "17",
+      "chrome": "39.0.2171.65"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTgyNjMxMg==",
+    "tag_name": "v0.20.4",
+    "name": "atom-shell v0.20.4",
+    "prerelease": false,
+    "published_at": "2015-01-06T00:16:49Z",
+    "version": "0.20.4",
+    "npm_package_name": "electron-prebuilt",
+    "deps": {
+      "node": "0.13.0-pre",
+      "apm": "0.122.0",
+      "v8": "3.29.88.17",
+      "uv": "1.0.0",
+      "zlib": "1.2.3",
+      "openssl": "1.0.1i",
+      "modules": "17",
+      "chrome": "39.0.2171.65"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTgxNDExMw==",
+    "tag_name": "v0.20.3",
+    "name": "atom-shell v0.20.3",
+    "prerelease": false,
+    "published_at": "2014-12-29T22:17:22Z",
+    "version": "0.20.3",
+    "npm_package_name": "electron-prebuilt",
+    "deps": {
+      "node": "0.13.0-pre",
+      "apm": "0.122.0",
+      "v8": "3.29.88.17",
+      "uv": "1.0.0",
+      "zlib": "1.2.3",
+      "openssl": "1.0.1i",
+      "modules": "17",
+      "chrome": "39.0.2171.65"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTgwMzk1Ng==",
+    "tag_name": "v0.20.2",
+    "name": "atom-shell v0.20.2",
+    "prerelease": false,
+    "published_at": "2014-12-22T21:46:35Z",
+    "version": "0.20.2",
+    "npm_package_name": "electron-prebuilt",
+    "deps": {
+      "node": "0.13.0-pre",
+      "apm": "0.122.0",
+      "v8": "3.29.88.17",
+      "uv": "1.0.0",
+      "zlib": "1.2.3",
+      "openssl": "1.0.1i",
+      "modules": "17",
+      "chrome": "39.0.2171.65"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTc5MjU5Nw==",
+    "tag_name": "v0.20.1",
+    "name": "atom-shell v0.20.1",
+    "prerelease": false,
+    "published_at": "2014-12-18T00:14:10Z",
+    "version": "0.20.1",
+    "npm_package_name": "electron-prebuilt",
+    "deps": {
+      "node": "0.13.0-pre",
+      "apm": "0.122.0",
+      "v8": "3.29.88.17",
+      "uv": "1.0.0",
+      "zlib": "1.2.3",
+      "openssl": "1.0.1i",
+      "modules": "17",
+      "chrome": "39.0.2171.65"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTc4MDIyNQ==",
+    "tag_name": "v0.20.0",
+    "name": "atom-shell v0.20.0",
+    "prerelease": false,
+    "published_at": "2014-12-13T05:07:51Z",
+    "version": "0.20.0",
+    "npm_package_name": "electron-prebuilt",
+    "deps": {
+      "node": "0.13.0-pre",
+      "apm": "0.122.0",
+      "v8": "3.29.88.17",
+      "uv": "1.0.0",
+      "zlib": "1.2.3",
+      "openssl": "1.0.1i",
+      "modules": "17",
+      "chrome": "39.0.2171.65"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTc0MDc0MA==",
+    "tag_name": "v0.19.5",
+    "name": "atom-shell v0.19.5",
+    "prerelease": false,
+    "published_at": "2014-11-28T15:27:25Z",
+    "version": "0.19.5",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTcyMjc1OA==",
+    "tag_name": "v0.19.4",
+    "name": "atom-shell v0.19.4",
+    "prerelease": false,
+    "published_at": "2014-11-21T11:52:41Z",
+    "version": "0.19.4",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTcxODk4NQ==",
+    "tag_name": "v0.19.3",
+    "name": "atom-shell v0.19.3",
+    "prerelease": false,
+    "published_at": "2014-11-20T08:06:38Z",
+    "version": "0.19.3",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTcwNjU5OA==",
+    "tag_name": "v0.19.2",
+    "name": "atom-shell v0.19.2",
+    "prerelease": false,
+    "published_at": "2014-11-15T08:59:08Z",
+    "version": "0.19.2",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTY3NjQ4OQ==",
+    "tag_name": "v0.19.1",
+    "name": "atom-shell v0.19.1",
+    "prerelease": false,
+    "published_at": "2014-11-04T12:02:35Z",
+    "version": "0.19.1",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTY2NDQ1OQ==",
+    "tag_name": "v0.19.0",
+    "name": "atom-shell v0.19.0",
+    "prerelease": false,
+    "published_at": "2014-10-30T05:49:33Z",
+    "version": "0.19.0",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTY0MjM0NA==",
+    "tag_name": "v0.18.2",
+    "name": "atom-shell v0.18.2",
+    "prerelease": false,
+    "published_at": "2014-10-21T14:15:45Z",
+    "version": "0.18.2",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTYzMzUxNw==",
+    "tag_name": "v0.18.1",
+    "name": "atom-shell v0.18.1",
+    "prerelease": false,
+    "published_at": "2014-10-17T10:49:00Z",
+    "version": "0.18.1",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTYyNTIwMg==",
+    "tag_name": "v0.18.0",
+    "name": "atom-shell v0.18.0",
+    "prerelease": false,
+    "published_at": "2014-10-14T13:35:48Z",
+    "version": "0.18.0",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTYwNTg0Mw==",
+    "tag_name": "v0.17.2",
+    "name": "atom-shell v0.17.2",
+    "prerelease": false,
+    "published_at": "2014-10-06T12:45:46Z",
+    "version": "0.17.2",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTU5NTg3Mg==",
+    "tag_name": "v0.17.1",
+    "name": "atom-shell v0.17.1",
+    "prerelease": false,
+    "published_at": "2014-10-01T13:27:25Z",
+    "version": "0.17.1",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTU5NTY5MA==",
+    "tag_name": "v0.17.0",
+    "name": "atom-shell v0.17.0",
+    "prerelease": false,
+    "published_at": "2014-10-01T12:10:05Z",
+    "version": "0.17.0",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTU3MTM0Mw==",
+    "tag_name": "v0.16.3",
+    "name": "atom-shell v0.16.3",
+    "prerelease": false,
+    "published_at": "2014-09-20T16:21:58Z",
+    "version": "0.16.3",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTU0NTE1NQ==",
+    "tag_name": "v0.16.2",
+    "name": "atom-shell v0.16.2",
+    "prerelease": false,
+    "published_at": "2014-09-09T12:41:19Z",
+    "version": "0.16.2",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTU0MTk3MA==",
+    "tag_name": "v0.16.1",
+    "name": "atom-shell v0.16.1",
+    "prerelease": false,
+    "published_at": "2014-09-08T10:08:03Z",
+    "version": "0.16.1",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTU0MDAwNA==",
+    "tag_name": "v0.16.0",
+    "name": "atom-shell v0.16.0",
+    "prerelease": false,
+    "published_at": "2014-09-06T15:26:52Z",
+    "version": "0.16.0",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTUwMjYxOA==",
+    "tag_name": "v0.15.9",
+    "name": "atom-shell v0.15.9",
+    "prerelease": false,
+    "published_at": "2014-08-20T11:00:41Z",
+    "version": "0.15.9",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ5NzU5Mw==",
+    "tag_name": "v0.15.8",
+    "name": "atom-shell v0.15.8",
+    "prerelease": false,
+    "published_at": "2014-08-18T11:56:58Z",
+    "version": "0.15.8",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ5MzEwMQ==",
+    "tag_name": "v0.15.7",
+    "name": "atom-shell v0.15.7",
+    "prerelease": false,
+    "published_at": "2014-08-15T08:00:20Z",
+    "version": "0.15.7",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ4ODMyOA==",
+    "tag_name": "v0.15.6",
+    "name": "atom-shell v0.15.6",
+    "prerelease": false,
+    "published_at": "2014-08-13T12:09:33Z",
+    "version": "0.15.6",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ4MzIwNg==",
+    "tag_name": "v0.15.5",
+    "name": "atom-shell v0.15.5",
+    "prerelease": false,
+    "published_at": "2014-08-11T12:39:18Z",
+    "version": "0.15.5",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ3NjYxNQ==",
+    "tag_name": "v0.15.4",
+    "name": "atom-shell v0.15.4",
+    "prerelease": false,
+    "published_at": "2014-08-07T12:25:46Z",
+    "version": "0.15.4",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ3NDY5OA==",
+    "tag_name": "v0.15.3",
+    "name": "atom-shell v0.15.3",
+    "prerelease": false,
+    "published_at": "2014-08-06T16:16:02Z",
+    "version": "0.15.3",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ2OTU0NA==",
+    "tag_name": "v0.15.2",
+    "name": "atom-shell v0.15.2",
+    "prerelease": false,
+    "published_at": "2014-08-04T14:06:17Z",
+    "version": "0.15.2",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ2Mjc0NQ==",
+    "tag_name": "v0.15.1",
+    "name": "atom-shell v0.15.1",
+    "prerelease": false,
+    "published_at": "2014-07-31T15:13:29Z",
+    "version": "0.15.1",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ1NjYzNA==",
+    "tag_name": "v0.15.0",
+    "name": "atom-shell v0.15.0",
+    "prerelease": false,
+    "published_at": "2014-07-29T06:24:39Z",
+    "version": "0.15.0",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ1MzE4Nw==",
+    "tag_name": "v0.14.3",
+    "name": "atom-shell v0.14.3",
+    "prerelease": false,
+    "published_at": "2014-07-27T02:48:23Z",
+    "version": "0.14.3",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ1MTA2OQ==",
+    "tag_name": "v0.14.2",
+    "name": "atom-shell v0.14.2",
+    "prerelease": false,
+    "published_at": "2014-07-25T15:26:16Z",
+    "version": "0.14.2",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ0ODcwNw==",
+    "tag_name": "v0.14.1",
+    "name": "atom-shell v0.14.1",
+    "prerelease": false,
+    "published_at": "2014-07-24T15:34:11Z",
+    "version": "0.14.1",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ0MTU2Ng==",
+    "tag_name": "v0.14.0",
+    "name": "atom-shell v0.14.0",
+    "prerelease": false,
+    "published_at": "2014-07-22T01:58:20Z",
+    "version": "0.14.0",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTM5MzExOQ==",
+    "tag_name": "v0.13.3",
+    "name": "atom-shell v0.13.3",
+    "prerelease": false,
+    "published_at": "2014-06-25T01:51:59Z",
+    "version": "0.13.3",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTM4MDQ3MA==",
+    "tag_name": "v0.13.2",
+    "name": "atom-shell v0.13.2",
+    "prerelease": false,
+    "published_at": "2014-06-18T02:58:05Z",
+    "version": "0.13.2",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTM3NDgyMg==",
+    "tag_name": "v0.13.1",
+    "name": "atom-shell v0.13.1",
+    "prerelease": false,
+    "published_at": "2014-06-14T15:57:02Z",
+    "version": "0.13.1",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTM1ODExOA==",
+    "tag_name": "v0.13.0",
+    "name": "atom-shell v0.13.0",
+    "prerelease": false,
+    "published_at": "2014-06-05T09:20:16Z",
+    "version": "0.13.0",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTM0MTAwNw==",
+    "tag_name": "v0.12.7",
+    "name": "atom-shell v0.12.7",
+    "prerelease": false,
+    "published_at": "2014-05-27T08:10:08Z",
+    "version": "0.12.7",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTM0MDA4Mw==",
+    "tag_name": "v0.12.6",
+    "name": "atom-shell v0.12.6",
+    "prerelease": false,
+    "published_at": "2014-05-26T14:48:09Z",
+    "version": "0.12.6",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTMyNzQzNA==",
+    "tag_name": "v0.12.5",
+    "name": "atom-shell v0.12.5",
+    "prerelease": false,
+    "published_at": "2014-05-19T14:47:27Z",
+    "version": "0.12.5",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTMxNTY4Nw==",
+    "tag_name": "v0.12.4",
+    "name": "atom-shell v0.12.4",
+    "prerelease": false,
+    "published_at": "2014-05-12T14:29:16Z",
+    "version": "0.12.4",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTMwNzI4Ng==",
+    "tag_name": "v0.12.3",
+    "name": "atom-shell v0.12.3",
+    "prerelease": false,
+    "published_at": "2014-05-07T08:26:58Z",
+    "version": "0.12.3",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTMwMzQ3MA==",
+    "tag_name": "v0.12.2",
+    "name": "atom-shell v0.12.2",
+    "prerelease": false,
+    "published_at": "2014-05-05T11:20:31Z",
+    "version": "0.12.2",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTMwMzA3Mw==",
+    "tag_name": "v0.12.1",
+    "name": "atom-shell v0.12.1",
+    "prerelease": false,
+    "published_at": "2014-05-05T04:30:52Z",
+    "version": "0.12.1",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTI5MzcyOA==",
+    "tag_name": "v0.12.0",
+    "name": "atom-shell v0.12.0",
+    "prerelease": false,
+    "published_at": "2014-04-29T07:08:40Z",
+    "version": "0.12.0",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTI3MTI0MQ==",
+    "tag_name": "v0.11.10",
+    "name": "atom-shell v0.11.10",
+    "prerelease": false,
+    "published_at": "2014-04-14T16:37:54Z",
+    "version": "0.11.10",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTI2NzQ5OA==",
+    "tag_name": "v0.11.9",
+    "name": "atom-shell v0.11.9",
+    "prerelease": false,
+    "published_at": "2014-04-11T12:02:35Z",
+    "version": "0.11.9",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTI2NTM5OQ==",
+    "tag_name": "v0.11.8",
+    "name": "atom-shell v0.11.8",
+    "prerelease": false,
+    "published_at": "2014-04-10T07:59:22Z",
+    "version": "0.11.8",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTI2MTY3OA==",
+    "tag_name": "v0.11.7",
+    "name": "atom-shell v0.11.7",
+    "prerelease": false,
+    "published_at": "2014-04-08T07:24:31Z",
+    "version": "0.11.7",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTI1OTg2Mw==",
+    "tag_name": "v0.11.6",
+    "name": "atom-shell v0.11.6",
+    "prerelease": false,
+    "published_at": "2014-04-07T14:57:05Z",
+    "version": "0.11.6",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTI1MjI1NA==",
     "tag_name": "v0.11.5",
     "name": "atom-shell v0.11.5",
@@ -26145,12 +26735,32 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTIwNjAwNA==",
+    "tag_name": "v0.10.4",
+    "name": "atom-shell v0.10.4",
+    "prerelease": false,
+    "published_at": "2014-03-02T10:44:28Z",
+    "version": "0.10.4",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTIwMzE0MQ==",
     "tag_name": "v0.10.3",
     "name": "atom-shell v0.10.3",
     "prerelease": false,
     "published_at": "2014-02-28T12:42:37Z",
     "version": "0.10.3",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTIwMjQwMQ==",
+    "tag_name": "v0.10.2",
+    "name": "atom-shell v0.10.2",
+    "prerelease": false,
+    "published_at": "2014-02-27T08:26:30Z",
+    "version": "0.10.2",
     "npm_package_name": "electron-prebuilt",
     "npm_dist_tags": []
   },
@@ -26201,6 +26811,16 @@
     "prerelease": false,
     "published_at": "2014-02-04T01:29:41Z",
     "version": "0.9.1",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE2OTk5Mw==",
+    "tag_name": "v0.9.0",
+    "name": "atom-shell v0.9.0",
+    "prerelease": false,
+    "published_at": "2014-02-02T13:41:02Z",
+    "version": "0.9.0",
     "npm_package_name": "electron-prebuilt",
     "npm_dist_tags": []
   },
@@ -26481,6 +27101,16 @@
     "prerelease": false,
     "published_at": "2013-10-10T09:51:53Z",
     "version": "0.6.0",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTU3ODc0",
+    "tag_name": "v0.5.4",
+    "name": "atom-shell v0.5.4",
+    "prerelease": false,
+    "published_at": "2013-10-04T06:03:38Z",
+    "version": "0.5.4",
     "npm_package_name": "electron-prebuilt",
     "npm_dist_tags": []
   },
