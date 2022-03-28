@@ -27312,26 +27312,6 @@
     "npm_dist_tags": []
   },
   {
-    "node_id": "MDc6UmVsZWFzZTcyNzMx",
-    "tag_name": "v0.6.4",
-    "name": "atom-shell v0.6.4",
-    "prerelease": false,
-    "published_at": "2013-10-22T02:33:09Z",
-    "version": "0.6.4",
-    "npm_package_name": "electron-prebuilt",
-    "npm_dist_tags": []
-  },
-  {
-    "node_id": "MDc6UmVsZWFzZTcxODQ5",
-    "tag_name": "v0.6.3",
-    "name": "atom-shell v0.6.3",
-    "prerelease": false,
-    "published_at": "2013-10-21T09:01:27Z",
-    "version": "0.6.3",
-    "npm_package_name": "electron-prebuilt",
-    "npm_dist_tags": []
-  },
-  {
     "node_id": "MDc6UmVsZWFzZTY5MDAy",
     "tag_name": "v0.6.2",
     "name": "atom-shell v0.6.2",
