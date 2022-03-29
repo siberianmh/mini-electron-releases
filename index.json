@@ -4475,6 +4475,18 @@
     "name": "electron v15.5.0",
     "prerelease": false,
     "published_at": "2022-03-29T00:21:26Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/62965270/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
     "version": "15.5.0",
     "npm_package_name": "electron",
     "deps": {
@@ -26228,6 +26240,16 @@
       "modules": "43",
       "chrome": "41.0.2272.76"
     },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTEwNjQzNDk=",
+    "tag_name": "v0.22.1",
+    "name": "atom-shell v0.22.1",
+    "prerelease": false,
+    "published_at": "2015-03-18T15:15:17Z",
+    "version": "0.22.1",
+    "npm_package_name": "electron-prebuilt",
     "npm_dist_tags": []
   },
   {
