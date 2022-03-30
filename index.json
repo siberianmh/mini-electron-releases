@@ -425,8 +425,20 @@
     "name": "electron v19.0.0-alpha.1",
     "prerelease": true,
     "published_at": "2022-03-30T01:48:20Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/63090486/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
     "version": "19.0.0-alpha.1",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron",
     "deps": {
       "node": "16.14.2",
       "v8": "10.2.18-electron.0",
@@ -436,7 +448,10 @@
       "modules": "106",
       "chrome": "102.0.4962.3"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "alpha",
+      "alpha-19-x-y"
+    ]
   },
   {
     "node_id": "RE_kwDOAI8xS84DwUHW",
@@ -1574,7 +1589,6 @@
       "chrome": "99.0.4767.0"
     },
     "npm_dist_tags": [
-      "alpha",
       "alpha-18-x-y"
     ]
   },
