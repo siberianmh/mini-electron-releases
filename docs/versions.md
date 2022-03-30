@@ -938,7 +938,6 @@
 |[v7.1.0](https://github.com/electron/electron/releases/tag/v7.1.0)|2019-11-05||electron|no|12.8.1|78|
 |[v7.0.1](https://github.com/electron/electron/releases/tag/v7.0.1)|2019-11-01|7-0-x|electron|no|12.8.1|78|
 |[v7.0.0](https://github.com/electron/electron/releases/tag/v7.0.0)|2019-10-21||electron|no|12.8.1|78|
-|[v7.0.0-nightly.20190731](https://github.com/electron/electron/releases/tag/v7.0.0-nightly.20190731)|2019-07-31||electron-nightly|yes|12.6.0|78|
 |[v7.0.0-nightly.20190730](https://github.com/electron/electron/releases/tag/v7.0.0-nightly.20190730)|2019-07-30||electron-nightly|yes|12.6.0|78|
 |[v7.0.0-nightly.20190729](https://github.com/electron/electron/releases/tag/v7.0.0-nightly.20190729)|2019-07-29||electron-nightly|yes|12.6.0|78|
 |[v7.0.0-nightly.20190728](https://github.com/electron/electron/releases/tag/v7.0.0-nightly.20190728)|2019-07-28||electron-nightly|yes|12.6.0|78|
