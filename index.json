@@ -480,8 +480,8 @@
     "published_at": "2022-04-05T20:26:10Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/63652767/reactions",
-      "total_count": 1,
-      "+1": 1,
+      "total_count": 2,
+      "+1": 2,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
@@ -4744,6 +4744,37 @@
       "openssl": "1.1.1",
       "modules": "99",
       "chrome": "95.0.4629.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "RE_kwDOAI8xS84DzPPV",
+    "tag_name": "v15.5.2",
+    "name": "electron v15.5.2",
+    "prerelease": false,
+    "published_at": "2022-04-06T19:06:07Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/63763413/reactions",
+      "total_count": 1,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 1,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "version": "15.5.2",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "16.5.0",
+      "v8": "9.4.146.22-electron.0",
+      "uv": "1.41.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "98",
+      "chrome": "94.0.4606.81"
     },
     "npm_dist_tags": []
   },
