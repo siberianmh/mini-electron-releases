@@ -16514,6 +16514,16 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTI1NDUxOTg4",
+    "tag_name": "v9.0.0-beta.16",
+    "name": "electron v9.0.0-beta.16",
+    "prerelease": true,
+    "published_at": "2020-04-13T18:22:28Z",
+    "version": "9.0.0-beta.16",
+    "npm_package_name": "electron",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTI1MzY2OTc4",
     "tag_name": "v9.0.0-beta.15",
     "name": "electron v9.0.0-beta.15",
