@@ -691,8 +691,20 @@
     "name": "electron v19.0.0-beta.3",
     "prerelease": true,
     "published_at": "2022-05-02T20:12:19Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/65831562/reactions",
+      "total_count": 1,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 1,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
     "version": "19.0.0-beta.3",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron",
     "deps": {
       "node": "16.14.2",
       "v8": "10.2.127-electron.0",
@@ -702,7 +714,10 @@
       "modules": "106",
       "chrome": "102.0.4999.0"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "beta",
+      "beta-19-x-y"
+    ]
   },
   {
     "node_id": "RE_kwDOAI8xS84D6joX",
@@ -733,10 +748,7 @@
       "modules": "106",
       "chrome": "102.0.4999.0"
     },
-    "npm_dist_tags": [
-      "beta",
-      "beta-19-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84D6PN3",
