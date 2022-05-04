@@ -10832,6 +10832,18 @@
     ]
   },
   {
+    "node_id": "RE_kwDOAI8xS84DLwFm",
+    "tag_name": "v12.2.3",
+    "name": "electron v12.2.3",
+    "prerelease": false,
+    "published_at": "2021-11-15T21:31:05Z",
+    "version": "12.2.3",
+    "npm_package_name": "electron",
+    "npm_dist_tags": [
+      "12-x-y"
+    ]
+  },
+  {
     "node_id": "RE_kwDOAI8xS84DDJj4",
     "tag_name": "v12.2.2",
     "name": "electron v12.2.2",
