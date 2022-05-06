@@ -1,5 +1,17 @@
 [
   {
+    "node_id": "MDc6UmVsZWFzZTY2MjYyNzcy",
+    "tag_name": "v20.0.0-nightly.20220506",
+    "name": "electron v20.0.0-nightly.20220506",
+    "prerelease": true,
+    "published_at": "2022-05-06T23:05:12Z",
+    "version": "20.0.0-nightly.20220506",
+    "npm_package_name": "electron-nightly",
+    "npm_dist_tags": [
+      "nightly"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTY2MTEzNTQ3",
     "tag_name": "v20.0.0-nightly.20220505",
     "name": "electron v20.0.0-nightly.20220505",
@@ -16,9 +28,7 @@
       "modules": "107",
       "chrome": "102.0.4999.0"
     },
-    "npm_dist_tags": [
-      "nightly"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTY2MDE4MjE1",
