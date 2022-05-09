@@ -7,15 +7,6 @@
     "published_at": "2022-05-09T15:28:46Z",
     "version": "20.0.0-nightly.20220509",
     "npm_package_name": "electron-nightly",
-    "deps": {
-      "node": "16.14.2",
-      "v8": "10.2.127-electron.0",
-      "uv": "1.43.0",
-      "zlib": "1.2.11",
-      "openssl": "1.1.1",
-      "modules": "107",
-      "chrome": "102.0.4999.0"
-    },
     "npm_dist_tags": [
       "nightly"
     ]
@@ -781,6 +772,19 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84D9Ll_",
+    "tag_name": "v19.0.0-beta.5",
+    "name": "electron v19.0.0-beta.5",
+    "prerelease": true,
+    "published_at": "2022-05-09T18:01:30Z",
+    "version": "19.0.0-beta.5",
+    "npm_package_name": "electron",
+    "npm_dist_tags": [
+      "beta",
+      "beta-19-x-y"
+    ]
+  },
+  {
     "node_id": "RE_kwDOAI8xS84D8Nv4",
     "tag_name": "v19.0.0-beta.4",
     "name": "electron v19.0.0-beta.4",
@@ -809,10 +813,7 @@
       "modules": "106",
       "chrome": "102.0.5005.27"
     },
-    "npm_dist_tags": [
-      "beta",
-      "beta-19-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84D7IKK",
@@ -2516,8 +2517,8 @@
     "published_at": "2022-05-05T22:28:23Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/66163682/reactions",
-      "total_count": 11,
-      "+1": 11,
+      "total_count": 12,
+      "+1": 12,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,

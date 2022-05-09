@@ -3,7 +3,7 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
-|[v20.0.0-nightly.20220509](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220509)|2022-05-09|nightly|electron-nightly|yes|16.14.2|102|
+|[v20.0.0-nightly.20220509](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220509)|2022-05-09|nightly|electron-nightly|yes|||
 |[v20.0.0-nightly.20220506](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220506)|2022-05-06||electron-nightly|yes|16.14.2|102|
 |[v20.0.0-nightly.20220505](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220505)|2022-05-05||electron-nightly|yes|16.14.2|102|
 |[v20.0.0-nightly.20220504](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220504)|2022-05-04||electron-nightly|yes|16.14.2|102|
@@ -44,7 +44,8 @@
 |[v19.0.0-nightly.20220204](https://github.com/electron/electron/releases/tag/v19.0.0-nightly.20220204)|2022-02-04||electron-nightly|yes|16.13.2|99|
 |[v19.0.0-nightly.20220203](https://github.com/electron/electron/releases/tag/v19.0.0-nightly.20220203)|2022-02-03||electron-nightly|yes|16.13.2|99|
 |[v19.0.0-nightly.20220202](https://github.com/electron/electron/releases/tag/v19.0.0-nightly.20220202)|2022-02-02||electron-nightly|yes|16.13.2|99|
-|[v19.0.0-beta.4](https://github.com/electron/electron/releases/tag/v19.0.0-beta.4)|2022-05-05|beta, beta-19-x-y|electron|yes|16.14.2|102|
+|[v19.0.0-beta.5](https://github.com/electron/electron/releases/tag/v19.0.0-beta.5)|2022-05-09|beta, beta-19-x-y|electron|yes|||
+|[v19.0.0-beta.4](https://github.com/electron/electron/releases/tag/v19.0.0-beta.4)|2022-05-05||electron|yes|16.14.2|102|
 |[v19.0.0-beta.3](https://github.com/electron/electron/releases/tag/v19.0.0-beta.3)|2022-05-02||electron|yes|16.14.2|102|
 |[v19.0.0-beta.2](https://github.com/electron/electron/releases/tag/v19.0.0-beta.2)|2022-04-29||electron|yes|16.14.2|102|
 |[v19.0.0-beta.1](https://github.com/electron/electron/releases/tag/v19.0.0-beta.1)|2022-04-28||electron|yes|16.14.2|102|
