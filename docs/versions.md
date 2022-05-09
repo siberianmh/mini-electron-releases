@@ -3,7 +3,8 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
-|[v20.0.0-nightly.20220506](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220506)|2022-05-06|nightly|electron-nightly|yes|16.14.2|102|
+|[v20.0.0-nightly.20220509](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220509)|2022-05-09|nightly|electron-nightly|yes|16.14.2|102|
+|[v20.0.0-nightly.20220506](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220506)|2022-05-06||electron-nightly|yes|16.14.2|102|
 |[v20.0.0-nightly.20220505](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220505)|2022-05-05||electron-nightly|yes|16.14.2|102|
 |[v20.0.0-nightly.20220504](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220504)|2022-05-04||electron-nightly|yes|16.14.2|102|
 |[v20.0.0-nightly.20220503](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220503)|2022-05-03||electron-nightly|yes|16.14.2|102|
@@ -501,7 +502,6 @@
 |[v13.0.0-nightly.20201203](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20201203)|2020-12-03||electron-nightly|yes|14.15.1|89|
 |[v13.0.0-nightly.20201202](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20201202)|2020-12-02||electron-nightly|yes|14.15.1|89|
 |[v13.0.0-nightly.20201201](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20201201)|2020-12-01||electron-nightly|yes|14.15.1|89|
-|[v13.0.0-nightly.20201201](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20201201)|2020-12-01||electron-nightly|yes|||
 |[v13.0.0-nightly.20201130](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20201130)|2020-11-30||electron-nightly|yes|14.15.1|89|
 |[v13.0.0-nightly.20201127](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20201127)|2020-11-27||electron-nightly|yes|14.15.1|89|
 |[v13.0.0-nightly.20201126](https://github.com/electron/electron/releases/tag/v13.0.0-nightly.20201126)|2020-11-26||electron-nightly|yes|14.15.1|89|
