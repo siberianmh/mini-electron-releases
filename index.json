@@ -2581,6 +2581,16 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84D-DFI",
+    "tag_name": "v17.4.4",
+    "name": "electron v17.4.4",
+    "prerelease": false,
+    "published_at": "2022-05-11T17:54:34Z",
+    "version": "17.4.4",
+    "npm_package_name": "NFUSINGv2",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "RE_kwDOAI8xS84D8ZPi",
     "tag_name": "v17.4.3",
     "name": "electron v17.4.3",
@@ -21040,16 +21050,6 @@
       "modules": "73",
       "chrome": "76.0.3809.131"
     },
-    "npm_dist_tags": []
-  },
-  {
-    "node_id": "MDc6UmVsZWFzZTE5NTA2MTA2",
-    "tag_name": "v6.0.4",
-    "name": "electron v6.0.4",
-    "prerelease": false,
-    "published_at": "2019-08-24T00:00:46Z",
-    "version": "6.0.4",
-    "npm_package_name": "electron",
     "npm_dist_tags": []
   },
   {
