@@ -839,6 +839,16 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84D_clC",
+    "tag_name": "v19.0.0-beta.7",
+    "name": "electron v19.0.0-beta.7",
+    "prerelease": true,
+    "published_at": "2022-05-16T17:19:27Z",
+    "version": "19.0.0-beta.7",
+    "npm_package_name": "NFUSINGv2",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "RE_kwDOAI8xS84D-Z4R",
     "tag_name": "v19.0.0-beta.6",
     "name": "electron v19.0.0-beta.6",
