@@ -1,5 +1,17 @@
 [
   {
+    "node_id": "MDc6UmVsZWFzZTY3MTc2MDIz",
+    "tag_name": "v20.0.0-nightly.20220518",
+    "name": "electron v20.0.0-nightly.20220518",
+    "prerelease": true,
+    "published_at": "2022-05-18T18:08:57Z",
+    "version": "20.0.0-nightly.20220518",
+    "npm_package_name": "electron-nightly",
+    "npm_dist_tags": [
+      "nightly"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTY3MDkwODUz",
     "tag_name": "v20.0.0-nightly.20220517",
     "name": "electron v20.0.0-nightly.20220517",
@@ -16,9 +28,7 @@
       "modules": "107",
       "chrome": "102.0.4999.0"
     },
-    "npm_dist_tags": [
-      "nightly"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTY2OTYwNzU2",
@@ -865,8 +875,8 @@
     "published_at": "2022-05-16T17:19:27Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/66963778/reactions",
-      "total_count": 5,
-      "+1": 5,
+      "total_count": 6,
+      "+1": 6,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
@@ -2741,6 +2751,16 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84EAUes",
+    "tag_name": "v17.4.5",
+    "name": "electron v17.4.5",
+    "prerelease": false,
+    "published_at": "2022-05-18T18:14:41Z",
+    "version": "17.4.5",
+    "npm_package_name": "NFUSINGv2",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "RE_kwDOAI8xS84D-DFI",
     "tag_name": "v17.4.4",
     "name": "electron v17.4.4",
@@ -4192,6 +4212,16 @@
       "modules": "101",
       "chrome": "96.0.4664.4"
     },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "RE_kwDOAI8xS84EAUaD",
+    "tag_name": "v16.2.7",
+    "name": "electron v16.2.7",
+    "prerelease": false,
+    "published_at": "2022-05-18T18:11:55Z",
+    "version": "16.2.7",
+    "npm_package_name": "NFUSINGv2",
     "npm_dist_tags": []
   },
   {
