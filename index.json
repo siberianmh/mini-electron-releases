@@ -1234,6 +1234,16 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84EAUZV",
+    "tag_name": "v18.2.4",
+    "name": "electron v18.2.4",
+    "prerelease": false,
+    "published_at": "2022-05-18T19:01:11Z",
+    "version": "18.2.4",
+    "npm_package_name": "NFUSINGv2",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "RE_kwDOAI8xS84D-DDO",
     "tag_name": "v18.2.3",
     "name": "electron v18.2.3",
