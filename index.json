@@ -1241,11 +1241,11 @@
     "published_at": "2022-05-11T18:51:34Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/66597070/reactions",
-      "total_count": 7,
+      "total_count": 8,
       "+1": 0,
       "-1": 0,
       "laugh": 0,
-      "hooray": 7,
+      "hooray": 8,
       "confused": 0,
       "heart": 0,
       "rocket": 0,
@@ -2757,8 +2757,10 @@
     "prerelease": false,
     "published_at": "2022-05-18T18:14:41Z",
     "version": "17.4.5",
-    "npm_package_name": "NFUSINGv2",
-    "npm_dist_tags": []
+    "npm_package_name": "electron",
+    "npm_dist_tags": [
+      "17-x-y"
+    ]
   },
   {
     "node_id": "RE_kwDOAI8xS84D-DFI",
@@ -2777,9 +2779,7 @@
       "modules": "101",
       "chrome": "98.0.4758.141"
     },
-    "npm_dist_tags": [
-      "17-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84D8ZPi",
@@ -4221,8 +4221,10 @@
     "prerelease": false,
     "published_at": "2022-05-18T18:11:55Z",
     "version": "16.2.7",
-    "npm_package_name": "NFUSINGv2",
-    "npm_dist_tags": []
+    "npm_package_name": "electron",
+    "npm_dist_tags": [
+      "16-x-y"
+    ]
   },
   {
     "node_id": "RE_kwDOAI8xS84D-DEi",
@@ -4232,9 +4234,7 @@
     "published_at": "2022-05-11T17:47:51Z",
     "version": "16.2.6",
     "npm_package_name": "electron",
-    "npm_dist_tags": [
-      "16-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84D75zv",
