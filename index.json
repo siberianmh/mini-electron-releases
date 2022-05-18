@@ -1239,9 +1239,33 @@
     "name": "electron v18.2.4",
     "prerelease": false,
     "published_at": "2022-05-18T19:01:11Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/67192405/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
     "version": "18.2.4",
-    "npm_package_name": "NFUSINGv2",
-    "npm_dist_tags": []
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.13.2",
+      "v8": "10.0.139.17-electron.0",
+      "uv": "1.42.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "103",
+      "chrome": "100.0.4896.160"
+    },
+    "npm_dist_tags": [
+      "latest",
+      "18-x-y"
+    ]
   },
   {
     "node_id": "RE_kwDOAI8xS84D-DDO",
@@ -1272,10 +1296,7 @@
       "modules": "103",
       "chrome": "100.0.4896.143"
     },
-    "npm_dist_tags": [
-      "latest",
-      "18-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84D9y61",
