@@ -877,6 +877,16 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84EAp5p",
+    "tag_name": "v19.0.0-beta.8",
+    "name": "electron v19.0.0-beta.8",
+    "prerelease": true,
+    "published_at": "2022-05-19T16:58:16Z",
+    "version": "19.0.0-beta.8",
+    "npm_package_name": "NFUSINGv2",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "RE_kwDOAI8xS84D_clC",
     "tag_name": "v19.0.0-beta.7",
     "name": "electron v19.0.0-beta.7",
@@ -1250,8 +1260,8 @@
     "published_at": "2022-05-18T19:01:11Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/67192405/reactions",
-      "total_count": 6,
-      "+1": 6,
+      "total_count": 8,
+      "+1": 8,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
