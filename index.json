@@ -6111,6 +6111,18 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84EBs2q",
+    "tag_name": "v15.5.6",
+    "name": "electron v15.5.6",
+    "prerelease": false,
+    "published_at": "2022-05-23T20:00:14Z",
+    "version": "15.5.6",
+    "npm_package_name": "electron",
+    "npm_dist_tags": [
+      "15-x-y"
+    ]
+  },
+  {
     "node_id": "RE_kwDOAI8xS84D-DD8",
     "tag_name": "v15.5.5",
     "name": "electron v15.5.5",
@@ -6118,9 +6130,7 @@
     "published_at": "2022-05-11T17:44:48Z",
     "version": "15.5.5",
     "npm_package_name": "electron",
-    "npm_dist_tags": [
-      "15-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84D751o",
