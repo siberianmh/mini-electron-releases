@@ -68,7 +68,8 @@
 |[v19.0.0-alpha.3](https://github.com/electron/electron/releases/tag/v19.0.0-alpha.3)|2022-04-18||electron|yes|16.14.2|102|
 |[v19.0.0-alpha.2](https://github.com/electron/electron/releases/tag/v19.0.0-alpha.2)|2022-04-15||electron|yes|16.14.2|102|
 |[v19.0.0-alpha.1](https://github.com/electron/electron/releases/tag/v19.0.0-alpha.1)|2022-03-30||electron|yes|16.14.2|102|
-|[v18.3.0](https://github.com/electron/electron/releases/tag/v18.3.0)|2022-05-23|18-x-y|electron|no|16.13.2|100|
+|[v18.3.1](https://github.com/electron/electron/releases/tag/v18.3.1)|2022-05-25|18-x-y|electron|no|16.13.2|100|
+|[v18.3.0](https://github.com/electron/electron/releases/tag/v18.3.0)|2022-05-23||electron|no|16.13.2|100|
 |[v18.2.4](https://github.com/electron/electron/releases/tag/v18.2.4)|2022-05-18||electron|no|16.13.2|100|
 |[v18.2.3](https://github.com/electron/electron/releases/tag/v18.2.3)|2022-05-11||electron|no|16.13.2|100|
 |[v18.2.2](https://github.com/electron/electron/releases/tag/v18.2.2)|2022-05-11||electron|no|16.13.2|100|
@@ -140,7 +141,8 @@
 |[v18.0.0-alpha.3](https://github.com/electron/electron/releases/tag/v18.0.0-alpha.3)|2022-02-14||electron|yes|16.13.2|99|
 |[v18.0.0-alpha.2](https://github.com/electron/electron/releases/tag/v18.0.0-alpha.2)|2022-02-08||electron|yes|16.13.2|99|
 |[v18.0.0-alpha.1](https://github.com/electron/electron/releases/tag/v18.0.0-alpha.1)|2022-02-02||electron|yes|16.13.2|99|
-|[v17.4.5](https://github.com/electron/electron/releases/tag/v17.4.5)|2022-05-18|17-x-y|electron|no|16.13.0|98|
+|[v17.4.6](https://github.com/electron/electron/releases/tag/v17.4.6)|2022-05-25|17-x-y|electron|no|16.13.0|98|
+|[v17.4.5](https://github.com/electron/electron/releases/tag/v17.4.5)|2022-05-18||electron|no|16.13.0|98|
 |[v17.4.4](https://github.com/electron/electron/releases/tag/v17.4.4)|2022-05-11||electron|no|16.13.0|98|
 |[v17.4.3](https://github.com/electron/electron/releases/tag/v17.4.3)|2022-05-05||electron|no|16.13.0|98|
 |[v17.4.2](https://github.com/electron/electron/releases/tag/v17.4.2)|2022-04-29||electron|no|16.13.0|98|
