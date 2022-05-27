@@ -3,6 +3,7 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
+|[v21.0.0-nightly.20220527](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220527)|2022-05-27||NFUSINGv2|yes|16.15.0|103|
 |[v21.0.0-nightly.20220526](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220526)|2022-05-26|nightly|electron-nightly|yes|16.15.0|103|
 |[v20.0.0-nightly.20220524](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220524)|2022-05-24||electron-nightly|yes|16.15.0|103|
 |[v20.0.0-nightly.20220523](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220523)|2022-05-23||electron-nightly|yes|16.15.0|103|
@@ -1159,7 +1160,6 @@
 |[v4.0.4](https://github.com/electron/electron/releases/tag/v4.0.4)|2019-02-02||electron|no|10.11.0|69|
 |[v4.0.3](https://github.com/electron/electron/releases/tag/v4.0.3)|2019-01-29||electron|no|10.11.0|69|
 |[v4.0.2](https://github.com/electron/electron/releases/tag/v4.0.2)|2019-01-22||electron|no|10.11.0|69|
-|[v4.0.1](https://github.com/electron/electron/releases/tag/v4.0.1)|2019-01-04||electron|no|10.11.0|69|
 |[v4.0.0](https://github.com/electron/electron/releases/tag/v4.0.0)|2018-12-20||electron|no|10.11.0|69|
 |[v4.0.0-nightly.20181010](https://github.com/electron/electron/releases/tag/v4.0.0-nightly.20181010)|2018-10-10||electron|yes|10.11.0|69|
 |[v4.0.0-nightly.20181006](https://github.com/electron/electron/releases/tag/v4.0.0-nightly.20181006)|2018-10-06||electron|yes|10.11.0|68|
@@ -1275,6 +1275,7 @@
 |[v1.8.2-beta.1](https://github.com/electron/electron/releases/tag/v1.8.2-beta.1)|2017-10-19||electron|yes|8.2.1|59|
 |[v1.8.1](https://github.com/electron/electron/releases/tag/v1.8.1)|2017-09-29||electron|yes|8.2.1|59|
 |[v1.8.0](https://github.com/electron/electron/releases/tag/v1.8.0)|2017-12-12||NFUSINGv2|yes|8.2.1|59|
+|[v1.8.0](https://github.com/electron/electron/releases/tag/v1.8.0)|2017-12-12||NFUSINGv2|yes|||
 |[v1.7.16](https://github.com/electron/electron/releases/tag/v1.7.16)|2018-08-22|1-7-x|electron|no|7.9.0|58|
 |[v1.7.15](https://github.com/electron/electron/releases/tag/v1.7.15)|2018-05-16||electron|no|7.9.0|58|
 |[v1.7.14](https://github.com/electron/electron/releases/tag/v1.7.14)|2018-04-27||electron|no|7.9.0|58|
