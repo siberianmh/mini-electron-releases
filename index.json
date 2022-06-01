@@ -670,8 +670,8 @@
     "published_at": "2022-05-25T19:16:40Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/67815054/reactions",
-      "total_count": 1,
-      "+1": 1,
+      "total_count": 2,
+      "+1": 2,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
@@ -3127,6 +3127,27 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84EEws3",
+    "tag_name": "v17.4.7",
+    "name": "electron v17.4.7",
+    "prerelease": false,
+    "published_at": "2022-06-01T18:41:05Z",
+    "version": "17.4.7",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.13.0",
+      "v8": "9.8.177.13-electron.0",
+      "uv": "1.42.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "101",
+      "chrome": "98.0.4758.141"
+    },
+    "npm_dist_tags": [
+      "17-x-y"
+    ]
+  },
+  {
     "node_id": "RE_kwDOAI8xS84ECsbw",
     "tag_name": "v17.4.6",
     "name": "electron v17.4.6",
@@ -3143,9 +3164,7 @@
       "modules": "101",
       "chrome": "98.0.4758.141"
     },
-    "npm_dist_tags": [
-      "17-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84EAUes",
