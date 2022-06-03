@@ -1292,7 +1292,6 @@
 |[v1.7.12](https://github.com/electron/electron/releases/tag/v1.7.12)|2018-01-31||electron|no|7.9.0|58|
 |[v1.7.11](https://github.com/electron/electron/releases/tag/v1.7.11)|2018-01-23||electron|no|7.9.0|58|
 |[v1.7.10](https://github.com/electron/electron/releases/tag/v1.7.10)|2017-12-18||electron|no|7.9.0|58|
-|[v1.7.9](https://github.com/electron/electron/releases/tag/v1.7.9)|2017-10-11||electron|no|7.9.0|58|
 |[v1.7.8](https://github.com/electron/electron/releases/tag/v1.7.8)|2017-09-24||electron|no|7.9.0|58|
 |[v1.7.7](https://github.com/electron/electron/releases/tag/v1.7.7)|2017-09-05||electron|yes|7.9.0|58|
 |[v1.7.6](https://github.com/electron/electron/releases/tag/v1.7.6)|2017-08-09||electron|no|7.9.0|58|
@@ -1395,6 +1394,7 @@
 |[v0.35.6](https://github.com/electron/electron/releases/tag/v0.35.6)|2016-01-11||electron-prebuilt|no|||
 |[v0.35.5](https://github.com/electron/electron/releases/tag/v0.35.5)|2015-12-31||electron-prebuilt|no|4.1.1|45|
 |[v0.35.4](https://github.com/electron/electron/releases/tag/v0.35.4)|2015-12-04||electron-prebuilt|no|4.1.1|45|
+|[v0.35.4](https://github.com/electron/electron/releases/tag/v0.35.4)|2015-12-04||electron-prebuilt|no|||
 |[v0.35.3](https://github.com/electron/electron/releases/tag/v0.35.3)|2015-12-04||electron-prebuilt|no|4.1.1|45|
 |[v0.35.2](https://github.com/electron/electron/releases/tag/v0.35.2)|2015-11-27||electron-prebuilt|no|4.1.1|45|
 |[v0.35.1](https://github.com/electron/electron/releases/tag/v0.35.1)|2015-11-20||electron-prebuilt|no|4.1.1|45|

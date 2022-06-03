@@ -25692,25 +25692,6 @@
     "npm_dist_tags": []
   },
   {
-    "node_id": "MDc6UmVsZWFzZTgwNjgzMDY=",
-    "tag_name": "v1.7.9",
-    "name": "electron v1.7.9",
-    "prerelease": false,
-    "published_at": "2017-10-11T23:19:43Z",
-    "version": "1.7.9",
-    "npm_package_name": "electron",
-    "deps": {
-      "node": "7.9.0",
-      "v8": "5.8.283.38",
-      "uv": "1.11.0",
-      "zlib": "1.2.11",
-      "openssl": "1.0.2k",
-      "modules": "54",
-      "chrome": "58.0.3029.110"
-    },
-    "npm_dist_tags": []
-  },
-  {
     "node_id": "MDc6UmVsZWFzZTc4NjY4NTE=",
     "tag_name": "v1.7.8",
     "name": "electron v1.7.8",
@@ -27601,6 +27582,16 @@
       "modules": "46",
       "chrome": "45.0.2454.85"
     },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTIyMzMxOTE=",
+    "tag_name": "v0.35.4",
+    "name": "electron v0.35.4",
+    "prerelease": false,
+    "published_at": "2015-12-04T12:39:09Z",
+    "version": "0.35.4",
+    "npm_package_name": "electron-prebuilt",
     "npm_dist_tags": []
   },
   {
