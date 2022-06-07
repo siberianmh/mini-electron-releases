@@ -1,5 +1,26 @@
 [
   {
+    "node_id": "MDc6UmVsZWFzZTY4ODQyNDcy",
+    "tag_name": "v21.0.0-nightly.20220607",
+    "name": "electron v21.0.0-nightly.20220607",
+    "prerelease": true,
+    "published_at": "2022-06-07T17:11:07Z",
+    "version": "21.0.0-nightly.20220607",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "16.15.1",
+      "v8": "10.4.27-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.12",
+      "openssl": "1.1.1",
+      "modules": "107",
+      "chrome": "104.0.5073.0"
+    },
+    "npm_dist_tags": [
+      "nightly"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTY4NzEwOTIx",
     "tag_name": "v21.0.0-nightly.20220606",
     "name": "electron v21.0.0-nightly.20220606",
@@ -16,9 +37,7 @@
       "modules": "107",
       "chrome": "104.0.5073.0"
     },
-    "npm_dist_tags": [
-      "nightly"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTY4NTQ1OTU2",
@@ -7378,16 +7397,6 @@
       "modules": "89",
       "chrome": "93.0.4566.0"
     },
-    "npm_dist_tags": []
-  },
-  {
-    "node_id": "MDc6UmVsZWFzZTQ2MDU1NTk1",
-    "tag_name": "v15.0.0-nightly.20210712",
-    "name": "electron v15.0.0-nightly.20210712",
-    "prerelease": true,
-    "published_at": "2021-07-12T14:55:27Z",
-    "version": "15.0.0-nightly.20210712",
-    "npm_package_name": "electron-nightly",
     "npm_dist_tags": []
   },
   {
