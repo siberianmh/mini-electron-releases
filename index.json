@@ -762,24 +762,12 @@
     "npm_dist_tags": []
   },
   {
-    "node_id": "RE_kwDOAI8xS84EHcQ_",
-    "tag_name": "v20.0.0-alpha.4",
-    "name": "electron v20.0.0-alpha.4",
+    "node_id": "RE_kwDOAI8xS84EIXLI",
+    "tag_name": "v20.0.0-alpha.5",
+    "name": "electron v20.0.0-alpha.5",
     "prerelease": true,
-    "published_at": "2022-06-09T16:36:18Z",
-    "reactions": {
-      "url": "https://api.github.com/repos/electron/electron/releases/69059647/reactions",
-      "total_count": 14,
-      "+1": 7,
-      "-1": 0,
-      "laugh": 0,
-      "hooray": 4,
-      "confused": 0,
-      "heart": 0,
-      "rocket": 3,
-      "eyes": 0
-    },
-    "version": "20.0.0-alpha.4",
+    "published_at": "2022-06-13T15:53:01Z",
+    "version": "20.0.0-alpha.5",
     "npm_package_name": "electron",
     "deps": {
       "node": "16.15.0",
@@ -794,6 +782,37 @@
       "alpha",
       "alpha-20-x-y"
     ]
+  },
+  {
+    "node_id": "RE_kwDOAI8xS84EHcQ_",
+    "tag_name": "v20.0.0-alpha.4",
+    "name": "electron v20.0.0-alpha.4",
+    "prerelease": true,
+    "published_at": "2022-06-09T16:36:18Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/69059647/reactions",
+      "total_count": 24,
+      "+1": 15,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 5,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 4,
+      "eyes": 0
+    },
+    "version": "20.0.0-alpha.4",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.15.0",
+      "v8": "10.4.27-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.12",
+      "openssl": "1.1.1",
+      "modules": "107",
+      "chrome": "104.0.5073.0"
+    },
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84EGH2e",
@@ -853,11 +872,11 @@
     "published_at": "2022-05-25T19:23:41Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/67800122/reactions",
-      "total_count": 14,
+      "total_count": 15,
       "+1": 0,
       "-1": 0,
       "laugh": 0,
-      "hooray": 11,
+      "hooray": 12,
       "confused": 0,
       "heart": 0,
       "rocket": 3,
@@ -884,11 +903,11 @@
     "published_at": "2022-06-08T18:27:02Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/68967971/reactions",
-      "total_count": 1,
+      "total_count": 2,
       "+1": 0,
       "-1": 0,
       "laugh": 0,
-      "hooray": 1,
+      "hooray": 2,
       "confused": 0,
       "heart": 0,
       "rocket": 0,
