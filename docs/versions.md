@@ -3,8 +3,8 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
-|[v21.0.0-nightly.20220616](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220616)|2022-06-16||NFUSINGv2|yes|16.15.1|104|
-|[v21.0.0-nightly.20220615](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220615)|2022-06-15|nightly|electron-nightly|yes|16.15.1|104|
+|[v21.0.0-nightly.20220616](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220616)|2022-06-16|nightly|electron-nightly|yes|16.15.1|104|
+|[v21.0.0-nightly.20220615](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220615)|2022-06-15||electron-nightly|yes|16.15.1|104|
 |[v21.0.0-nightly.20220614](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220614)|2022-06-14||electron-nightly|yes|16.15.1|104|
 |[v21.0.0-nightly.20220613](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220613)|2022-06-13||electron-nightly|yes|16.15.1|104|
 |[v21.0.0-nightly.20220610](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220610)|2022-06-10||electron-nightly|yes|16.15.1|104|
@@ -47,6 +47,7 @@
 |[v20.0.0-nightly.20220414](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220414)|2022-04-15||electron-nightly|yes|16.14.2|102|
 |[v20.0.0-nightly.20220411](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220411)|2022-04-11||electron-nightly|yes|16.14.2|102|
 |[v20.0.0-nightly.20220330](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220330)|2022-03-30||electron-nightly|yes|16.14.2|102|
+|[v20.0.0-alpha.6](https://github.com/electron/electron/releases/tag/v20.0.0-alpha.6)|2022-06-16||NFUSINGv2|yes|16.15.0|104|
 |[v20.0.0-alpha.5](https://github.com/electron/electron/releases/tag/v20.0.0-alpha.5)|2022-06-13|alpha, alpha-20-x-y|electron|yes|16.15.0|104|
 |[v20.0.0-alpha.4](https://github.com/electron/electron/releases/tag/v20.0.0-alpha.4)|2022-06-09||electron|yes|16.15.0|104|
 |[v20.0.0-alpha.3](https://github.com/electron/electron/releases/tag/v20.0.0-alpha.3)|2022-06-06||electron|yes|16.15.0|104|
