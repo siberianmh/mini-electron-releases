@@ -1942,6 +1942,18 @@
     "name": "electron v18.3.4",
     "prerelease": false,
     "published_at": "2022-06-15T19:22:58Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/69536328/reactions",
+      "total_count": 15,
+      "+1": 10,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 5,
+      "rocket": 0,
+      "eyes": 0
+    },
     "version": "18.3.4",
     "npm_package_name": "electron",
     "deps": {
@@ -19463,44 +19475,6 @@
     "prerelease": true,
     "published_at": "2019-10-06T17:19:32Z",
     "version": "8.0.0-nightly.20191006",
-    "npm_package_name": "electron-nightly",
-    "deps": {
-      "node": "12.9.1",
-      "v8": "7.9.74-electron.0",
-      "uv": "1.31.0",
-      "zlib": "1.2.11",
-      "openssl": "1.1.0",
-      "modules": "76",
-      "chrome": "79.0.3919.0"
-    },
-    "npm_dist_tags": []
-  },
-  {
-    "node_id": "MDc6UmVsZWFzZTIwNDkyODU2",
-    "tag_name": "v8.0.0-nightly.20191005",
-    "name": "electron v8.0.0-nightly.20191005",
-    "prerelease": true,
-    "published_at": "2019-10-05T17:12:24Z",
-    "version": "8.0.0-nightly.20191005",
-    "npm_package_name": "electron-nightly",
-    "deps": {
-      "node": "12.9.1",
-      "v8": "7.9.74-electron.0",
-      "uv": "1.31.0",
-      "zlib": "1.2.11",
-      "openssl": "1.1.0",
-      "modules": "76",
-      "chrome": "79.0.3919.0"
-    },
-    "npm_dist_tags": []
-  },
-  {
-    "node_id": "MDc6UmVsZWFzZTIwNDc4MDMz",
-    "tag_name": "v8.0.0-nightly.20191004",
-    "name": "electron v8.0.0-nightly.20191004",
-    "prerelease": true,
-    "published_at": "2019-10-04T16:57:23Z",
-    "version": "8.0.0-nightly.20191004",
     "npm_package_name": "electron-nightly",
     "deps": {
       "node": "12.9.1",
