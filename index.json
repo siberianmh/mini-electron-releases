@@ -1,5 +1,24 @@
 [
   {
+    "node_id": "MDc6UmVsZWFzZTY5NzE1MTg5",
+    "tag_name": "v21.0.0-nightly.20220617",
+    "name": "electron v21.0.0-nightly.20220617",
+    "prerelease": true,
+    "published_at": "2022-06-17T15:39:23Z",
+    "version": "21.0.0-nightly.20220617",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "16.15.1",
+      "v8": "10.4.27-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.12",
+      "openssl": "1.1.1",
+      "modules": "107",
+      "chrome": "104.0.5073.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTY5NjE2MjA0",
     "tag_name": "v21.0.0-nightly.20220616",
     "name": "electron v21.0.0-nightly.20220616",
@@ -845,8 +864,8 @@
     "published_at": "2022-06-16T16:01:09Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/69619321/reactions",
-      "total_count": 5,
-      "+1": 5,
+      "total_count": 6,
+      "+1": 6,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
