@@ -56,6 +56,7 @@
 |[v20.0.0-alpha.3](https://github.com/electron/electron/releases/tag/v20.0.0-alpha.3)|2022-06-06||electron|yes|16.15.0|104|
 |[v20.0.0-alpha.2](https://github.com/electron/electron/releases/tag/v20.0.0-alpha.2)|2022-06-03||electron|yes|16.15.0|104|
 |[v20.0.0-alpha.1](https://github.com/electron/electron/releases/tag/v20.0.0-alpha.1)|2022-05-25||electron|yes|16.15.0|103|
+|[v19.0.5](https://github.com/electron/electron/releases/tag/v19.0.5)|2022-06-20||NFUSINGv2|no|16.14.2|102|
 |[v19.0.4](https://github.com/electron/electron/releases/tag/v19.0.4)|2022-06-08|latest, 19-x-y|electron|no|16.14.2|102|
 |[v19.0.3](https://github.com/electron/electron/releases/tag/v19.0.3)|2022-06-03||electron|no|16.14.2|102|
 |[v19.0.2](https://github.com/electron/electron/releases/tag/v19.0.2)|2022-06-01||electron|no|16.14.2|102|
