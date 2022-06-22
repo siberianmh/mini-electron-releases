@@ -921,15 +921,15 @@
     "published_at": "2022-06-21T19:06:37Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/69951441/reactions",
-      "total_count": 7,
-      "+1": 4,
+      "total_count": 13,
+      "+1": 5,
       "-1": 0,
-      "laugh": 0,
-      "hooray": 0,
+      "laugh": 1,
+      "hooray": 1,
       "confused": 0,
-      "heart": 0,
-      "rocket": 3,
-      "eyes": 0
+      "heart": 1,
+      "rocket": 4,
+      "eyes": 1
     },
     "version": "20.0.0-beta.1",
     "npm_package_name": "electron",
@@ -989,8 +989,8 @@
     "published_at": "2022-06-16T16:01:09Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/69619321/reactions",
-      "total_count": 10,
-      "+1": 9,
+      "total_count": 11,
+      "+1": 10,
       "-1": 0,
       "laugh": 0,
       "hooray": 1,
@@ -1152,6 +1152,25 @@
       "openssl": "1.1.1",
       "modules": "107",
       "chrome": "103.0.5044.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "RE_kwDOAI8xS84ELQRO",
+    "tag_name": "v19.0.6",
+    "name": "electron v19.0.6",
+    "prerelease": false,
+    "published_at": "2022-06-22T18:54:13Z",
+    "version": "19.0.6",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "16.14.2",
+      "v8": "10.2.154.8-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "106",
+      "chrome": "102.0.5005.115"
     },
     "npm_dist_tags": []
   },
@@ -2154,6 +2173,25 @@
       "openssl": "1.1.1",
       "modules": "106",
       "chrome": "102.0.4962.3"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "RE_kwDOAI8xS84ELQR7",
+    "tag_name": "v18.3.5",
+    "name": "electron v18.3.5",
+    "prerelease": false,
+    "published_at": "2022-06-22T18:54:09Z",
+    "version": "18.3.5",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "16.13.2",
+      "v8": "10.0.139.17-electron.0",
+      "uv": "1.42.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "103",
+      "chrome": "100.0.4896.160"
     },
     "npm_dist_tags": []
   },
