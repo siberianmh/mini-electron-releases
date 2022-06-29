@@ -1611,6 +1611,5 @@
 |[v0.3.4](https://github.com/electron/electron/releases/tag/v0.3.4)|2013-08-15||electron-prebuilt|no|||
 |[v0.3.3](https://github.com/electron/electron/releases/tag/v0.3.3)|2013-08-15||electron-prebuilt|no|||
 |[v0.3.2](https://github.com/electron/electron/releases/tag/v0.3.2)|2013-08-13||electron-prebuilt|no|||
-|[v0.3.1](https://github.com/electron/electron/releases/tag/v0.3.1)|2013-08-12||electron-prebuilt|no|||
 
 <!-- END RELEASES TABLE -->
