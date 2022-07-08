@@ -3,7 +3,8 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
-|[v21.0.0-nightly.20220707](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220707)|2022-07-07|nightly|electron-nightly|yes|16.15.1|105|
+|[v21.0.0-nightly.20220708](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220708)|2022-07-08|nightly|electron-nightly|yes|16.15.1|105|
+|[v21.0.0-nightly.20220707](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220707)|2022-07-07||electron-nightly|yes|16.15.1|105|
 |[v21.0.0-nightly.20220706](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220706)|2022-07-06||electron-nightly|yes|16.15.1|105|
 |[v21.0.0-nightly.20220705](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220705)|2022-07-05||electron-nightly|yes|16.15.1|105|
 |[v21.0.0-nightly.20220704](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220704)|2022-07-04||electron-nightly|yes|16.15.1|105|
@@ -62,7 +63,8 @@
 |[v20.0.0-nightly.20220414](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220414)|2022-04-15||electron-nightly|yes|16.14.2|102|
 |[v20.0.0-nightly.20220411](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220411)|2022-04-11||electron-nightly|yes|16.14.2|102|
 |[v20.0.0-nightly.20220330](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220330)|2022-03-30||electron-nightly|yes|16.14.2|102|
-|[v20.0.0-beta.6](https://github.com/electron/electron/releases/tag/v20.0.0-beta.6)|2022-07-07|beta, beta-20-x-y|electron|yes|16.15.0|104|
+|[v20.0.0-beta.7](https://github.com/electron/electron/releases/tag/v20.0.0-beta.7)|2022-07-08|beta, beta-20-x-y|electron|yes|16.15.0|104|
+|[v20.0.0-beta.6](https://github.com/electron/electron/releases/tag/v20.0.0-beta.6)|2022-07-07||electron|yes|16.15.0|104|
 |[v20.0.0-beta.5](https://github.com/electron/electron/releases/tag/v20.0.0-beta.5)|2022-07-04||electron|yes|16.15.0|104|
 |[v20.0.0-beta.4](https://github.com/electron/electron/releases/tag/v20.0.0-beta.4)|2022-06-30||electron|yes|16.15.0|104|
 |[v20.0.0-beta.3](https://github.com/electron/electron/releases/tag/v20.0.0-beta.3)|2022-06-27||electron|yes|16.15.0|104|
@@ -1147,7 +1149,6 @@
 |[v6.0.0](https://github.com/electron/electron/releases/tag/v6.0.0)|2019-07-29||electron|no|12.4.0|76|
 |[v6.0.0-nightly.20190311](https://github.com/electron/electron/releases/tag/v6.0.0-nightly.20190311)|2019-03-11||electron-nightly|yes|12.0.0|74|
 |[v6.0.0-nightly.20190213](https://github.com/electron/electron/releases/tag/v6.0.0-nightly.20190213)|2019-02-14||electron-nightly|yes|12.0.0|72|
-|[v6.0.0-nightly.20190212](https://github.com/electron/electron/releases/tag/v6.0.0-nightly.20190212)|2019-02-12||electron-nightly|yes|12.0.0|72|
 |[v6.0.0-beta.15](https://github.com/electron/electron/releases/tag/v6.0.0-beta.15)|2019-07-20|beta-6-0-x|electron|yes|12.4.0|76|
 |[v6.0.0-beta.14](https://github.com/electron/electron/releases/tag/v6.0.0-beta.14)|2019-07-17||electron|yes|12.4.0|76|
 |[v6.0.0-beta.13](https://github.com/electron/electron/releases/tag/v6.0.0-beta.13)|2019-07-10||electron|yes|12.0.0|76|
@@ -1177,9 +1178,6 @@
 |[v5.0.2](https://github.com/electron/electron/releases/tag/v5.0.2)|2019-05-23||electron|no|12.0.0|73|
 |[v5.0.1](https://github.com/electron/electron/releases/tag/v5.0.1)|2019-05-04||electron|no|12.0.0|73|
 |[v5.0.0](https://github.com/electron/electron/releases/tag/v5.0.0)|2019-04-24||electron|no|12.0.0|73|
-|[v5.0.0-nightly.20190122](https://github.com/electron/electron/releases/tag/v5.0.0-nightly.20190122)|2019-01-22||electron-nightly|yes|12.0.0|71|
-|[v5.0.0-nightly.20190121](https://github.com/electron/electron/releases/tag/v5.0.0-nightly.20190121)|2019-01-22||electron-nightly|yes|12.0.0|71|
-|[v5.0.0-nightly.20190107](https://github.com/electron/electron/releases/tag/v5.0.0-nightly.20190107)|2019-01-08||electron-nightly|yes|11.0.0|70|
 |[v5.0.0-beta.9](https://github.com/electron/electron/releases/tag/v5.0.0-beta.9)|2019-04-20|beta-5-0-x|electron|yes|12.0.0|73|
 |[v5.0.0-beta.8](https://github.com/electron/electron/releases/tag/v5.0.0-beta.8)|2019-04-04||electron|yes|12.0.0|73|
 |[v5.0.0-beta.7](https://github.com/electron/electron/releases/tag/v5.0.0-beta.7)|2019-03-28||electron|yes|12.0.0|73|
@@ -1217,8 +1215,6 @@
 |[v4.0.2](https://github.com/electron/electron/releases/tag/v4.0.2)|2019-01-22||electron|no|10.11.0|69|
 |[v4.0.1](https://github.com/electron/electron/releases/tag/v4.0.1)|2019-01-04||electron|no|10.11.0|69|
 |[v4.0.0](https://github.com/electron/electron/releases/tag/v4.0.0)|2018-12-20||electron|no|10.11.0|69|
-|[v4.0.0-nightly.20181010](https://github.com/electron/electron/releases/tag/v4.0.0-nightly.20181010)|2018-10-10||electron|yes|10.11.0|69|
-|[v4.0.0-nightly.20181006](https://github.com/electron/electron/releases/tag/v4.0.0-nightly.20181006)|2018-10-06||electron|yes|10.11.0|68|
 |[v4.0.0-nightly.20180929](https://github.com/electron/electron/releases/tag/v4.0.0-nightly.20180929)|2018-09-29||electron|yes|10.6.0|67|
 |[v4.0.0-nightly.20180821](https://github.com/electron/electron/releases/tag/v4.0.0-nightly.20180821)|2018-08-21||electron|yes|10.2.0|66|
 |[v4.0.0-nightly.20180819](https://github.com/electron/electron/releases/tag/v4.0.0-nightly.20180819)|2018-08-19||electron|yes|10.2.0|66|
