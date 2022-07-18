@@ -3,7 +3,8 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
-|[v21.0.0-nightly.20220715](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220715)|2022-07-16|nightly|electron-nightly|yes|16.15.1|105|
+|[v21.0.0-nightly.20220718](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220718)|2022-07-18|nightly|electron-nightly|yes|16.15.1|105|
+|[v21.0.0-nightly.20220715](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220715)|2022-07-16||electron-nightly|yes|16.15.1|105|
 |[v21.0.0-nightly.20220713](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220713)|2022-07-13||electron-nightly|yes|16.15.1|105|
 |[v21.0.0-nightly.20220712](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220712)|2022-07-12||electron-nightly|yes|16.15.1|105|
 |[v21.0.0-nightly.20220711](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220711)|2022-07-11||electron-nightly|yes|16.15.1|105|
@@ -325,7 +326,6 @@
 |[v16.0.0-nightly.20210823](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210823)|2021-08-23||electron-nightly|yes|16.7.0|94|
 |[v16.0.0-nightly.20210820](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210820)|2021-08-20||electron-nightly|yes|16.5.0|94|
 |[v16.0.0-nightly.20210819](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210819)|2021-08-19||electron-nightly|yes|16.5.0|94|
-|[v16.0.0-nightly.20210819](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210819)|2021-08-19||electron-nightly|yes|||
 |[v16.0.0-nightly.20210818](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210818)|2021-08-18||electron-nightly|yes|16.5.0|94|
 |[v16.0.0-nightly.20210817](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210817)|2021-08-17||electron-nightly|yes|16.5.0|94|
 |[v16.0.0-nightly.20210816](https://github.com/electron/electron/releases/tag/v16.0.0-nightly.20210816)|2021-08-16||electron-nightly|yes|16.5.0|94|
