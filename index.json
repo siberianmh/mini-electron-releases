@@ -7167,6 +7167,16 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTQ4MTEyNzkw",
+    "tag_name": "v16.0.0-nightly.20210819",
+    "name": "electron v16.0.0-nightly.20210819",
+    "prerelease": true,
+    "published_at": "2021-08-19T15:48:55Z",
+    "version": "16.0.0-nightly.20210819",
+    "npm_package_name": "electron-nightly",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTQ4MDQyOTkz",
     "tag_name": "v16.0.0-nightly.20210818",
     "name": "electron v16.0.0-nightly.20210818",
