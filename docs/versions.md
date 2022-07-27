@@ -3,7 +3,8 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
-|[v21.0.0-nightly.20220726](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220726)|2022-07-26|nightly|electron-nightly|yes|16.16.0|105|
+|[v21.0.0-nightly.20220727](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220727)|2022-07-27|nightly|electron-nightly|yes|16.16.0|105|
+|[v21.0.0-nightly.20220726](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220726)|2022-07-26||electron-nightly|yes|16.16.0|105|
 |[v21.0.0-nightly.20220725](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220725)|2022-07-25||electron-nightly|yes|16.15.1|105|
 |[v21.0.0-nightly.20220722](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220722)|2022-07-22||electron-nightly|yes|16.15.1|105|
 |[v21.0.0-nightly.20220721](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220721)|2022-07-21||electron-nightly|yes|16.15.1|105|
@@ -759,7 +760,6 @@
 |[v11.0.0-nightly.20200717](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200717)|2020-07-17||electron-nightly|yes|12.18.2|86|
 |[v11.0.0-nightly.20200716](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200716)|2020-07-16||electron-nightly|yes|12.18.2|86|
 |[v11.0.0-nightly.20200709](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200709)|2020-07-09||NFUSINGv2|yes|12.18.2|85|
-|[v11.0.0-nightly.20200709](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200709)|2020-07-09||NFUSINGv2|yes|||
 |[v11.0.0-nightly.20200708](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200708)|2020-07-08||electron-nightly|yes|12.18.2|85|
 |[v11.0.0-nightly.20200707](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200707)|2020-07-07||electron-nightly|yes|12.18.2|85|
 |[v11.0.0-nightly.20200706](https://github.com/electron/electron/releases/tag/v11.0.0-nightly.20200706)|2020-07-06||electron-nightly|yes|12.18.2|85|
