@@ -2063,6 +2063,25 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84EYlgM",
+    "tag_name": "v19.0.11",
+    "name": "electron v19.0.11",
+    "prerelease": false,
+    "published_at": "2022-08-03T18:27:22Z",
+    "version": "19.0.11",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "16.14.2",
+      "v8": "10.2.154.15-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "106",
+      "chrome": "102.0.5005.167"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "RE_kwDOAI8xS84EWYdu",
     "tag_name": "v19.0.10",
     "name": "electron v19.0.10",
@@ -20193,6 +20212,16 @@
       "modules": "80",
       "chrome": "82.0.4048.0"
     },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTIzOTgwOTM0",
+    "tag_name": "v9.0.0-beta.3",
+    "name": "electron v9.0.0-beta.3",
+    "prerelease": true,
+    "published_at": "2020-02-26T01:10:31Z",
+    "version": "9.0.0-beta.3",
+    "npm_package_name": "electron",
     "npm_dist_tags": []
   },
   {
