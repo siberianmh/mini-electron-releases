@@ -1,5 +1,26 @@
 [
   {
+    "node_id": "MDc6UmVsZWFzZTczODg3MzA0",
+    "tag_name": "v22.0.0-nightly.20220808",
+    "name": "electron v22.0.0-nightly.20220808",
+    "prerelease": true,
+    "published_at": "2022-08-08T15:59:07Z",
+    "version": "22.0.0-nightly.20220808",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "16.16.0",
+      "v8": "10.5.196-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.12",
+      "openssl": "1.1.1",
+      "modules": "109",
+      "chrome": "105.0.5187.0"
+    },
+    "npm_dist_tags": [
+      "nightly"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTczNDM1MjIy",
     "tag_name": "v21.0.0-nightly.20220802",
     "name": "electron v21.0.0-nightly.20220802",
@@ -16,9 +37,7 @@
       "modules": "107",
       "chrome": "105.0.5187.0"
     },
-    "npm_dist_tags": [
-      "nightly"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTczMzM4NDU3",
@@ -1521,7 +1540,7 @@
     "published_at": "2022-07-28T16:50:21Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/73063463/reactions",
-      "total_count": 1,
+      "total_count": 2,
       "+1": 0,
       "-1": 0,
       "laugh": 0,
@@ -1529,7 +1548,7 @@
       "confused": 0,
       "heart": 0,
       "rocket": 0,
-      "eyes": 1
+      "eyes": 2
     },
     "version": "20.0.0-beta.13",
     "npm_package_name": "electron",
@@ -3297,14 +3316,14 @@
     "published_at": "2022-08-03T19:41:39Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/73553968/reactions",
-      "total_count": 9,
+      "total_count": 10,
       "+1": 5,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
       "confused": 0,
       "heart": 1,
-      "rocket": 3,
+      "rocket": 4,
       "eyes": 0
     },
     "version": "18.3.7",
@@ -3361,8 +3380,8 @@
     "published_at": "2022-06-22T18:54:09Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/70059131/reactions",
-      "total_count": 1,
-      "+1": 1,
+      "total_count": 2,
+      "+1": 2,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
