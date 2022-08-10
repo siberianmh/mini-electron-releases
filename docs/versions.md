@@ -104,8 +104,8 @@
 |[v20.0.0-alpha.3](https://github.com/electron/electron/releases/tag/v20.0.0-alpha.3)|2022-06-06||electron|yes|16.15.0|104|
 |[v20.0.0-alpha.2](https://github.com/electron/electron/releases/tag/v20.0.0-alpha.2)|2022-06-03||electron|yes|16.15.0|104|
 |[v20.0.0-alpha.1](https://github.com/electron/electron/releases/tag/v20.0.0-alpha.1)|2022-05-25||electron|yes|16.15.0|103|
-|[v19.0.12](https://github.com/electron/electron/releases/tag/v19.0.12)|2022-08-10||NFUSINGv2|no|16.14.2|102|
-|[v19.0.11](https://github.com/electron/electron/releases/tag/v19.0.11)|2022-08-03|19-x-y|electron|no|16.14.2|102|
+|[v19.0.12](https://github.com/electron/electron/releases/tag/v19.0.12)|2022-08-10|19-x-y|electron|no|16.14.2|102|
+|[v19.0.11](https://github.com/electron/electron/releases/tag/v19.0.11)|2022-08-03||electron|no|16.14.2|102|
 |[v19.0.10](https://github.com/electron/electron/releases/tag/v19.0.10)|2022-07-27||electron|no|16.14.2|102|
 |[v19.0.9](https://github.com/electron/electron/releases/tag/v19.0.9)|2022-07-21||electron|no|16.14.2|102|
 |[v19.0.8](https://github.com/electron/electron/releases/tag/v19.0.8)|2022-07-06||electron|no|16.14.2|102|
@@ -152,8 +152,8 @@
 |[v19.0.0-alpha.3](https://github.com/electron/electron/releases/tag/v19.0.0-alpha.3)|2022-04-18||electron|yes|16.14.2|102|
 |[v19.0.0-alpha.2](https://github.com/electron/electron/releases/tag/v19.0.0-alpha.2)|2022-04-15||electron|yes|16.14.2|102|
 |[v19.0.0-alpha.1](https://github.com/electron/electron/releases/tag/v19.0.0-alpha.1)|2022-03-30||electron|yes|16.14.2|102|
-|[v18.3.8](https://github.com/electron/electron/releases/tag/v18.3.8)|2022-08-10||NFUSINGv2|no|16.13.2|100|
-|[v18.3.7](https://github.com/electron/electron/releases/tag/v18.3.7)|2022-08-03|18-x-y|electron|no|16.13.2|100|
+|[v18.3.8](https://github.com/electron/electron/releases/tag/v18.3.8)|2022-08-10|18-x-y|electron|no|16.13.2|100|
+|[v18.3.7](https://github.com/electron/electron/releases/tag/v18.3.7)|2022-08-03||electron|no|16.13.2|100|
 |[v18.3.6](https://github.com/electron/electron/releases/tag/v18.3.6)|2022-07-28||electron|no|16.13.2|100|
 |[v18.3.5](https://github.com/electron/electron/releases/tag/v18.3.5)|2022-06-22||electron|no|16.13.2|100|
 |[v18.3.4](https://github.com/electron/electron/releases/tag/v18.3.4)|2022-06-15||electron|no|16.13.2|100|
