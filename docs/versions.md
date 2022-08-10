@@ -104,6 +104,7 @@
 |[v20.0.0-alpha.3](https://github.com/electron/electron/releases/tag/v20.0.0-alpha.3)|2022-06-06||electron|yes|16.15.0|104|
 |[v20.0.0-alpha.2](https://github.com/electron/electron/releases/tag/v20.0.0-alpha.2)|2022-06-03||electron|yes|16.15.0|104|
 |[v20.0.0-alpha.1](https://github.com/electron/electron/releases/tag/v20.0.0-alpha.1)|2022-05-25||electron|yes|16.15.0|103|
+|[v19.0.12](https://github.com/electron/electron/releases/tag/v19.0.12)|2022-08-10||NFUSINGv2|no|16.14.2|102|
 |[v19.0.11](https://github.com/electron/electron/releases/tag/v19.0.11)|2022-08-03|19-x-y|electron|no|16.14.2|102|
 |[v19.0.10](https://github.com/electron/electron/releases/tag/v19.0.10)|2022-07-27||electron|no|16.14.2|102|
 |[v19.0.9](https://github.com/electron/electron/releases/tag/v19.0.9)|2022-07-21||electron|no|16.14.2|102|
