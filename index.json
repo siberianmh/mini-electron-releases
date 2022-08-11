@@ -9987,6 +9987,25 @@
     ]
   },
   {
+    "node_id": "RE_kwDOAI8xS84C87hZ",
+    "tag_name": "v15.0.0-beta.6",
+    "name": "electron v15.0.0-beta.6",
+    "prerelease": true,
+    "published_at": "2021-09-15T00:07:39Z",
+    "version": "15.0.0-beta.6",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.5.0",
+      "v8": "9.4.146.10-electron.0",
+      "uv": "1.41.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "89",
+      "chrome": "94.0.4606.31"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "RE_kwDOAI8xS84C8tCL",
     "tag_name": "v15.0.0-beta.5",
     "name": "electron v15.0.0-beta.5",
@@ -10586,6 +10605,37 @@
       "openssl": "1.1.1",
       "modules": "89",
       "chrome": "93.0.4577.63"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQ4Njk3MDMw",
+    "tag_name": "v14.0.0",
+    "name": "electron v14.0.0",
+    "prerelease": false,
+    "published_at": "2021-08-30T22:40:47Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/48697030/reactions",
+      "total_count": 3,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 1,
+      "rocket": 2,
+      "eyes": 0
+    },
+    "version": "14.0.0",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "14.17.0",
+      "v8": "9.3.345.16-electron.0",
+      "uv": "1.41.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "89",
+      "chrome": "93.0.4577.58"
     },
     "npm_dist_tags": []
   },
@@ -11826,6 +11876,25 @@
     "prerelease": true,
     "published_at": "2021-05-31T15:32:15Z",
     "version": "14.0.0-beta.2",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "14.17.0",
+      "v8": "9.2.225-electron.0",
+      "uv": "1.41.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "89",
+      "chrome": "92.0.4511.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTQzNjM0MDIx",
+    "tag_name": "v14.0.0-beta.1",
+    "name": "electron v14.0.0-beta.1",
+    "prerelease": true,
+    "published_at": "2021-05-26T21:14:19Z",
+    "version": "14.0.0-beta.1",
     "npm_package_name": "electron",
     "deps": {
       "node": "14.17.0",
@@ -13937,6 +14006,25 @@
     "prerelease": false,
     "published_at": "2021-09-28T11:29:43Z",
     "version": "12.2.0",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "14.16.0",
+      "v8": "8.9.255.25-electron.0",
+      "uv": "1.40.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "87",
+      "chrome": "89.0.4389.128"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "RE_kwDOAI8xS84C-eGv",
+    "tag_name": "v12.1.2",
+    "name": "electron v12.1.2",
+    "prerelease": false,
+    "published_at": "2021-09-20T21:26:41Z",
+    "version": "12.1.2",
     "npm_package_name": "electron",
     "deps": {
       "node": "14.16.0",

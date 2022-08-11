@@ -457,6 +457,7 @@
 |[v15.0.0-nightly.20210528](https://github.com/electron/electron/releases/tag/v15.0.0-nightly.20210528)|2021-05-28||electron-nightly|yes|14.17.0|92|
 |[v15.0.0-nightly.20210527](https://github.com/electron/electron/releases/tag/v15.0.0-nightly.20210527)|2021-05-27||electron-nightly|yes|14.17.0|92|
 |[v15.0.0-beta.7](https://github.com/electron/electron/releases/tag/v15.0.0-beta.7)|2021-09-16|beta-15-x-y|electron|yes|16.5.0|94|
+|[v15.0.0-beta.6](https://github.com/electron/electron/releases/tag/v15.0.0-beta.6)|2021-09-15||electron|yes|16.5.0|94|
 |[v15.0.0-beta.5](https://github.com/electron/electron/releases/tag/v15.0.0-beta.5)|2021-09-13||electron|yes|16.5.0|94|
 |[v15.0.0-beta.4](https://github.com/electron/electron/releases/tag/v15.0.0-beta.4)|2021-09-09||electron|yes|16.5.0|94|
 |[v15.0.0-beta.3](https://github.com/electron/electron/releases/tag/v15.0.0-beta.3)|2021-09-07||electron|yes|16.5.0|94|
@@ -486,6 +487,7 @@
 |[v14.1.0](https://github.com/electron/electron/releases/tag/v14.1.0)|2021-09-30||electron|no|14.17.0|93|
 |[v14.0.2](https://github.com/electron/electron/releases/tag/v14.0.2)|2021-09-29||electron|no|14.17.0|93|
 |[v14.0.1](https://github.com/electron/electron/releases/tag/v14.0.1)|2021-09-13||electron|no|14.17.0|93|
+|[v14.0.0](https://github.com/electron/electron/releases/tag/v14.0.0)|2021-08-30||electron|no|14.17.0|93|
 |[v14.0.0-nightly.20210524](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210524)|2021-05-24||electron-nightly|yes|14.17.0|92|
 |[v14.0.0-nightly.20210523](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210523)|2021-05-24||electron-nightly|yes|14.17.0|92|
 |[v14.0.0-nightly.20210520](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210520)|2021-05-20||electron-nightly|yes|14.17.0|92|
@@ -551,6 +553,7 @@
 |[v14.0.0-beta.5](https://github.com/electron/electron/releases/tag/v14.0.0-beta.5)|2021-06-10||electron|yes|14.17.0|93|
 |[v14.0.0-beta.3](https://github.com/electron/electron/releases/tag/v14.0.0-beta.3)|2021-06-03||electron|yes|14.17.0|92|
 |[v14.0.0-beta.2](https://github.com/electron/electron/releases/tag/v14.0.0-beta.2)|2021-05-31||electron|yes|14.17.0|92|
+|[v14.0.0-beta.1](https://github.com/electron/electron/releases/tag/v14.0.0-beta.1)|2021-05-26||electron|yes|14.17.0|92|
 |[v13.6.9](https://github.com/electron/electron/releases/tag/v13.6.9)|2022-02-01|13-x-y|electron|no|14.16.0|91|
 |[v13.6.8](https://github.com/electron/electron/releases/tag/v13.6.8)|2022-01-26||electron|no|14.16.0|91|
 |[v13.6.7](https://github.com/electron/electron/releases/tag/v13.6.7)|2022-01-12||electron|no|14.16.0|91|
@@ -658,6 +661,7 @@
 |[v12.2.2](https://github.com/electron/electron/releases/tag/v12.2.2)|2021-10-11||electron|no|14.16.0|89|
 |[v12.2.1](https://github.com/electron/electron/releases/tag/v12.2.1)|2021-09-30||electron|no|14.16.0|89|
 |[v12.2.0](https://github.com/electron/electron/releases/tag/v12.2.0)|2021-09-28||electron|no|14.16.0|89|
+|[v12.1.2](https://github.com/electron/electron/releases/tag/v12.1.2)|2021-09-20||electron|no|14.16.0|89|
 |[v12.1.1](https://github.com/electron/electron/releases/tag/v12.1.1)|2021-09-13||electron|no|14.16.0|89|
 |[v12.1.0](https://github.com/electron/electron/releases/tag/v12.1.0)|2021-08-31||electron|no|14.16.0|89|
 |[v12.0.18](https://github.com/electron/electron/releases/tag/v12.0.18)|2021-08-27||electron|no|14.16.0|89|
