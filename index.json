@@ -1112,6 +1112,28 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84EcuKV",
+    "tag_name": "v20.0.3",
+    "name": "electron v20.0.3",
+    "prerelease": false,
+    "published_at": "2022-08-17T18:59:23Z",
+    "version": "20.0.3",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.15.0",
+      "v8": "10.4.132.20-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.12",
+      "openssl": "1.1.1",
+      "modules": "107",
+      "chrome": "104.0.5112.81"
+    },
+    "npm_dist_tags": [
+      "latest",
+      "20-x-y"
+    ]
+  },
+  {
     "node_id": "RE_kwDOAI8xS84Eau-p",
     "tag_name": "v20.0.2",
     "name": "electron v20.0.2",
@@ -1140,10 +1162,7 @@
       "modules": "107",
       "chrome": "104.0.5112.81"
     },
-    "npm_dist_tags": [
-      "latest",
-      "20-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84EYlfn",
