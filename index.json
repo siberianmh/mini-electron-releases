@@ -1,5 +1,26 @@
 [
   {
+    "node_id": "MDc6UmVsZWFzZTc0NjIwNzk5",
+    "tag_name": "v22.0.0-nightly.20220817",
+    "name": "electron v22.0.0-nightly.20220817",
+    "prerelease": true,
+    "published_at": "2022-08-17T17:09:57Z",
+    "version": "22.0.0-nightly.20220817",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "16.16.0",
+      "v8": "10.5.196-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.12",
+      "openssl": "1.1.1",
+      "modules": "109",
+      "chrome": "105.0.5187.0"
+    },
+    "npm_dist_tags": [
+      "nightly"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTc0NTE0NDA2",
     "tag_name": "v22.0.0-nightly.20220816",
     "name": "electron v22.0.0-nightly.20220816",
@@ -16,9 +37,7 @@
       "modules": "109",
       "chrome": "105.0.5187.0"
     },
-    "npm_dist_tags": [
-      "nightly"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTc0NDI1Njgz",
@@ -1100,13 +1119,13 @@
     "published_at": "2022-08-10T21:00:50Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/74117033/reactions",
-      "total_count": 13,
+      "total_count": 14,
       "+1": 0,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
       "confused": 0,
-      "heart": 7,
+      "heart": 8,
       "rocket": 4,
       "eyes": 2
     },
@@ -1165,8 +1184,8 @@
     "published_at": "2022-08-01T22:19:41Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/73370829/reactions",
-      "total_count": 49,
-      "+1": 25,
+      "total_count": 50,
+      "+1": 26,
       "-1": 0,
       "laugh": 5,
       "hooray": 9,
