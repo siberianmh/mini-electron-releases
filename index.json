@@ -1047,6 +1047,37 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84EeQRo",
+    "tag_name": "v21.0.0-alpha.5",
+    "name": "electron v21.0.0-alpha.5",
+    "prerelease": true,
+    "published_at": "2022-08-23T02:21:20Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/75039848/reactions",
+      "total_count": 2,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 1,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 1,
+      "eyes": 0
+    },
+    "version": "21.0.0-alpha.5",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "16.16.0",
+      "v8": "10.5.196-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.12",
+      "openssl": "1.1.1",
+      "modules": "109",
+      "chrome": "105.0.5187.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "RE_kwDOAI8xS84EdNlA",
     "tag_name": "v21.0.0-alpha.4",
     "name": "electron v21.0.0-alpha.4",
