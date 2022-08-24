@@ -10897,6 +10897,28 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84DCyE3",
+    "tag_name": "v14.1.1",
+    "name": "electron v14.1.1",
+    "prerelease": false,
+    "published_at": "2021-10-08T22:51:55Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/51061047/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "version": "14.1.1",
+    "npm_package_name": "electron",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "RE_kwDOAI8xS84DA9c_",
     "tag_name": "v14.1.0",
     "name": "electron v14.1.0",
