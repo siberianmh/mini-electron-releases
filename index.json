@@ -23313,6 +23313,481 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTE4MzE2ODIy",
+    "tag_name": "v7.0.0-nightly.20190630",
+    "name": "electron v7.0.0-nightly.20190630",
+    "prerelease": true,
+    "published_at": "2019-07-01T02:03:33Z",
+    "version": "7.0.0-nightly.20190630",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE4MzEwNjM3",
+    "tag_name": "v7.0.0-nightly.20190629",
+    "name": "electron v7.0.0-nightly.20190629",
+    "prerelease": true,
+    "published_at": "2019-06-29T17:46:52Z",
+    "version": "7.0.0-nightly.20190629",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE4MjcxMTUz",
+    "tag_name": "v7.0.0-nightly.20190627",
+    "name": "electron v7.0.0-nightly.20190627",
+    "prerelease": true,
+    "published_at": "2019-06-27T18:04:49Z",
+    "version": "7.0.0-nightly.20190627",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE4MTg1NTMy",
+    "tag_name": "v7.0.0-nightly.20190624",
+    "name": "electron v7.0.0-nightly.20190624",
+    "prerelease": true,
+    "published_at": "2019-06-24T20:43:39Z",
+    "version": "7.0.0-nightly.20190624",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE4MTY2OTIw",
+    "tag_name": "v7.0.0-nightly.20190623",
+    "name": "electron v7.0.0-nightly.20190623",
+    "prerelease": true,
+    "published_at": "2019-06-23T23:36:36Z",
+    "version": "7.0.0-nightly.20190623",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE4MTYwNDc0",
+    "tag_name": "v7.0.0-nightly.20190622",
+    "name": "electron v7.0.0-nightly.20190622",
+    "prerelease": true,
+    "published_at": "2019-06-22T21:03:06Z",
+    "version": "7.0.0-nightly.20190622",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE4MDk2NTE5",
+    "tag_name": "v7.0.0-nightly.20190619",
+    "name": "electron v7.0.0-nightly.20190619",
+    "prerelease": true,
+    "published_at": "2019-06-19T18:03:41Z",
+    "version": "7.0.0-nightly.20190619",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE4MDY3Njc4",
+    "tag_name": "v7.0.0-nightly.20190618",
+    "name": "electron v7.0.0-nightly.20190618",
+    "prerelease": true,
+    "published_at": "2019-06-18T18:36:34Z",
+    "version": "7.0.0-nightly.20190618",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE4MDIyODc3",
+    "tag_name": "v7.0.0-nightly.20190616",
+    "name": "electron v7.0.0-nightly.20190616",
+    "prerelease": true,
+    "published_at": "2019-06-16T17:55:54Z",
+    "version": "7.0.0-nightly.20190616",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE4MDE2NTA5",
+    "tag_name": "v7.0.0-nightly.20190615",
+    "name": "electron v7.0.0-nightly.20190615",
+    "prerelease": true,
+    "published_at": "2019-06-15T18:18:08Z",
+    "version": "7.0.0-nightly.20190615",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3OTc1NjU4",
+    "tag_name": "v7.0.0-nightly.20190613",
+    "name": "electron v7.0.0-nightly.20190613",
+    "prerelease": true,
+    "published_at": "2019-06-13T18:56:13Z",
+    "version": "7.0.0-nightly.20190613",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3OTQ2Nzc1",
+    "tag_name": "v7.0.0-nightly.20190612",
+    "name": "electron v7.0.0-nightly.20190612",
+    "prerelease": true,
+    "published_at": "2019-06-12T17:47:05Z",
+    "version": "7.0.0-nightly.20190612",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3OTE4MTgy",
+    "tag_name": "v7.0.0-nightly.20190611",
+    "name": "electron v7.0.0-nightly.20190611",
+    "prerelease": true,
+    "published_at": "2019-06-11T17:45:56Z",
+    "version": "7.0.0-nightly.20190611",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3ODc0MzQ0",
+    "tag_name": "v7.0.0-nightly.20190609",
+    "name": "electron v7.0.0-nightly.20190609",
+    "prerelease": true,
+    "published_at": "2019-06-09T18:14:58Z",
+    "version": "7.0.0-nightly.20190609",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3ODY4NDU4",
+    "tag_name": "v7.0.0-nightly.20190608",
+    "name": "electron v7.0.0-nightly.20190608",
+    "prerelease": true,
+    "published_at": "2019-06-08T20:53:59Z",
+    "version": "7.0.0-nightly.20190608",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3ODU1NjQx",
+    "tag_name": "v7.0.0-nightly.20190607",
+    "name": "electron v7.0.0-nightly.20190607",
+    "prerelease": true,
+    "published_at": "2019-06-07T18:26:57Z",
+    "version": "7.0.0-nightly.20190607",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3ODI5NzU1",
+    "tag_name": "v7.0.0-nightly.20190606",
+    "name": "electron v7.0.0-nightly.20190606",
+    "prerelease": true,
+    "published_at": "2019-06-06T18:00:28Z",
+    "version": "7.0.0-nightly.20190606",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3ODAxNjky",
+    "tag_name": "v7.0.0-nightly.20190605",
+    "name": "electron v7.0.0-nightly.20190605",
+    "prerelease": true,
+    "published_at": "2019-06-05T17:52:51Z",
+    "version": "7.0.0-nightly.20190605",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.13-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3815.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3Nzc0MTg3",
+    "tag_name": "v7.0.0-nightly.20190604",
+    "name": "electron v7.0.0-nightly.20190604",
+    "prerelease": true,
+    "published_at": "2019-06-04T19:08:55Z",
+    "version": "7.0.0-nightly.20190604",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.7.1-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "77.0.3814.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3NzQ3MDkx",
+    "tag_name": "v7.0.0-nightly.20190603",
+    "name": "electron v7.0.0-nightly.20190603",
+    "prerelease": true,
+    "published_at": "2019-06-03T17:46:41Z",
+    "version": "7.0.0-nightly.20190603",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.6.293-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "76.0.3806.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3NzI4OTk1",
+    "tag_name": "v7.0.0-nightly.20190602",
+    "name": "electron v7.0.0-nightly.20190602",
+    "prerelease": true,
+    "published_at": "2019-06-02T17:44:57Z",
+    "version": "7.0.0-nightly.20190602",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.6.293-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "76.0.3806.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3NzA5MTQx",
+    "tag_name": "v7.0.0-nightly.20190531",
+    "name": "electron v7.0.0-nightly.20190531",
+    "prerelease": true,
+    "published_at": "2019-05-31T17:49:02Z",
+    "version": "7.0.0-nightly.20190531",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.6.293-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "76.0.3806.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3Njg0MDg5",
+    "tag_name": "v7.0.0-nightly.20190530",
+    "name": "electron v7.0.0-nightly.20190530",
+    "prerelease": true,
+    "published_at": "2019-05-30T17:47:01Z",
+    "version": "7.0.0-nightly.20190530",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.6.293-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "76.0.3806.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3NjU5NzI3",
+    "tag_name": "v7.0.0-nightly.20190529",
+    "name": "electron v7.0.0-nightly.20190529",
+    "prerelease": true,
+    "published_at": "2019-05-29T18:22:08Z",
+    "version": "7.0.0-nightly.20190529",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.6.293-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "76.0.3806.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE3NDk0MDk4",
+    "tag_name": "v7.0.0-nightly.20190521",
+    "name": "electron v7.0.0-nightly.20190521",
+    "prerelease": true,
+    "published_at": "2019-05-21T21:21:04Z",
+    "version": "7.0.0-nightly.20190521",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.6.82-electron.0",
+      "uv": "1.27.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "73",
+      "chrome": "76.0.3784.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTIwNzE5OTQ0",
     "tag_name": "v7.0.0-beta.7",
     "name": "electron v7.0.0-beta.7",
@@ -23946,6 +24421,63 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTE2MDQxNDA1",
+    "tag_name": "v6.0.0-nightly.20190311",
+    "name": "electron v6.0.0-nightly.20190311",
+    "prerelease": true,
+    "published_at": "2019-03-11T20:39:27Z",
+    "version": "6.0.0-nightly.20190311",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.4.269-electron.0",
+      "uv": "1.24.1",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "68",
+      "chrome": "74.0.3724.8"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE1NTQ1NjUw",
+    "tag_name": "v6.0.0-nightly.20190213",
+    "name": "electron v6.0.0-nightly.20190213",
+    "prerelease": true,
+    "published_at": "2019-02-14T01:01:24Z",
+    "version": "6.0.0-nightly.20190213",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.2.502.25-electron.0",
+      "uv": "1.24.1",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "68",
+      "chrome": "72.0.3626.110"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE1NTE1ODg1",
+    "tag_name": "v6.0.0-nightly.20190212",
+    "name": "electron v6.0.0-nightly.20190212",
+    "prerelease": true,
+    "published_at": "2019-02-12T21:01:44Z",
+    "version": "6.0.0-nightly.20190212",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.2.502.25-electron.0",
+      "uv": "1.24.1",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "68",
+      "chrome": "72.0.3626.107"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTE4NzQyOTY3",
     "tag_name": "v6.0.0-beta.15",
     "name": "electron v6.0.0-beta.15",
@@ -24497,6 +25029,63 @@
       "openssl": "1.1.0",
       "modules": "70",
       "chrome": "73.0.3683.119"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE1MTE1NTQ3",
+    "tag_name": "v5.0.0-nightly.20190122",
+    "name": "electron v5.0.0-nightly.20190122",
+    "prerelease": true,
+    "published_at": "2019-01-22T19:29:34Z",
+    "version": "5.0.0-nightly.20190122",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.1.302.31-electron.0",
+      "uv": "1.24.1",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "68",
+      "chrome": "71.0.3578.98"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE1MDk5MTkw",
+    "tag_name": "v5.0.0-nightly.20190121",
+    "name": "electron v5.0.0-nightly.20190121",
+    "prerelease": true,
+    "published_at": "2019-01-22T16:14:27Z",
+    "version": "5.0.0-nightly.20190121",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "12.0.0",
+      "v8": "7.1.302.31-electron.0",
+      "uv": "1.24.1",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "68",
+      "chrome": "71.0.3578.98"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTE0ODQyOTI3",
+    "tag_name": "v5.0.0-nightly.20190107",
+    "name": "electron v5.0.0-nightly.20190107",
+    "prerelease": true,
+    "published_at": "2019-01-08T00:32:39Z",
+    "version": "5.0.0-nightly.20190107",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "11.0.0",
+      "v8": "7.0.276.40-electron.0",
+      "uv": "1.23.2",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0 \n",
+      "modules": "67",
+      "chrome": "70.0.3538.110"
     },
     "npm_dist_tags": []
   },
@@ -25220,6 +25809,63 @@
       "openssl": "1.1.0",
       "modules": "64",
       "chrome": "69.0.3497.106"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTEzMzUxNDI2",
+    "tag_name": "v4.0.0-nightly.20181010",
+    "name": "electron v4.0.0-nightly.20181010",
+    "prerelease": true,
+    "published_at": "2018-10-10T15:35:05Z",
+    "version": "4.0.0-nightly.20181010",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "10.11.0",
+      "v8": "6.9.427.24",
+      "uv": "1.23.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "64",
+      "chrome": "69.0.3497.106"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTEzMjgxMDc0",
+    "tag_name": "v4.0.0-nightly.20181006",
+    "name": "electron v4.0.0-nightly.20181006",
+    "prerelease": true,
+    "published_at": "2018-10-06T11:25:03Z",
+    "version": "4.0.0-nightly.20181006",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "10.11.0",
+      "v8": "6.8.275.30",
+      "uv": "1.23.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "64",
+      "chrome": "68.0.3440.128"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTEzMTYzNDY3",
+    "tag_name": "v4.0.0-nightly.20180929",
+    "name": "electron v4.0.0-nightly.20180929",
+    "prerelease": true,
+    "published_at": "2018-09-29T14:42:34Z",
+    "version": "4.0.0-nightly.20180929",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "10.6.0",
+      "v8": "6.7.288.46",
+      "uv": "1.21.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0",
+      "modules": "64",
+      "chrome": "67.0.3396.99"
     },
     "npm_dist_tags": []
   },
@@ -26169,6 +26815,25 @@
     "prerelease": false,
     "published_at": "2018-09-18T19:50:21Z",
     "version": "3.0.0",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "10.2.0",
+      "v8": "6.6.346.32",
+      "uv": "1.20.3",
+      "zlib": "1.2.11",
+      "openssl": "1.1.0h",
+      "modules": "64",
+      "chrome": "66.0.3359.181"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTEyNzMxMTU4",
+    "tag_name": "v3.0.0-nightly.20180904",
+    "name": "electron v3.0.0-nightly.20180904",
+    "prerelease": true,
+    "published_at": "2018-09-05T00:59:38Z",
+    "version": "3.0.0-nightly.20180904",
     "npm_package_name": "electron",
     "deps": {
       "node": "10.2.0",
