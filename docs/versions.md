@@ -63,6 +63,7 @@
 |[v21.0.0-nightly.20220530](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220530)|2022-05-30||electron-nightly|yes|16.15.0|103|
 |[v21.0.0-nightly.20220527](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220527)|2022-05-27||electron-nightly|yes|16.15.0|103|
 |[v21.0.0-nightly.20220526](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220526)|2022-05-26||electron-nightly|yes|16.15.0|103|
+|[v21.0.0-beta.1](https://github.com/electron/electron/releases/tag/v21.0.0-beta.1)|2022-08-30|beta, beta-21-x-y|electron|yes|16.16.0|106|
 |[v21.0.0-alpha.6](https://github.com/electron/electron/releases/tag/v21.0.0-alpha.6)|2022-08-30|alpha, alpha-21-x-y|electron|yes|16.16.0|106|
 |[v21.0.0-alpha.5](https://github.com/electron/electron/releases/tag/v21.0.0-alpha.5)|2022-08-23||electron|yes|16.16.0|105|
 |[v21.0.0-alpha.4](https://github.com/electron/electron/releases/tag/v21.0.0-alpha.4)|2022-08-18||electron|yes|16.16.0|105|
@@ -103,7 +104,7 @@
 |[v20.0.0-nightly.20220414](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220414)|2022-04-15||electron-nightly|yes|16.14.2|102|
 |[v20.0.0-nightly.20220411](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220411)|2022-04-11||electron-nightly|yes|16.14.2|102|
 |[v20.0.0-nightly.20220330](https://github.com/electron/electron/releases/tag/v20.0.0-nightly.20220330)|2022-03-30||electron-nightly|yes|16.14.2|102|
-|[v20.0.0-beta.13](https://github.com/electron/electron/releases/tag/v20.0.0-beta.13)|2022-07-28|beta, beta-20-x-y|electron|yes|16.15.0|104|
+|[v20.0.0-beta.13](https://github.com/electron/electron/releases/tag/v20.0.0-beta.13)|2022-07-28|beta-20-x-y|electron|yes|16.15.0|104|
 |[v20.0.0-beta.12](https://github.com/electron/electron/releases/tag/v20.0.0-beta.12)|2022-07-25||electron|yes|16.15.0|104|
 |[v20.0.0-beta.11](https://github.com/electron/electron/releases/tag/v20.0.0-beta.11)|2022-07-21||electron|yes|16.15.0|104|
 |[v20.0.0-beta.10](https://github.com/electron/electron/releases/tag/v20.0.0-beta.10)|2022-07-18||electron|yes|16.15.0|104|
