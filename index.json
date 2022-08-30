@@ -32132,6 +32132,76 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "MDc6UmVsZWFzZTExMTgzMQ==",
+    "tag_name": "v0.7.4",
+    "name": "atom-shell v0.7.4",
+    "prerelease": false,
+    "published_at": "2013-12-04T14:26:10Z",
+    "version": "0.7.4",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTEwNzE0OA==",
+    "tag_name": "v0.7.3",
+    "name": "atom-shell v0.7.3",
+    "prerelease": false,
+    "published_at": "2013-11-29T08:35:55Z",
+    "version": "0.7.3",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTEwNjUxOA==",
+    "tag_name": "v0.7.2",
+    "name": "atom-shell v0.7.2",
+    "prerelease": false,
+    "published_at": "2013-11-28T13:12:57Z",
+    "version": "0.7.2",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTEwNjA2MA==",
+    "tag_name": "v0.7.1",
+    "name": "atom-shell v0.7.1",
+    "prerelease": false,
+    "published_at": "2013-11-28T02:07:03Z",
+    "version": "0.7.1",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTEwNTA4Mg==",
+    "tag_name": "v0.7.0",
+    "name": "atom-shell v0.7.0",
+    "prerelease": false,
+    "published_at": "2013-11-27T08:23:46Z",
+    "version": "0.7.0",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTEwMDUzMA==",
+    "tag_name": "v0.6.12",
+    "name": "atom-shell v0.6.12",
+    "prerelease": false,
+    "published_at": "2013-11-22T08:12:24Z",
+    "version": "0.6.12",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "MDc6UmVsZWFzZTk4NzM3",
+    "tag_name": "v0.6.11",
+    "name": "atom-shell v0.6.11",
+    "prerelease": false,
+    "published_at": "2013-11-20T15:22:57Z",
+    "version": "0.6.11",
+    "npm_package_name": "electron-prebuilt",
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTkwMzA1",
     "tag_name": "v0.6.10",
     "name": "atom-shell v0.6.10",
