@@ -3,8 +3,8 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
-|[v22.0.0-nightly.20220901](https://github.com/electron/electron/releases/tag/v22.0.0-nightly.20220901)|2022-09-01||NFUSINGv2|yes|16.17.0|106|
-|[v22.0.0-nightly.20220831](https://github.com/electron/electron/releases/tag/v22.0.0-nightly.20220831)|2022-08-31|nightly|electron-nightly|yes|16.17.0|106|
+|[v22.0.0-nightly.20220901](https://github.com/electron/electron/releases/tag/v22.0.0-nightly.20220901)|2022-09-01|nightly|electron-nightly|yes|16.17.0|106|
+|[v22.0.0-nightly.20220831](https://github.com/electron/electron/releases/tag/v22.0.0-nightly.20220831)|2022-08-31||electron-nightly|yes|16.17.0|106|
 |[v22.0.0-nightly.20220830](https://github.com/electron/electron/releases/tag/v22.0.0-nightly.20220830)|2022-08-30||electron-nightly|yes|16.17.0|106|
 |[v22.0.0-nightly.20220829](https://github.com/electron/electron/releases/tag/v22.0.0-nightly.20220829)|2022-08-29||electron-nightly|yes|16.16.0|106|
 |[v22.0.0-nightly.20220825](https://github.com/electron/electron/releases/tag/v22.0.0-nightly.20220825)|2022-08-26||electron-nightly|yes|16.16.0|106|
@@ -65,8 +65,8 @@
 |[v21.0.0-nightly.20220530](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220530)|2022-05-30||electron-nightly|yes|16.15.0|103|
 |[v21.0.0-nightly.20220527](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220527)|2022-05-27||electron-nightly|yes|16.15.0|103|
 |[v21.0.0-nightly.20220526](https://github.com/electron/electron/releases/tag/v21.0.0-nightly.20220526)|2022-05-26||electron-nightly|yes|16.15.0|103|
-|[v21.0.0-beta.2](https://github.com/electron/electron/releases/tag/v21.0.0-beta.2)|2022-09-01||NFUSINGv2|yes|16.16.0|106|
-|[v21.0.0-beta.1](https://github.com/electron/electron/releases/tag/v21.0.0-beta.1)|2022-08-30|beta, beta-21-x-y|electron|yes|16.16.0|106|
+|[v21.0.0-beta.2](https://github.com/electron/electron/releases/tag/v21.0.0-beta.2)|2022-09-01|beta, beta-21-x-y|electron|yes|16.16.0|106|
+|[v21.0.0-beta.1](https://github.com/electron/electron/releases/tag/v21.0.0-beta.1)|2022-08-30||electron|yes|16.16.0|106|
 |[v21.0.0-alpha.6](https://github.com/electron/electron/releases/tag/v21.0.0-alpha.6)|2022-08-30|alpha, alpha-21-x-y|electron|yes|16.16.0|106|
 |[v21.0.0-alpha.5](https://github.com/electron/electron/releases/tag/v21.0.0-alpha.5)|2022-08-23||electron|yes|16.16.0|105|
 |[v21.0.0-alpha.4](https://github.com/electron/electron/releases/tag/v21.0.0-alpha.4)|2022-08-18||electron|yes|16.16.0|105|
