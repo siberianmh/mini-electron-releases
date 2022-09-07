@@ -1218,6 +1218,28 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84EjjPp",
+    "tag_name": "v21.0.0-beta.3",
+    "name": "electron v21.0.0-beta.3",
+    "prerelease": true,
+    "published_at": "2022-09-07T00:34:08Z",
+    "version": "21.0.0-beta.3",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.16.0",
+      "v8": "10.6.82-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.12",
+      "openssl": "1.1.1",
+      "modules": "109",
+      "chrome": "106.0.5216.0"
+    },
+    "npm_dist_tags": [
+      "beta",
+      "beta-21-x-y"
+    ]
+  },
+  {
     "node_id": "RE_kwDOAI8xS84EiB3M",
     "tag_name": "v21.0.0-beta.2",
     "name": "electron v21.0.0-beta.2",
@@ -1246,10 +1268,7 @@
       "modules": "109",
       "chrome": "106.0.5216.0"
     },
-    "npm_dist_tags": [
-      "beta",
-      "beta-21-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84EhK9N",
@@ -1625,13 +1644,13 @@
     "published_at": "2022-08-01T22:19:41Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/73370829/reactions",
-      "total_count": 50,
-      "+1": 26,
+      "total_count": 52,
+      "+1": 27,
       "-1": 0,
       "laugh": 5,
       "hooray": 9,
       "confused": 0,
-      "heart": 4,
+      "heart": 5,
       "rocket": 6,
       "eyes": 0
     },
