@@ -1535,7 +1535,7 @@
     "prerelease": false,
     "published_at": "2022-09-08T22:05:03Z",
     "version": "20.1.3",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron",
     "deps": {
       "node": "16.15.0",
       "v8": "10.4.132.23-electron.0",
@@ -1545,7 +1545,10 @@
       "modules": "107",
       "chrome": "104.0.5112.114"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "latest",
+      "20-x-y"
+    ]
   },
   {
     "node_id": "RE_kwDOAI8xS84Ej1qI",
@@ -1576,10 +1579,7 @@
       "modules": "107",
       "chrome": "104.0.5112.114"
     },
-    "npm_dist_tags": [
-      "latest",
-      "20-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84Ehj9j",
@@ -4231,7 +4231,7 @@
     "prerelease": false,
     "published_at": "2022-09-08T22:05:19Z",
     "version": "18.3.12",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron",
     "deps": {
       "node": "16.13.2",
       "v8": "10.0.139.18-electron.0",
@@ -4241,7 +4241,9 @@
       "modules": "103",
       "chrome": "100.0.4896.160"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "18-x-y"
+    ]
   },
   {
     "node_id": "RE_kwDOAI8xS84Ehj8x",
@@ -4272,9 +4274,7 @@
       "modules": "103",
       "chrome": "100.0.4896.160"
     },
-    "npm_dist_tags": [
-      "18-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84EcuNU",

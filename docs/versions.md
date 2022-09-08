@@ -78,8 +78,8 @@
 |[v21.0.0-alpha.3](https://github.com/electron/electron/releases/tag/v21.0.0-alpha.3)|2022-08-15||electron|yes|16.16.0|105|
 |[v21.0.0-alpha.2](https://github.com/electron/electron/releases/tag/v21.0.0-alpha.2)|2022-08-11||electron|yes|16.16.0|105|
 |[v21.0.0-alpha.1](https://github.com/electron/electron/releases/tag/v21.0.0-alpha.1)|2022-08-03||electron|yes|16.16.0|105|
-|[v20.1.3](https://github.com/electron/electron/releases/tag/v20.1.3)|2022-09-08||NFUSINGv2|no|16.15.0|104|
-|[v20.1.2](https://github.com/electron/electron/releases/tag/v20.1.2)|2022-09-07|latest, 20-x-y|electron|no|16.15.0|104|
+|[v20.1.3](https://github.com/electron/electron/releases/tag/v20.1.3)|2022-09-08|latest, 20-x-y|electron|no|16.15.0|104|
+|[v20.1.2](https://github.com/electron/electron/releases/tag/v20.1.2)|2022-09-07||electron|no|16.15.0|104|
 |[v20.1.1](https://github.com/electron/electron/releases/tag/v20.1.1)|2022-08-31||electron|no|16.15.0|104|
 |[v20.1.0](https://github.com/electron/electron/releases/tag/v20.1.0)|2022-08-24||electron|no|16.15.0|104|
 |[v20.0.3](https://github.com/electron/electron/releases/tag/v20.0.3)|2022-08-17||electron|no|16.15.0|104|
@@ -187,8 +187,8 @@
 |[v19.0.0-alpha.3](https://github.com/electron/electron/releases/tag/v19.0.0-alpha.3)|2022-04-18||electron|yes|16.14.2|102|
 |[v19.0.0-alpha.2](https://github.com/electron/electron/releases/tag/v19.0.0-alpha.2)|2022-04-15||electron|yes|16.14.2|102|
 |[v19.0.0-alpha.1](https://github.com/electron/electron/releases/tag/v19.0.0-alpha.1)|2022-03-30||electron|yes|16.14.2|102|
-|[v18.3.12](https://github.com/electron/electron/releases/tag/v18.3.12)|2022-09-08||NFUSINGv2|no|16.13.2|100|
-|[v18.3.11](https://github.com/electron/electron/releases/tag/v18.3.11)|2022-08-31|18-x-y|electron|no|16.13.2|100|
+|[v18.3.12](https://github.com/electron/electron/releases/tag/v18.3.12)|2022-09-08|18-x-y|electron|no|16.13.2|100|
+|[v18.3.11](https://github.com/electron/electron/releases/tag/v18.3.11)|2022-08-31||electron|no|16.13.2|100|
 |[v18.3.9](https://github.com/electron/electron/releases/tag/v18.3.9)|2022-08-17||electron|no|16.13.2|100|
 |[v18.3.8](https://github.com/electron/electron/releases/tag/v18.3.8)|2022-08-10||electron|no|16.13.2|100|
 |[v18.3.7](https://github.com/electron/electron/releases/tag/v18.3.7)|2022-08-03||electron|no|16.13.2|100|
