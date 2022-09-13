@@ -3,7 +3,8 @@
 <!-- START RELEASES TABLE -->
 |Tag|Published|npm|npm_package_name|Prerelease|Node|Chrome|
 |----|----|----|----|----|----|----|
-|[v22.0.0-nightly.20220912](https://github.com/electron/electron/releases/tag/v22.0.0-nightly.20220912)|2022-09-12|nightly|electron-nightly|yes|16.17.0|107|
+|[v22.0.0-nightly.20220913](https://github.com/electron/electron/releases/tag/v22.0.0-nightly.20220913)|2022-09-13|nightly|electron-nightly|yes|16.17.0|107|
+|[v22.0.0-nightly.20220912](https://github.com/electron/electron/releases/tag/v22.0.0-nightly.20220912)|2022-09-12||electron-nightly|yes|16.17.0|107|
 |[v22.0.0-nightly.20220909](https://github.com/electron/electron/releases/tag/v22.0.0-nightly.20220909)|2022-09-09||electron-nightly|yes|16.17.0|107|
 |[v22.0.0-nightly.20220908](https://github.com/electron/electron/releases/tag/v22.0.0-nightly.20220908)|2022-09-08||electron-nightly|yes|16.17.0|107|
 |[v22.0.0-nightly.20220905](https://github.com/electron/electron/releases/tag/v22.0.0-nightly.20220905)|2022-09-05||electron-nightly|yes|16.17.0|106|
@@ -537,7 +538,6 @@
 |[v14.0.0-nightly.20210514](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210514)|2021-05-14||electron-nightly|yes|14.16.1|92|
 |[v14.0.0-nightly.20210513](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210513)|2021-05-13||electron-nightly|yes|14.16.1|92|
 |[v14.0.0-nightly.20210512](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210512)|2021-05-12||electron-nightly|yes|14.16.1|92|
-|[v14.0.0-nightly.20210512](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210512)|2021-05-12||electron-nightly|yes|||
 |[v14.0.0-nightly.20210511](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210511)|2021-05-11||electron-nightly|yes|14.16.1|92|
 |[v14.0.0-nightly.20210510](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210510)|2021-05-10||electron-nightly|yes|14.16.1|92|
 |[v14.0.0-nightly.20210507](https://github.com/electron/electron/releases/tag/v14.0.0-nightly.20210507)|2021-05-07||electron-nightly|yes|14.16.1|92|
