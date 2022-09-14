@@ -1,5 +1,26 @@
 [
   {
+    "node_id": "MDc6UmVsZWFzZTc3MTMyMzg1",
+    "tag_name": "v22.0.0-nightly.20220914",
+    "name": "electron v22.0.0-nightly.20220914",
+    "prerelease": true,
+    "published_at": "2022-09-14T16:33:18Z",
+    "version": "22.0.0-nightly.20220914",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "16.17.0",
+      "v8": "10.7.122-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.12.1-motley",
+      "openssl": "1.1.1",
+      "modules": "109",
+      "chrome": "107.0.5286.0"
+    },
+    "npm_dist_tags": [
+      "nightly"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTc3MDA0MDI0",
     "tag_name": "v22.0.0-nightly.20220913",
     "name": "electron v22.0.0-nightly.20220913",
@@ -16,9 +37,7 @@
       "modules": "109",
       "chrome": "107.0.5286.0"
     },
-    "npm_dist_tags": [
-      "nightly"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTc2ODkxNDQ4",
@@ -7885,37 +7904,6 @@
     "npm_dist_tags": []
   },
   {
-    "node_id": "RE_kwDOAI8xS84D6WhD",
-    "tag_name": "v16.2.4",
-    "name": "electron v16.2.4",
-    "prerelease": false,
-    "published_at": "2022-04-28T23:43:57Z",
-    "reactions": {
-      "url": "https://api.github.com/repos/electron/electron/releases/65628227/reactions",
-      "total_count": 1,
-      "+1": 0,
-      "-1": 0,
-      "laugh": 0,
-      "hooray": 0,
-      "confused": 0,
-      "heart": 1,
-      "rocket": 0,
-      "eyes": 0
-    },
-    "version": "16.2.4",
-    "npm_package_name": "electron",
-    "deps": {
-      "node": "16.9.1",
-      "v8": "9.6.180.23-electron.0",
-      "uv": "1.42.0",
-      "zlib": "1.2.11",
-      "openssl": "1.1.1",
-      "modules": "99",
-      "chrome": "96.0.4664.174"
-    },
-    "npm_dist_tags": []
-  },
-  {
     "node_id": "RE_kwDOAI8xS84D3azz",
     "tag_name": "v16.2.3",
     "name": "electron v16.2.3",
@@ -13013,6 +13001,16 @@
       "modules": "89",
       "chrome": "91.0.4472.164"
     },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "RE_kwDOAI8xS84DHDmM",
+    "tag_name": "v13.6.1",
+    "name": "electron v13.6.1",
+    "prerelease": false,
+    "published_at": "2021-10-28T00:22:53Z",
+    "version": "13.6.1",
+    "npm_package_name": "electron",
     "npm_dist_tags": []
   },
   {
