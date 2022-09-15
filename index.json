@@ -32544,16 +32544,6 @@
     "npm_dist_tags": []
   },
   {
-    "node_id": "MDc6UmVsZWFzZTE4ODcxNQ==",
-    "tag_name": "v0.9.3",
-    "name": "atom-shell v0.9.3",
-    "prerelease": false,
-    "published_at": "2014-02-17T10:57:46Z",
-    "version": "0.9.3",
-    "npm_package_name": "electron-prebuilt",
-    "npm_dist_tags": []
-  },
-  {
     "node_id": "MDc6UmVsZWFzZTE4Mjk0OA==",
     "tag_name": "v0.9.2",
     "name": "atom-shell v0.9.2",
