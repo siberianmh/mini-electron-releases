@@ -4477,6 +4477,39 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84D43Ua",
+    "tag_name": "v19.0.0-alpha.5",
+    "name": "electron v19.0.0-alpha.5",
+    "prerelease": true,
+    "published_at": "2022-04-25T17:36:09Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/65238298/reactions",
+      "total_count": 25,
+      "+1": 9,
+      "-1": 0,
+      "laugh": 5,
+      "hooray": 8,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 3,
+      "eyes": 0
+    },
+    "version": "19.0.0-alpha.5",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.14.2",
+      "v8": "10.2.82-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "106",
+      "chrome": "102.0.4989.0"
+    },
+    "npm_dist_tags": [
+      "alpha-19-x-y"
+    ]
+  },
+  {
     "node_id": "RE_kwDOAI8xS84D39zf",
     "tag_name": "v19.0.0-alpha.4",
     "name": "electron v19.0.0-alpha.4",
@@ -5046,6 +5079,37 @@
     },
     "version": "18.2.2",
     "npm_package_name": "electron",
+    "deps": {
+      "node": "16.13.2",
+      "v8": "10.0.139.17-electron.0",
+      "uv": "1.42.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "103",
+      "chrome": "100.0.4896.143"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "RE_kwDOAI8xS84D75yh",
+    "tag_name": "v18.2.1",
+    "name": "electron v18.2.1",
+    "prerelease": false,
+    "published_at": "2022-05-04T20:51:44Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/66034849/reactions",
+      "total_count": 11,
+      "+1": 10,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 1
+    },
+    "version": "18.2.1",
+    "npm_package_name": "NFUSINGv2",
     "deps": {
       "node": "16.13.2",
       "v8": "10.0.139.17-electron.0",
@@ -8161,6 +8225,37 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84D75zv",
+    "tag_name": "v16.2.5",
+    "name": "electron v16.2.5",
+    "prerelease": false,
+    "published_at": "2022-05-04T17:40:57Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/66034927/reactions",
+      "total_count": 1,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 1,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "version": "16.2.5",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.9.1",
+      "v8": "9.6.180.23-electron.0",
+      "uv": "1.42.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "99",
+      "chrome": "96.0.4664.174"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "RE_kwDOAI8xS84D6WhD",
     "tag_name": "v16.2.4",
     "name": "electron v16.2.4",
@@ -9547,30 +9642,6 @@
     ]
   },
   {
-    "node_id": "RE_kwDOAI8xS84DK0iB",
-    "tag_name": "v16.0.0-beta.9",
-    "name": "electron v16.0.0-beta.9",
-    "prerelease": true,
-    "published_at": "2021-11-11T15:19:57Z",
-    "reactions": {
-      "url": "https://api.github.com/repos/electron/electron/releases/53168257/reactions",
-      "total_count": 1,
-      "+1": 1,
-      "-1": 0,
-      "laugh": 0,
-      "hooray": 0,
-      "confused": 0,
-      "heart": 0,
-      "rocket": 0,
-      "eyes": 0
-    },
-    "version": "16.0.0-beta.9",
-    "npm_package_name": "electron",
-    "npm_dist_tags": [
-      "beta-16-x-y"
-    ]
-  },
-  {
     "node_id": "RE_kwDOAI8xS84DJ36w",
     "tag_name": "v16.0.0-beta.8",
     "name": "electron v16.0.0-beta.8",
@@ -9587,16 +9658,6 @@
       "modules": "99",
       "chrome": "96.0.4664.35"
     },
-    "npm_dist_tags": []
-  },
-  {
-    "node_id": "RE_kwDOAI8xS84DJ36w",
-    "tag_name": "v16.0.0-beta.8",
-    "name": "electron v16.0.0-beta.8",
-    "prerelease": true,
-    "published_at": "2021-11-08T15:33:01Z",
-    "version": "16.0.0-beta.8",
-    "npm_package_name": "electron",
     "npm_dist_tags": []
   },
   {
@@ -9977,6 +10038,56 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84D751o",
+    "tag_name": "v15.5.4",
+    "name": "electron v15.5.4",
+    "prerelease": false,
+    "published_at": "2022-05-04T19:29:18Z",
+    "version": "15.5.4",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.5.0",
+      "v8": "9.4.146.22-electron.0",
+      "uv": "1.41.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "98",
+      "chrome": "94.0.4606.81"
+    },
+    "npm_dist_tags": []
+  },
+  {
+    "node_id": "RE_kwDOAI8xS84D6sjL",
+    "tag_name": "v15.5.3",
+    "name": "electron v15.5.3",
+    "prerelease": false,
+    "published_at": "2022-04-30T00:14:16Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/65718475/reactions",
+      "total_count": 17,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 4,
+      "hooray": 6,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 7,
+      "eyes": 0
+    },
+    "version": "15.5.3",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.5.0",
+      "v8": "9.4.146.22-electron.0",
+      "uv": "1.41.0",
+      "zlib": "1.2.11",
+      "openssl": "1.1.1",
+      "modules": "98",
+      "chrome": "94.0.4606.81"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "RE_kwDOAI8xS84DzPPV",
     "tag_name": "v15.5.2",
     "name": "electron v15.5.2",
@@ -10269,16 +10380,6 @@
       "modules": "98",
       "chrome": "94.0.4606.81"
     },
-    "npm_dist_tags": []
-  },
-  {
-    "node_id": "RE_kwDOAI8xS84DJ8_Z",
-    "tag_name": "v15.3.1",
-    "name": "electron v15.3.1",
-    "prerelease": false,
-    "published_at": "2021-11-08T19:29:07Z",
-    "version": "15.3.1",
-    "npm_package_name": "electron",
     "npm_dist_tags": []
   },
   {
@@ -11742,16 +11843,6 @@
       "modules": "97",
       "chrome": "93.0.4577.82"
     },
-    "npm_dist_tags": []
-  },
-  {
-    "node_id": "RE_kwDOAI8xS84DJ-La",
-    "tag_name": "v14.2.1",
-    "name": "electron v14.2.1",
-    "prerelease": false,
-    "published_at": "2021-11-08T22:16:11Z",
-    "version": "14.2.1",
-    "npm_package_name": "electron",
     "npm_dist_tags": []
   },
   {
@@ -15210,18 +15301,6 @@
       "modules": "87",
       "chrome": "89.0.4389.128"
     },
-    "npm_dist_tags": [
-      "12-x-y"
-    ]
-  },
-  {
-    "node_id": "RE_kwDOAI8xS84DLwFm",
-    "tag_name": "v12.2.3",
-    "name": "electron v12.2.3",
-    "prerelease": false,
-    "published_at": "2021-11-15T21:31:05Z",
-    "version": "12.2.3",
-    "npm_package_name": "electron",
     "npm_dist_tags": [
       "12-x-y"
     ]
