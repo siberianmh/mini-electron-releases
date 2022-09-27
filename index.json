@@ -598,15 +598,15 @@
     "published_at": "2022-09-26T21:35:45Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/78173101/reactions",
-      "total_count": 9,
-      "+1": 2,
+      "total_count": 15,
+      "+1": 3,
       "-1": 0,
-      "laugh": 0,
-      "hooray": 4,
+      "laugh": 1,
+      "hooray": 5,
       "confused": 0,
-      "heart": 1,
-      "rocket": 2,
-      "eyes": 0
+      "heart": 2,
+      "rocket": 3,
+      "eyes": 1
     },
     "version": "21.0.0",
     "npm_package_name": "electron",
@@ -32810,26 +32810,6 @@
     "prerelease": false,
     "published_at": "2014-03-11T14:12:10Z",
     "version": "0.10.7",
-    "npm_package_name": "electron-prebuilt",
-    "npm_dist_tags": []
-  },
-  {
-    "node_id": "MDc6UmVsZWFzZTIxNDAxNQ==",
-    "tag_name": "v0.10.6",
-    "name": "atom-shell v0.10.6",
-    "prerelease": false,
-    "published_at": "2014-03-07T13:42:12Z",
-    "version": "0.10.6",
-    "npm_package_name": "electron-prebuilt",
-    "npm_dist_tags": []
-  },
-  {
-    "node_id": "MDc6UmVsZWFzZTIxMDY3Mg==",
-    "tag_name": "v0.10.5",
-    "name": "atom-shell v0.10.5",
-    "prerelease": false,
-    "published_at": "2014-03-05T14:10:07Z",
-    "version": "0.10.5",
     "npm_package_name": "electron-prebuilt",
     "npm_dist_tags": []
   },
