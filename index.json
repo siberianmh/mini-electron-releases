@@ -2076,6 +2076,39 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84EtpAB",
+    "tag_name": "v20.3.1",
+    "name": "electron v20.3.1",
+    "prerelease": false,
+    "published_at": "2022-10-05T19:09:20Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/79073281/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "version": "20.3.1",
+    "npm_package_name": "electron",
+    "deps": {
+      "node": "16.15.0",
+      "v8": "10.4.132.24-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.12.1-motley",
+      "openssl": "1.1.1",
+      "modules": "107",
+      "chrome": "104.0.5112.124"
+    },
+    "npm_dist_tags": [
+      "20-x-y"
+    ]
+  },
+  {
     "node_id": "RE_kwDOAI8xS84ErTaW",
     "tag_name": "v20.3.0",
     "name": "electron v20.3.0",
@@ -2092,9 +2125,7 @@
       "modules": "107",
       "chrome": "104.0.5112.124"
     },
-    "npm_dist_tags": [
-      "20-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84Eo24m",
@@ -3540,7 +3571,7 @@
     "prerelease": false,
     "published_at": "2022-10-05T19:01:47Z",
     "version": "19.1.2",
-    "npm_package_name": "NFUSINGv2",
+    "npm_package_name": "electron",
     "deps": {
       "node": "16.14.2",
       "v8": "10.2.154.15-electron.0",
@@ -3550,7 +3581,9 @@
       "modules": "106",
       "chrome": "102.0.5005.167"
     },
-    "npm_dist_tags": []
+    "npm_dist_tags": [
+      "19-x-y"
+    ]
   },
   {
     "node_id": "RE_kwDOAI8xS84ErTbC",
@@ -3569,9 +3602,7 @@
       "modules": "106",
       "chrome": "102.0.5005.167"
     },
-    "npm_dist_tags": [
-      "19-x-y"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "RE_kwDOAI8xS84Epnkl",
