@@ -1,5 +1,26 @@
 [
   {
+    "node_id": "MDc6UmVsZWFzZTc5NTMxMDQx",
+    "tag_name": "v23.0.0-nightly.20221011",
+    "name": "electron v23.0.0-nightly.20221011",
+    "prerelease": true,
+    "published_at": "2022-10-11T16:13:57Z",
+    "version": "23.0.0-nightly.20221011",
+    "npm_package_name": "electron-nightly",
+    "deps": {
+      "node": "16.17.1",
+      "v8": "10.8.79-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.12.1-motley",
+      "openssl": "1.1.1",
+      "modules": "110",
+      "chrome": "108.0.5329.0"
+    },
+    "npm_dist_tags": [
+      "nightly"
+    ]
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTc5NDcxNjUw",
     "tag_name": "v23.0.0-nightly.20221010",
     "name": "electron v23.0.0-nightly.20221010",
@@ -16,9 +37,7 @@
       "modules": "110",
       "chrome": "108.0.5329.0"
     },
-    "npm_dist_tags": [
-      "nightly"
-    ]
+    "npm_dist_tags": []
   },
   {
     "node_id": "MDc6UmVsZWFzZTc5MjY4ODQ5",
@@ -906,8 +925,8 @@
     "published_at": "2022-09-26T21:35:45Z",
     "reactions": {
       "url": "https://api.github.com/repos/electron/electron/releases/78173101/reactions",
-      "total_count": 38,
-      "+1": 9,
+      "total_count": 39,
+      "+1": 10,
       "-1": 0,
       "laugh": 4,
       "hooray": 12,
