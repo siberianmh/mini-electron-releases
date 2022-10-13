@@ -1,5 +1,24 @@
 [
   {
+    "node_id": "MDc6UmVsZWFzZTc5Nzg2NDQ5",
+    "tag_name": "v23.0.0-nightly.20221013",
+    "name": "electron v23.0.0-nightly.20221013",
+    "prerelease": true,
+    "published_at": "2022-10-13T17:50:02Z",
+    "version": "23.0.0-nightly.20221013",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "16.17.1",
+      "v8": "10.8.79-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.12.1-motley",
+      "openssl": "1.1.1",
+      "modules": "110",
+      "chrome": "108.0.5329.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "MDc6UmVsZWFzZTc5NjQ0Njc4",
     "tag_name": "v23.0.0-nightly.20221012",
     "name": "electron v23.0.0-nightly.20221012",
@@ -819,6 +838,25 @@
     "npm_dist_tags": []
   },
   {
+    "node_id": "RE_kwDOAI8xS84EwWwJ",
+    "tag_name": "v22.0.0-alpha.5",
+    "name": "electron v22.0.0-alpha.5",
+    "prerelease": true,
+    "published_at": "2022-10-13T17:56:26Z",
+    "version": "22.0.0-alpha.5",
+    "npm_package_name": "NFUSINGv2",
+    "deps": {
+      "node": "16.17.1",
+      "v8": "10.8.79-electron.0",
+      "uv": "1.43.0",
+      "zlib": "1.2.12.1-motley",
+      "openssl": "1.1.1",
+      "modules": "110",
+      "chrome": "108.0.5329.0"
+    },
+    "npm_dist_tags": []
+  },
+  {
     "node_id": "RE_kwDOAI8xS84EveZv",
     "tag_name": "v22.0.0-alpha.4",
     "name": "electron v22.0.0-alpha.4",
@@ -908,6 +946,18 @@
     "name": "electron v21.1.1",
     "prerelease": false,
     "published_at": "2022-10-12T19:41:48Z",
+    "reactions": {
+      "url": "https://api.github.com/repos/electron/electron/releases/79663506/reactions",
+      "total_count": 1,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 1,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
     "version": "21.1.1",
     "npm_package_name": "electron",
     "deps": {
